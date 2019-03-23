@@ -146,3 +146,12 @@ ID,Server,Channel,Content Length,Content
 559004601131597824,MINECRAFT,bot-commands,24,_play gargantua cuebrick
 559004786519703553,MINECRAFT,bot-commands,6,_queue
 559005553112776707,MINECRAFT,bot-commands,3,_np
+559006539164286996,MINECRAFT,bot-commands,6,_queue
+559006571653496832,MINECRAFT,bot-commands,9,_move 3 1
+559006599633567744,MINECRAFT,bot-commands,5,_help
+559006666650157057,MINECRAFT,bot-commands,10,_help move
+559006749236002816,MINECRAFT,bot-commands,35,Aw gnar doesn't have a move command
+559006788096229387,MINECRAFT,bot-commands,16,Wait a second...
+559006825735913474,MINECRAFT,bot-commands,13,_move bedrock
+559006852646567937,MINECRAFT,bot-commands,13,Just testing.
+559006898674860063,MINECRAFT,bot-commands,24,_move 302497320006713344
