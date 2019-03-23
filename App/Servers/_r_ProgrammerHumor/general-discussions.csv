@@ -180,3 +180,13 @@ ID,Author,Content Length,Content
 558839374780039173,Abdul,84,So once I finish the class I just use a website for sorting by length and copy paste
 558859353709477898,emccue,47,I don't see why sorting by length is a priority
 558859420625403905,emccue,71,though I am sure you can configure the autoformatter somehow to do that
+558865051235385344,Abdul,31,Totally not a priority just OCD
+558865064699101195,Abdul,28,<:monkaS:524684619027578901>
+558865476953047040,Abdul,112,<@242066553183404032> Just wondering for arrays is it considered a better practice to keep the var names plural?
+558865550445510669,Abdul,36,Or I guess it depends on language's?
+558867670787817473,emccue,99,For me_ when i name a collection of things it usually ends up that using plural describes it better
+558867728166027287,emccue,41,but it all depends on what you are naming
+558867793882120212,emccue,53,i wouldnt make a collection of cats and call it `cat`
+558867812219617283,emccue,20,thats just confusing
+558867981711704064,emccue,47,but if you are keeping some messages in a queue
+558868150750543893,emccue,131,`messageQueue` works as a name since having the word queue implies both the direction data flows and the idea of possible plurality

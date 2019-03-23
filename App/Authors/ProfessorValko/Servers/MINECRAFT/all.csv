@@ -99,3 +99,17 @@ ID,Channel,Content Length,Content
 558848723250184203,minecraft,57,<@422523101797154827> What would you like to change it o?
 558849196015484949,minecraft,54,Minecraft has been on Sony for years. PS3_ PsVita_ PS4
 558849263065628682,minecraft,21,That wall of text tho
+558860340335738901,multiplayer,10,?purge 300
+558860613607227421,minecraft,58,?mute <@421112223587500032> 15m offtopic spam in minecraft
+558864801925693460,minecraft,43,<@558857592982601728> <#302987265229979649>
+558864963607986176,support,85,<@558857592982601728> Are the iPad on the same Wi-Fi or connecting over the internet?
+558865042498519040,support,17,Yes to which one?
+558865101336084481,support,43,same Wi-Fi OR connecting over the internet?
+558865272765808663,support,92,Does the host player have LAN enabled? World Settings → Multiplayer → Visible to LAN Players
+558865537476853772,support,188,Friends of Friends is for XBL over the internet. Hmm… So it seems like it's actually trying to connect over Xbox Live instead of LAN. See if it works if you both sign out of your accounts.
+558866030722547718,minecraft,48,PS4 isn't abandoned. It's still getting updates.
+558866191129509888,support,99,<@558857592982601728> Are you both using the same version and sure the host player has LAN enabled?
+558867099267760138,support,314,Well_ usually when you are signed into an XBL account_ the game tries to connect that way. So you might need to port forward in your router for XBL. Ports to open: <https://support.xbox.com/en-US/xbox-one/networking/network-ports-used-xbox-live>NLNLI'm not sure why it's not working over LAN even when not signed in.
+558867263222972469,minecraft,61,<@265686355944800257> If they're both Microsoft Accounts_ no.
+558867446208135178,minecraft,122,<@265686355944800257> Technically_ yes. Just switch the accounts in Google Play (but use the same MS account in the game).
+558868264533360641,support,175,There should be an option at the bottom of the site to switch the site to your region/language. The ports are the same though for console and mobile (they both use Xbox Live).

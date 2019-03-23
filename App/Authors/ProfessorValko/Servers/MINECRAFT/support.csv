@@ -8,3 +8,11 @@ ID,Content Length,Content
 558847577064341515,151,<@339883917530365953> What device do you play on? and what does the logo on the main menu say (just "Minecraft" or does it have an "edition" subtitle)?
 558847905591590912,89,The `manifest.json` file isn't formatted correctly. Did you make the pack or download it?
 558848018472763395,76,Try <#305834249913892864> and post a screenshot or the text of your manifest
+558864963607986176,85,<@558857592982601728> Are the iPad on the same Wi-Fi or connecting over the internet?
+558865042498519040,17,Yes to which one?
+558865101336084481,43,same Wi-Fi OR connecting over the internet?
+558865272765808663,92,Does the host player have LAN enabled? World Settings → Multiplayer → Visible to LAN Players
+558865537476853772,188,Friends of Friends is for XBL over the internet. Hmm… So it seems like it's actually trying to connect over Xbox Live instead of LAN. See if it works if you both sign out of your accounts.
+558866191129509888,99,<@558857592982601728> Are you both using the same version and sure the host player has LAN enabled?
+558867099267760138,314,Well_ usually when you are signed into an XBL account_ the game tries to connect that way. So you might need to port forward in your router for XBL. Ports to open: <https://support.xbox.com/en-US/xbox-one/networking/network-ports-used-xbox-live>NLNLI'm not sure why it's not working over LAN even when not signed in.
+558868264533360641,175,There should be an option at the bottom of the site to switch the site to your region/language. The ports are the same though for console and mobile (they both use Xbox Live).

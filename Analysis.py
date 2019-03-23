@@ -11,7 +11,7 @@ class Analysis(object):
         self.logger = _setup("Analysis_%s" % file.split('App\\')[-1].replace("\\", "_"))
         # The methods debug, info, warning, error, critical, and exception are assigned to the class instead of
         # having to be called through self.logger.x
-        self.exc = self.logger.exception # most used
+        self.exc = self.logger.exception  # most used
         self.debug = self.logger.debug
         self.info = self.logger.info
         self.warning = self.logger.warning

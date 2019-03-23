@@ -354,3 +354,45 @@ ID,Author,Content Length,Content
 558857944985370624,yes.,21,guys I need some help
 558858117459476480,{ᏝᏬᏒᏦᏕ},418,here's the out of beta guide_ if you're in itNLXbox One_ Windows 10NL1. Xbox Insider Hub → Insider Content → Minecraft → Manage → UnenrollNL2. Uninstall MinecraftNL3. Wait for the system to process the unenrollment (approx. 20 minutes_ up to several hours)NL4. Restart deviceNL- Windows 10: Restart PCNL- Xbox One: Power cycle console https://support.xbox.com/en-US/xbox-one/console/power-cycle-consoleNL5. Reinstall Minecraft
 558858204814114857,yes.,2,ok
+558862738517000202,Not I.R.A.,29,Hey I need help with my realm
+558862961385668637,Not I.R.A.,129,I bought it yesterday night and it still says that its not available and they will make it when they can but it's been over a day
+558863647108235264,{ᏝᏬᏒᏦᏕ},81,don't think we can really do much to make it work_ you'll have to contact mojang😬
+558863821117325322,Not I.R.A.,37,I tried to but they haven't responded
+558864963607986176,ProfessorValko,85,<@558857592982601728> Are the iPad on the same Wi-Fi or connecting over the internet?
+558865016066146327,1NKLING,3,Yes
+558865042498519040,ProfessorValko,17,Yes to which one?
+558865066087415823,1NKLING,1,?
+558865101336084481,ProfessorValko,43,same Wi-Fi OR connecting over the internet?
+558865134563360783,1NKLING,9,Same WiFi
+558865167161622560,1NKLING,6,Is LAN
+558865272765808663,ProfessorValko,92,Does the host player have LAN enabled? World Settings → Multiplayer → Visible to LAN Players
+558865274863091732,1NKLING,33,Since update aquatic I can’t play
+558865275332722716,MEE6,62,Hey <@!558857592982601728>_ you just advanced to **level 2** !
+558865296769941504,1NKLING,3,Yes
+558865336955306012,1NKLING,26,Friends of friends is also
+558865537476853772,ProfessorValko,188,Friends of Friends is for XBL over the internet. Hmm… So it seems like it's actually trying to connect over Xbox Live instead of LAN. See if it works if you both sign out of your accounts.
+558865595332821013,1NKLING,2,Ok
+558865614157119520,1NKLING,13,Wait a minute
+558865884446457857,1NKLING,42,It doesn’t appear friends connected in LAN
+558865987504570405,1NKLING,44,I think that the iOS version haves something
+558866010145292289,Snowy,262,(this is in 1.13.2 java version and i have no mods loaded) whenever i try to go into a realm server for minecraft it either doesnt let me in an says 'disconnected' or lets me in for like 3 seconds and then says 'disconnected' anyone got ideas on how to fix this?
+558866191129509888,ProfessorValko,99,<@558857592982601728> Are you both using the same version and sure the host player has LAN enabled?
+558866320020733973,Snowy,121,we are both using the same version and im pretty sure he has LAN enabled also it was working yesterday but just not today
+558866387209027598,1NKLING,8,1.1.0.0?
+558866553525764122,Snowy,6,1.13.2
+558866636631834655,1NKLING,24,The bedrock says 1.1.0.0
+558866834586337281,Snowy,149,just for some more information the host is my brother (we are on the same wifi) he also cant connect to the realm and he is on the same version as me
+558866900264681474,Snowy,39,but my friends can connect to the realm
+558867099267760138,ProfessorValko,314,Well_ usually when you are signed into an XBL account_ the game tries to connect that way. So you might need to port forward in your router for XBL. Ports to open: <https://support.xbox.com/en-US/xbox-one/networking/network-ports-used-xbox-live>NLNLI'm not sure why it's not working over LAN even when not signed in.
+558867236845256714,1NKLING,12,Sorry but...
+558867292998467594,1NKLING,45,I think it would be the Latin-America website
+558867330709454858,1NKLING,23,Or some stuff like that
+558867623782252555,1NKLING,2,Oh
+558867657806446592,1NKLING,5,I see
+558867693092995075,1NKLING,23,I’m checking that stuff
+558867750047449090,1NKLING,29,<:mcsheep:302439127322722314>
+558867973838864395,1NKLING,9,Is mobile
+558868018197692420,1NKLING,15,Not console btw
+558868264533360641,ProfessorValko,175,There should be an option at the bottom of the site to switch the site to your region/language. The ports are the same though for console and mobile (they both use Xbox Live).
+558868352920059905,1NKLING,2,Ok
+558868448244138005,1NKLING,45,What you think is the error in here basically

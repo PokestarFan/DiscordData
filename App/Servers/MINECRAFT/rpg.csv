@@ -823,3 +823,53 @@ ID,Author,Content Length,Content
 558860911423520798,GAP2of4,19,/gbsearch rock salt
 558860914019794965,DiscordRPG,172,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Rock Salt (15G each) {ID. jt25vy6m} [21_989 bought] >NL#===============================================#```
 558860940263686174,DiscordRPG,33,Query timed out after 15 seconds.
+558860990297407488,GAP2of4,19,/gbsell jt25vy6m 11
+558860991920734228,DiscordRPG,64,GAP2of4 executed trade `jt25vy6m` (11 Rock Salt at 15 gold each)
+558861004574818306,DiscordRPG,33,Query timed out after 60 seconds.
+558861018051117079,GAP2of4,13,/gbsearch log
+558861021083729941,DiscordRPG,449,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 50_000 Logs (70G each) {ID. jtk15m7h} [11_957 bought] >NL< 20_000 Logs (55G each) {ID. jtjb2kya} [4_716 bought] >NL< 12_670 Logs (53G each) {ID. jtikz3z7} [1_401 bought] >NL< 200_000 Logs (52G each) {ID. jte8k7vw} [1 bought] >NL< 30_000 Logs (33G each) {ID. jtd4v033} [1_998 bought] >NL< 250_000 Logs (51G each) {ID. jsvf17x9} [6_684 bought] >NL#===============================================#```
+558861048447500289,DiscordRPG,33,Query timed out after 60 seconds.
+558861086460215296,GAP2of4,19,/gbsell jtk15m7h 11
+558861087676563481,DiscordRPG,37,You need to rest_ GAP2of4 (2 seconds)
+558861144022974481,GAP2of4,19,/gbsell jtk15m7h 11
+558861145537249290,DiscordRPG,59,GAP2of4 executed trade `jtk15m7h` (11 Logs at 70 gold each)
+558861155137749005,GAP2of4,4,/inv
+558861156526063616,DiscordRPG,225,```diffNL!===== [GAP2of4's Inventory (Page 1/1)] =====!NL+ 5_092 Gold.NL+ 13 x Health PotionsNL+ 1 x Small DaggerNL+ 4 x RocksNL+ 4 x Iron OresNL+ 1 x LogNL+ 1 x Rock SaltNL+ 1 x LemonNL!============================================!```
+558861175287447573,DiscordRPG,33,Query timed out after 60 seconds.
+558861192127447051,GAP2of4,5,/shop
+558861205037514752,GAP2of4,6,/items
+558861206467772427,DiscordRPG,575,```diffNL!=====[ Items (Page 1/51) ]=====!NL+ Health Potion - 5 Gold {Lvl. 1}NL- Greater Health Potion - 10 Gold {Lvl. 5}NL- Grapes - 15 Gold {Lvl. 5}NL- Mushroom - 30 Gold {Lvl. 8}NL- Cherry - 40 Gold {Lvl. 6}NL- Healing Nectar - 40 Gold {Lvl. 3}NL- Even Greater Health Potion - 50 Gold {Lvl. 8}NL- Carrot - 60 Gold {Lvl. 5}NL- Apple - 80 Gold {Lvl. 10}NL- Banana - 90 Gold {Lvl. 10}NL- Enhancing Stone - 100 Gold {Lvl. 10}NL+ Iron Sword - 100 Gold {Lvl. 2}NL- Wheat - 100 Gold {Lvl. 5}NL+ Milk - 200 Gold {Lvl. 1}NL- Freshwater Fish - 200 Gold {Lvl. 4}NL!===============================!```
+558861226386391050,DiscordRPG,33,Query timed out after 15 seconds.
+558861282170765324,DiscordRPG,33,Query timed out after 60 seconds.
+558861418686971945,GAP2of4,4,/inv
+558861420104646658,DiscordRPG,225,```diffNL!===== [GAP2of4's Inventory (Page 1/1)] =====!NL+ 5_092 Gold.NL+ 13 x Health PotionsNL+ 1 x Small DaggerNL+ 4 x RocksNL+ 4 x Iron OresNL+ 1 x LogNL+ 1 x Rock SaltNL+ 1 x LemonNL!============================================!```
+558861472747487250,GAP2of4,6,/stats
+558861473896595457,DiscordRPG,421,```diffNL!======== [GAP2of4's Stats] ========!NL+ Health: 65/100HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: Red VisorNL+ Chestplate: Leather Belt | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 2 | (139/150 XP)NL+ 5_092 GoldNL+ Slain 0 times. Killed 18 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!===================================!```
+558861490107711510,DiscordRPG,33,Query timed out after 15 seconds.
+558861577873522729,DiscordRPG,33,Query timed out after 60 seconds.
+558861592704450560,GAP2of4,4,/adv
+558861594440761344,DiscordRPG,321,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Mitchel took 2 HP Damage.NL- Mitchel has 4/50 HP leftNL+ GAP2of4 has 61/100 HP left.NL+ The enemy Zerp has 68/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558861614720483329,GAP2of4,6,/pheal
+558861616238690305,DiscordRPG,65,GAP2of4 used a Health Potion and healed their pet 46HP. (50/50HP)
+558861801689972756,GAP2of4,4,/adv
+558861803279482910,DiscordRPG,322,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 48/50 HP leftNL+ GAP2of4 has 57/100 HP left.NL+ The enemy Zerp has 65/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558862123933892630,Kreeperking646,4,/adv
+558862125192314880,DiscordRPG,44,Kreeperking646_ please get your stats first.
+558862134407200778,GAP2of4,4,/adv
+558862136193974282,DiscordRPG,322,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 46/50 HP leftNL+ GAP2of4 has 54/100 HP left.NL+ The enemy Zerp has 61/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558862214681853960,GAP2of4,4,/adv
+558862216493793295,DiscordRPG,322,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Mitchel took 1 HP Damage.NL+ Mitchel has 45/50 HP leftNL+ GAP2of4 has 51/100 HP left.NL+ The enemy Zerp has 56/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558862301202087936,GAP2of4,4,/adv
+558862302716362753,DiscordRPG,322,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 4 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 43/50 HP leftNL+ GAP2of4 has 47/100 HP left.NL+ The enemy Zerp has 52/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558862315081170947,GAP2of4,5,/heal
+558862316926533671,DiscordRPG,53,GAP2of4 used a Health Potion and got 50HP. (97/100HP)
+558862437932204052,GAP2of4,4,/adv
+558862439496548372,DiscordRPG,322,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 4 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 41/50 HP leftNL+ GAP2of4 has 93/100 HP left.NL+ The enemy Zerp has 48/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558862514637766666,GAP2of4,4,/adv
+558862516168425478,DiscordRPG,322,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 39/50 HP leftNL+ GAP2of4 has 89/100 HP left.NL+ The enemy Zerp has 45/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558862766677557258,GAP2of4,4,/adv
+558862768095232012,DiscordRPG,338,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 1NL+ Critical hit!NL- Lost 5 HP.NL+ Dealt 4 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 37/50 HP leftNL+ GAP2of4 has 84/100 HP left.NL+ The enemy Zerp has 41/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558866998432628736,VibronicSine319,5,/mine
+558867000630444042,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558869496694046720,VibronicSine319,5,/mine
+558869498183024660,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 4 XP and 2 skill XP while mining.

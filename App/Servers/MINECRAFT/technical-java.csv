@@ -444,3 +444,51 @@ ID,Author,Content Length,Content
 558858300104638484,󠂪󠂪󠂪󠂪󠂪󠂪,51,Guys have they stopped updating Java after aquatic?
 558858405251514388,{ᏝᏬᏒᏦᏕ},18,no_ 1.14 is coming
 558858431646400514,󠂪󠂪󠂪󠂪󠂪󠂪,1,o
+558864397662158858,Snowy,249,(this is in 1.13.2 and i have no mods loaded) whenever i try to go into a realm server for minecraft it either doesnt let me in an says 'disconnected' or lets me in for like 3 seconds and then says 'disconnected' anyone got ideas on how to fix this?
+558864700608217090,{ᏝᏬᏒᏦᏕ},26,have u tried other server?
+558864804345806848,Snowy,103,i dont have any other realm servers but yes i have tried other multiplayer servers and they have worked
+558864846150565908,Snowy,46,also i was able to play on the realm yesterday
+558864868187570177,Snowy,28,but today it stopped working
+558864921669140480,Snowy,52,and my friends can join the realm aswell just not me
+558864941881491463,{ᏝᏬᏒᏦᏕ},27,is the payment still going?
+558864973879574561,{ᏝᏬᏒᏦᏕ},18,oh forget that bit
+558865102879850527,Snowy,112,i also have pretty bad internet (20kb a second) and ive restarted the router twice and my computer and minecraft
+558865286493896714,{ᏝᏬᏒᏦᏕ},64,oh god that is awful speed_ not sure what the minimum require is
+558865371998978048,Snowy,70,it was the same as that yesterday though_ its just really confusing me
+558865716321714206,{ᏝᏬᏒᏦᏕ},93,head over to <#302987265229979649> _ wonder if valko can help u too_ not sure what to suggest
+558865856910852105,Snowy,11,okay thanks
+558865857443266561,MEE6,62,Hey <@!311749909160132608>_ you just advanced to **level 1** !
+558868329784279040,connoredmo,139,i need help setting up permisions for my server_ ive triead super hard toget it working to get /home and /warp and silk spawners on a group
+558868366987624449,connoredmo,36,if anyone can help please lemme know
+558868387242180608,1hn,12,what version
+558868391042089000,1hn,5,is it
+558868404140769281,connoredmo,6,1.13.2
+558868428841025547,1hn,2,oh
+558868440564367390,1hn,18,i work with 1.12.2
+558868450064334859,1hn,27,but i might be able to help
+558868517496291329,connoredmo,30,were using permisionsX or pex.
+558868536823644162,1hn,2,ok
+558868545971290172,1hn,18,whats the problem?
+558868844425379842,connoredmo,301,basically we are trying to set it up so everyone can break a spawner with a silk pic and get the /warp spawn and /sethome setup. we put in the pex but now only opped people can do anything :/ im trying to add them to a group we made called member but it isnt working /pex group <group> user add (name)
+558868922359873545,1hn,2,ok
+558868944648273930,1hn,25,so you said 1.13.2 right?
+558868956237004810,connoredmo,3,yea
+558869014441492502,1hn,68,so do you have the plugin where u can break spawners with silk pics?
+558869052613722125,connoredmo,3,yea
+558869100999475231,1hn,40,also did u make the member rank default?
+558869181655941174,1hn,94,if its not default_ then if a new player joins_ staff will manually have to give them the rank
+558869275092320267,1hn,121,also when you're adding permissions_ dont do pex group member add /warp.NLinstead_ do pex group member add essentials.warp
+558869321351168021,1hn,40,you need to know the name of the command
+558869333875359746,1hn,25,so that pex can recognize
+558869374618828800,1hn,64,so for /warp you need to do pex group member add essentials.warp
+558869439362367489,connoredmo,84,idk how to make it default im new to this but for the past few weeks ive been trying
+558869440410943498,MEE6,62,Hey <@!293544780011667457>_ you just advanced to **level 1** !
+558869445422874624,1hn,86,and for sethome you should add essentials.sethome_ essentials.home_ essentials_delhome
+558869468214984705,1hn,2,ok
+558869488569810944,1hn,21,so ru in your server?
+558869515815878705,connoredmo,3,YEA
+558869525471297572,connoredmo,10,woops caps
+558869538071117824,connoredmo,14,sorry yea i am
+558869573500272650,1hn,2,ok
+558869574897106945,1hn,5,1 sec
+558869656677646341,1hn,36,do pex set default group member true

@@ -1,0 +1,23 @@
+ID,Content Length,Content
+558868387242180608,12,what version
+558868391042089000,5,is it
+558868428841025547,2,oh
+558868440564367390,18,i work with 1.12.2
+558868450064334859,27,but i might be able to help
+558868536823644162,2,ok
+558868545971290172,18,whats the problem?
+558868922359873545,2,ok
+558868944648273930,25,so you said 1.13.2 right?
+558869014441492502,68,so do you have the plugin where u can break spawners with silk pics?
+558869100999475231,40,also did u make the member rank default?
+558869181655941174,94,if its not default_ then if a new player joins_ staff will manually have to give them the rank
+558869275092320267,121,also when you're adding permissions_ dont do pex group member add /warp.NLinstead_ do pex group member add essentials.warp
+558869321351168021,40,you need to know the name of the command
+558869333875359746,25,so that pex can recognize
+558869374618828800,64,so for /warp you need to do pex group member add essentials.warp
+558869445422874624,86,and for sethome you should add essentials.sethome_ essentials.home_ essentials_delhome
+558869468214984705,2,ok
+558869488569810944,21,so ru in your server?
+558869573500272650,2,ok
+558869574897106945,5,1 sec
+558869656677646341,36,do pex set default group member true

@@ -1,0 +1,25 @@
+ID,Channel,Content Length,Content
+558867899503345675,minecraft,2,hi
+558868086116057099,minecraft,58,any minecraft players who live in asia wanna play with me?
+558868387242180608,technical-java,12,what version
+558868391042089000,technical-java,5,is it
+558868428841025547,technical-java,2,oh
+558868440564367390,technical-java,18,i work with 1.12.2
+558868450064334859,technical-java,27,but i might be able to help
+558868536823644162,technical-java,2,ok
+558868545971290172,technical-java,18,whats the problem?
+558868922359873545,technical-java,2,ok
+558868944648273930,technical-java,25,so you said 1.13.2 right?
+558869014441492502,technical-java,68,so do you have the plugin where u can break spawners with silk pics?
+558869100999475231,technical-java,40,also did u make the member rank default?
+558869181655941174,technical-java,94,if its not default_ then if a new player joins_ staff will manually have to give them the rank
+558869275092320267,technical-java,121,also when you're adding permissions_ dont do pex group member add /warp.NLinstead_ do pex group member add essentials.warp
+558869321351168021,technical-java,40,you need to know the name of the command
+558869333875359746,technical-java,25,so that pex can recognize
+558869374618828800,technical-java,64,so for /warp you need to do pex group member add essentials.warp
+558869445422874624,technical-java,86,and for sethome you should add essentials.sethome_ essentials.home_ essentials_delhome
+558869468214984705,technical-java,2,ok
+558869488569810944,technical-java,21,so ru in your server?
+558869573500272650,technical-java,2,ok
+558869574897106945,technical-java,5,1 sec
+558869656677646341,technical-java,36,do pex set default group member true

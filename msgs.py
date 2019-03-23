@@ -8,7 +8,7 @@ from colorlog import ColoredFormatter  # used for logging
 from login import email, password
 
 
-def _setup(name='PokestarBot', dir = None):
+def _setup(name='PokestarBot', dir=None):
     if dir is not None:
         os.chdir(dir)
     log_format = "[%(log_color)s%(asctime)s%(reset)s] {%(log_color)s%(pathname)s:%(lineno)d%(reset)s} | " \
@@ -57,6 +57,7 @@ def chmkdir(name, lgr=None):
         multmkdir(name, lgr)
     except FileExistsError:
         pass
+
 
 if __name__ == '__main__':
     chmkdir("Servers")
