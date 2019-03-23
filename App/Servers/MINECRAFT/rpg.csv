@@ -1328,3 +1328,18 @@ ID,Author,Content Length,Content
 559107136802783233,DiscordRPG,390,```diffNL!========[ _                           _'s Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ _                           _ has 41/50 HP left.NL+ The enemy Oglurth has 30/40 HP left.NL!==============================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
 559107185674551306,_                           _,12,/adventure 2
 559107187666845706,DiscordRPG,64,Recovering _                           _'s stamina in 2 seconds.
+559107205723455529,_                           _,12,/adventure 2
+559107207820607488,DiscordRPG,390,```diffNL!========[ _                           _'s Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ _                           _ has 39/50 HP left.NL+ The enemy Oglurth has 27/40 HP left.NL!==============================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+559107229949886501,_                           _,6,/pheal
+559107232000638988,DiscordRPG,87,_                           _ tried to heal their pet_ but it's already on full health.
+559107268981948426,_                           _,12,/adventure 2
+559107273990078472,DiscordRPG,390,```diffNL!========[ _                           _'s Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ _                           _ has 38/50 HP left.NL+ The enemy Oglurth has 22/40 HP left.NL!==============================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+559107319145955338,_                           _,12,/adventure 2
+559107320894980096,DiscordRPG,59,You need to rest_ _                           _ (2 seconds)
+559107344567369758,_                           _,12,/adventure 2
+559107346803064833,DiscordRPG,390,```diffNL!========[ _                           _'s Adventure ]========!NL% Rolled a 2NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ _                           _ has 36/50 HP left.NL+ The enemy Oglurth has 20/40 HP left.NL!==============================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+559107381578170368,_                           _,12,/adventure 2
+559107382764896257,DiscordRPG,59,You need to rest_ _                           _ (5 seconds)
+559107933783326722,-_-,6,/stats
+559107935280693248,DiscordRPG,391,```diffNL!======== [-_-'s Stats] ========!NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!===============================!```
+559107945288433674,_                           _,12,/adventure 2
