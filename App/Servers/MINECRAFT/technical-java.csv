@@ -617,3 +617,16 @@ ID,Author,Content Length,Content
 559110623552602150,Gapbro,61,well I used it for silly crap like summoning pigs with sticks
 559110666359799808,Gapbro,22,or testing for players
 559110682990215168,Gapbro,16,and making traps
+559110768037986326,tryashtar,84,The problem with testfor is it doesn't tell you who was found_ just that someone was
+559110786933588008,tryashtar,42,So you can't target them in later commands
+559110856353251330,tryashtar,32,In some cases that's fine though
+559110865597628476,Gapbro,64,wait so when I throw something I'm pretty sure it loses that tag
+559110899097403392,Gapbro,37,its only a tag when its in the hotbar
+559110991468560545,tryashtar,91,Yeah_ the NBT will stay as an item_ but not transfer to the snowball entity to my knowledge
+559111026792988676,Gapbro,5,right
+559111067335393280,Gapbro,48,and I want my *thrown* snowball to summon arrows
+559111088797384717,Gapbro,32,I know I can summon it with like
+559111185392336978,Gapbro,42,```/summon snowball ~ ~ ~ {tag=arrower}```
+559111187506397238,MEE6,62,Hey <@!404360475757903882>_ you just advanced to **level 4** !
+559111250387271691,tryashtar,7,Mm yeah
+559111259925250048,tryashtar,30,Let me check something in-game

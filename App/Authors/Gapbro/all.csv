@@ -40,3 +40,9 @@ ID,Server,Channel,Content Length,Content
 559110623552602150,MINECRAFT,technical-java,61,well I used it for silly crap like summoning pigs with sticks
 559110666359799808,MINECRAFT,technical-java,22,or testing for players
 559110682990215168,MINECRAFT,technical-java,16,and making traps
+559110865597628476,MINECRAFT,technical-java,64,wait so when I throw something I'm pretty sure it loses that tag
+559110899097403392,MINECRAFT,technical-java,37,its only a tag when its in the hotbar
+559111026792988676,MINECRAFT,technical-java,5,right
+559111067335393280,MINECRAFT,technical-java,48,and I want my *thrown* snowball to summon arrows
+559111088797384717,MINECRAFT,technical-java,32,I know I can summon it with like
+559111185392336978,MINECRAFT,technical-java,42,```/summon snowball ~ ~ ~ {tag=arrower}```
