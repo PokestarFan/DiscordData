@@ -35,3 +35,4 @@ ID,Channel,Content Length,Content
 558769399650189344,technical-bedrock,67,And cobblestone has a name of `cobblestone` and a data value of `0`
 558769680152657968,technical-bedrock,125,If you wanted to test for just *any* data value of a block name (like just test for any wool_ no matter what color)_ use `-1`
 558769780484603925,technical-bedrock,70,<@298966770382012427> Did the font go "small" while you typed it? Oof.
+558993372996698112,bedrock-store-feedback,294,<@353574730005086209> better suited channel: <#305834249913892864> and it is possible with 3rd-party tools. Direct NBT access is denied because of the potential lock-ups that could happen on devices where making backups isn't easy … and once again <#305834249913892864>  is where for the topic.
