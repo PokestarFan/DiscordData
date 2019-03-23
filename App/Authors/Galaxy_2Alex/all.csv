@@ -62,3 +62,7 @@ ID,Server,Channel,Content Length,Content
 559070427977220127,MINECRAFT,support,46,<@272513006460469260> Don't set _JAVA_OPTIONS!
 559070485032206337,MINECRAFT,support,34,Not for Memory assuignment_ never.
 559070571413897227,MINECRAFT,support,91,<@272513006460469260> JVM Arguments in the launcher_ or as part of the server startup file.
+559070837504999424,MINECRAFT,support,40,<@272513006460469260> No_ don't do that.
+559070915938353172,MINECRAFT,support,71,<@272513006460469260> That will run _any_ Java program with 4GB or RAM.
+559070961455071252,MINECRAFT,support,41,<@272513006460469260> No_ just delete it.
+559071083605786635,MINECRAFT,support,147,<@272513006460469260> It will mess up a lot of other things. Do it in the launcher with JVM arguments_ or as part of the server starting .bat file.
