@@ -1,2 +1,10 @@
 ID,Server,Channel,Content Length,Content
 558790144140771328,MINECRAFT,beta-n-bugs,40,https://bugs.mojang.com/browse/MC-138444
+559110043526627356,MINECRAFT,technical-java,41,It just adds that tag to pufferfish items
+559110167401332746,MINECRAFT,technical-java,31,If you changed it correctly yes
+559110198547972106,MINECRAFT,technical-java,26,Throwing with right-click?
+559110222300446735,MINECRAFT,technical-java,2,No
+559110245192826890,MINECRAFT,technical-java,30,What tag are you doing anyhow?
+559110392874401832,MINECRAFT,technical-java,70,Then can't you just doNL`execute at @e[type=snowball] run summon arrow`
+559110553725960192,MINECRAFT,technical-java,36,What did you use it for in the past?
+559110583459250194,MINECRAFT,technical-java,48,Even in 1.12 there were better ways to do things

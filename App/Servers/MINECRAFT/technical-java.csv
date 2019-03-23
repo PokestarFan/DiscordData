@@ -594,3 +594,26 @@ ID,Author,Content Length,Content
 559107205115150348,Dogsteeves,20,I need redstone help
 559107222412460036,Dogsteeves,0,
 559107234966142986,Gapbro,11,use youtube
+559109900962234522,Gapbro,151,<@137432458319757312> wait how do I actually use that code_  put it in a command block_ is it supposed to give an item or do I need a comparater output
+559110043526627356,tryashtar,41,It just adds that tag to pufferfish items
+559110083770843136,Gapbro,46,right I changed around the things I needed too
+559110120596963330,Gapbro,28,okay so If I drop a snowball
+559110133896970241,Gapbro,19,it will at that tag
+559110167401332746,tryashtar,31,If you changed it correctly yes
+559110173701177374,Gapbro,37,does that account for throwing aswell
+559110198547972106,tryashtar,26,Throwing with right-click?
+559110211806429194,Gapbro,3,yes
+559110222300446735,tryashtar,2,No
+559110245192826890,tryashtar,30,What tag are you doing anyhow?
+559110275010134017,Gapbro,26,arrower is what I named it
+559110304395689995,Gapbro,36,I want a snowball that throws arrows
+559110315065868352,Gapbro,22,but not every snowball
+559110392874401832,tryashtar,70,Then can't you just doNL`execute at @e[type=snowball] run summon arrow`
+559110437786877965,Gapbro,16,oooooooooooooooh
+559110469369987093,Gapbro,63,yeah that sounds right_ sorry Im still used to the new commands
+559110480053010453,Gapbro,14,I miss testfor
+559110553725960192,tryashtar,36,What did you use it for in the past?
+559110583459250194,tryashtar,48,Even in 1.12 there were better ways to do things
+559110623552602150,Gapbro,61,well I used it for silly crap like summoning pigs with sticks
+559110666359799808,Gapbro,22,or testing for players
+559110682990215168,Gapbro,16,and making traps
