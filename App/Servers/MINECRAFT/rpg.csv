@@ -1,0 +1,825 @@
+ID,Author,Content Length,Content
+558108896653213727,assassinpop25,6,!start
+558108932992925727,assassinpop25,7,#!stats
+558109247406080012,assassinpop25,6,/stats
+558109248978944000,DiscordRPG,541,```diffNL!======== [assassinpop25's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!=========================================!```
+558109269489090606,assassinpop25,4,/adv
+558109270974136350,DiscordRPG,340,```diffNL!========[ assassinpop25's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ assassinpop25 has 48/50 HP left.NL+ The enemy Kloid has 37/40 HP left.NL!==============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558109316478009344,assassinpop25,6,/adv 2
+558109317375721473,DiscordRPG,53,You're too tired to do that assassinpop25 (3 seconds)
+558109352913797131,assassinpop25,6,/adv 2
+558109354843176967,DiscordRPG,340,```diffNL!========[ assassinpop25's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ assassinpop25 has 46/50 HP left.NL+ The enemy Kloid has 35/40 HP left.NL!==============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558110365704257552,PLAYE3_ERROR,6,!start
+558110484797325332,PLAYE3_ERROR,6,/ mine
+558110495144542215,PLAYE3_ERROR,5,/mine
+558110496163889155,DiscordRPG,42,PLAYE3_ERROR_ please get your stats first.
+558110521614663680,PLAYE3_ERROR,6,/stats
+558110522885668887,DiscordRPG,539,```diffNL!======== [PLAYE3_ERROR's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!========================================!```
+558110573695598612,PLAYE3_ERROR,4,/adv
+558110575993946113,DiscordRPG,339,```diffNL!========[ PLAYE3_ERROR's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ PLAYE3_ERROR has 48/50 HP left.NL+ The enemy Oglurth has 37/40 HP left.NL!=============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558110630578749451,PLAYE3_ERROR,6,/adv 2
+558110631845167105,DiscordRPG,42,You need to rest_ PLAYE3_ERROR (0 seconds)
+558110657384284170,PLAYE3_ERROR,6,/adv 2
+558110658848358401,DiscordRPG,339,```diffNL!========[ PLAYE3_ERROR's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ PLAYE3_ERROR has 46/50 HP left.NL+ The enemy Oglurth has 34/40 HP left.NL!=============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558112528958357505,Highnatzu,4,/adv
+558112530623365177,DiscordRPG,332,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 2NL- Lost 7 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 19/50 HP leftNL+ Highnatzu has 70/150 HP left.NL+ The enemy Zarth has 37/135 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558112546092089344,Highnatzu,5,/chop
+558112547681861633,DiscordRPG,79,🌲 Highnatzu went to chop some wood and got 3 Regular logs_ 2 XP and 2 skill XP.
+558112559559999499,Highnatzu,5,/mine
+558112560810033158,DiscordRPG,64,⛏ Highnatzu found 3 Iron Ores_ 1 XP and 1 skill XP while mining.
+558112582733660191,Highnatzu,7,/forage
+558112584293679144,DiscordRPG,64,🌷 Highnatzu went foraging and got 3 Lemons_ 2 XP and 2 skill XP.
+558112605559062549,Highnatzu,7,/search
+558112606968348672,DiscordRPG,37,You search the location_ Highnatzu...
+558112641977942038,Highnatzu,4,/adv
+558112644133945347,DiscordRPG,348,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 2NL+ Critical hit!NL- Lost 7 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 15/50 HP leftNL+ Highnatzu has 63/150 HP left.NL+ The enemy Zarth has 31/135 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558112742331121665,Highnatzu,4,/inv
+558112743803060237,DiscordRPG,266,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 7_862 Gold.NL+ 12 x Health PotionsNL+ 1 x Small DaggerNL+ 6 x RocksNL+ 8 x Iron OresNL+ 2 x CoalNL+ 22 x LogsNL+ 3 x Rock SaltNL+ 11 x Erinotite OresNL+ 24 x LemonsNL!==============================================!```
+558112816842801162,DiscordRPG,33,Query timed out after 15 seconds.
+558116319183241237,Highnatzu,4,/adv
+558116321095581727,DiscordRPG,332,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 5 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 3 HP Damage.NL+ Pet Rock has 12/50 HP leftNL+ Highnatzu has 58/150 HP left.NL+ The enemy Zarth has 25/135 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558116464209559552,Highnatzu,6,/pheal
+558116465681760280,DiscordRPG,67,Highnatzu used a Health Potion and healed their pet 38HP. (50/50HP)
+558435089961451531,timtomothy,12,/adventure 2
+558435091634847755,DiscordRPG,337,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 2NL- Lost 5 HP.NL+ Dealt 1 HP DamageNL- nuggethead took 2 HP Damage.NL+ nuggethead has 22/50 HP leftNL+ timtomothy has 77/100 HP left.NL+ The enemy Zulp has 74/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558436612053139466,timtomothy,18,/assign strength 2
+558436614297092096,DiscordRPG,67,timtomothy assigned 2 attribute points to their Strength attribute.
+558436678436651018,timtomothy,17,/assign defense 3
+558436679808188417,DiscordRPG,66,timtomothy assigned 3 attribute points to their Defense attribute.
+558436721583194117,timtomothy,5,/mine
+558436723554648074,DiscordRPG,65,⛏ timtomothy found 2 Iron Ores_ 1 XP and 1 skill XP while mining.
+558436805490245665,timtomothy,18,/recipe iron ingot
+558436807218561177,DiscordRPG,0,
+558445891103752196,Themadbamf,5,/mine
+558445892592467969,DiscordRPG,40,Themadbamf_ please get your stats first.
+558445927166115840,Themadbamf,6,/stats
+558445928588115968,DiscordRPG,535,```diffNL!======== [Themadbamf's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!======================================!```
+558446547440762890,dawangk,7,/forage
+558446549101707264,DiscordRPG,62,🌰 dawangk went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+558446577270784020,dawangk,4,/adv
+558446579032522755,DiscordRPG,322,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 72/150 HP left.NL+ The enemy Zulp has 2/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558446616458035211,dawangk,4,/adv
+558446618118979594,DiscordRPG,37,You need to rest_ dawangk (5 seconds)
+558446642861178906,dawangk,4,/adv
+558446644991885352,DiscordRPG,318,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 68/150 HP left.NL+ The enemy Zulp was slain by dawangk!NL+ Rewards: 13 Gold and 13 XP.NL+ Pet Rock got 0 XP.NL!========================================!```
+558446665669935145,dawangk,6,/stats
+558446667058249739,DiscordRPG,403,```diffNL!======== [dawangk's Stats] ========!NL+ Health: 68/150HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 3 | (173/300 XP)NL+ 62 GoldNL+ Slain 2 times. Killed 29 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!===================================!```
+558446718459576320,dawangk,10,/use lemon
+558446719738707973,DiscordRPG,45,dawangk used a Lemon and got 25HP. (93/150HP)
+558446747794407424,dawangk,12,/use lemon 2
+558446749073801226,DiscordRPG,37,You need to rest_ dawangk (3 seconds)
+558446771626573825,dawangk,4,/adv
+558446773895430144,DiscordRPG,326,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 90/150 HP left.NL+ The enemy Oglurth has 38/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558446786423947264,dawangk,12,/use lemon 2
+558446788013719586,DiscordRPG,47,dawangk used 2 Lemons and got 50HP. (140/150HP)
+558446882045820933,dawangk,4,/adv
+558446883639656448,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 137/150 HP left.NL+ The enemy Oglurth has 35/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558446936903122973,dawangk,4,/adv
+558446937800441879,DiscordRPG,42,Recovering dawangk's stamina in 1 seconds.
+558446950194741268,dawangk,4,/adv
+558446951452901409,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 135/150 HP left.NL+ The enemy Oglurth has 30/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558446982327173140,dawangk,4,/inv
+558446983233404956,DiscordRPG,148,```diffNL!===== [dawangk's Inventory (Page 1/1)] =====!NL+ 62 Gold.NL+ 1 x Small DaggerNL+ 19 x LemonsNL!============================================!```
+558447014677839944,dawangk,6,/items
+558447016431190016,DiscordRPG,576,```diffNL!=====[ Items (Page 1/51) ]=====!NL+ Health Potion - 5 Gold {Lvl. 1}NL- Greater Health Potion - 10 Gold {Lvl. 5}NL- Grapes - 15 Gold {Lvl. 5}NL- Mushroom - 30 Gold {Lvl. 8}NL+ Healing Nectar - 40 Gold {Lvl. 3}NL- Cherry - 40 Gold {Lvl. 6}NL- Even Greater Health Potion - 50 Gold {Lvl. 8}NL- Carrot - 60 Gold {Lvl. 5}NL- Apple - 80 Gold {Lvl. 10}NL- Banana - 90 Gold {Lvl. 10}NL- Iron Sword - 100 Gold {Lvl. 2}NL- Enhancing Stone - 100 Gold {Lvl. 10}NL- Wheat - 100 Gold {Lvl. 5}NL- Freshwater Fish - 200 Gold {Lvl. 4}NL- Snail - 200 Gold {Lvl. 4}NL!===============================!```
+558447053613826049,DiscordRPG,33,Query timed out after 15 seconds.
+558447107313500172,dawangk,10,/item milk
+558447108961730560,DiscordRPG,0,
+558447231901106179,dawangk,15,/item iron mace
+558447233855651860,DiscordRPG,0,
+558447283897630750,dawangk,16,/item iron swird
+558447285487403028,DiscordRPG,44,Sorry_ dawangk_ but that item doesn't exist.
+558447326645977106,DiscordRPG,33,Query timed out after 60 seconds.
+558447326893703199,dawangk,4,/adv
+558447329007632394,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 134/150 HP left.NL+ The enemy Oglurth has 25/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558447353590185985,dawangk,20,/item iron battleaxe
+558447355452456960,DiscordRPG,0,
+558447459622191144,dawangk,1,d
+558447489204879371,dawangk,15,/item red visor
+558447490702245908,DiscordRPG,0,
+558447537070014496,dawangk,4,/adv
+558447538194219009,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 131/150 HP left.NL+ The enemy Oglurth has 22/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558447691907072030,dawangk,4,/adv
+558447693584924672,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 129/150 HP left.NL+ The enemy Oglurth has 18/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558447958698360843,dawangk,4,/adv
+558447960132812831,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 127/150 HP left.NL+ The enemy Oglurth has 13/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558448036301373452,dawangk,4,/adv
+558448038214107167,DiscordRPG,326,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 126/150 HP left.NL+ The enemy Oglurth has 8/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558454227777880068,Miniplunger,5,/mine
+558454229472247809,DiscordRPG,47,You don't have a pickaxe equipped_ Miniplunger.
+558454270425563157,Miniplunger,14,/equip pickaxe
+558454291010945044,Miniplunger,4,/die
+558454321457528842,Miniplunger,5,/help
+558454322711625748,DiscordRPG,158,Hello_ Miniplunger. I'm DiscordRPG.NLFor a list of the commands I recognize_ you can type `/commands`_ `DiscordRPG commands` or <@170915625722576896> commands.
+558454348229771265,Miniplunger,9,/commands
+558454349802504212,DiscordRPG,1190,```iniNL[Admin]NLdebug_ setchangelog_ settile_ setprefixNL[Advent]NLadventNL[Adventure]NLadventureNL[Alchemy]NLbrew_ checkbrew_ stopbrewNL[Battles]NLbaccept_ battle_ bcancel_ bdaccept_ bdraw_ bfight_ brefuse_ bstopNL[Books]NLreadNL[Bosses]NLboss_ fightboss_ startbossNL[Dungeons]NLdinv_ dungeonNL[General]NLachievement_ bug_ changelog_ commands_ help_ info_ invite_ item2_ items_ lead_ ping_ pong_ recipe_ serverinvite_ suggest_ support_ wikiNL[Guild]NLgally_ gaudit_ gblacklist_ gbuy_ gcreate_ gdep_ gdepitem_ gdisband_ getchat_ getrole_ gexpand_ ginv_ ginvite_ gitem_ gitems_ gjoin_ gkick_ gleave_ gmembers_ gperms_ grole_ gset_ guild_ guildad_ gwd_ gwditem_ icons_ setpermNL[Locations]NLbuyfield_ buytrapspot_ location_ map_ search_ talk_ travelNL[Market]NLgbavg_ gmavg_ gbbuy_ gblist_ gbsearch_ gbsell_ gmbuy_ gmglist_ gminfo_ gmlist_ gmsearch_ gmsell_ gmstopNL[Parties]NLpadv_ partyNL[Pets]NLcatch_ pet_ pheal_ psetNL[Rules]NLrulesNL[Sides]NLchop_ crack_ fish_ forage_ mine_ plant_ trapNL[User]NLachievements_ assign_ attributes_ buy_ cancelpotion_ craft_ donate_ drop_ getcard_ heal_ idonate_ inv_ invval_ pledge_ potion_ quest_ redeem_ reset_ rpoints_ runes_ sell_ skills_ started_ stats_ task_ unequip_ use_ usetNL```
+558454585467994122,Hayden_99,9,/commands
+558454586768228362,DiscordRPG,1190,```iniNL[Admin]NLdebug_ setchangelog_ settile_ setprefixNL[Advent]NLadventNL[Adventure]NLadventureNL[Alchemy]NLbrew_ checkbrew_ stopbrewNL[Battles]NLbaccept_ battle_ bcancel_ bdaccept_ bdraw_ bfight_ brefuse_ bstopNL[Books]NLreadNL[Bosses]NLboss_ fightboss_ startbossNL[Dungeons]NLdinv_ dungeonNL[General]NLachievement_ bug_ changelog_ commands_ help_ info_ invite_ item2_ items_ lead_ ping_ pong_ recipe_ serverinvite_ suggest_ support_ wikiNL[Guild]NLgally_ gaudit_ gblacklist_ gbuy_ gcreate_ gdep_ gdepitem_ gdisband_ getchat_ getrole_ gexpand_ ginv_ ginvite_ gitem_ gitems_ gjoin_ gkick_ gleave_ gmembers_ gperms_ grole_ gset_ guild_ guildad_ gwd_ gwditem_ icons_ setpermNL[Locations]NLbuyfield_ buytrapspot_ location_ map_ search_ talk_ travelNL[Market]NLgbavg_ gmavg_ gbbuy_ gblist_ gbsearch_ gbsell_ gmbuy_ gmglist_ gminfo_ gmlist_ gmsearch_ gmsell_ gmstopNL[Parties]NLpadv_ partyNL[Pets]NLcatch_ pet_ pheal_ psetNL[Rules]NLrulesNL[Sides]NLchop_ crack_ fish_ forage_ mine_ plant_ trapNL[User]NLachievements_ assign_ attributes_ buy_ cancelpotion_ craft_ donate_ drop_ getcard_ heal_ idonate_ inv_ invval_ pledge_ potion_ quest_ redeem_ reset_ rpoints_ runes_ sell_ skills_ started_ stats_ task_ unequip_ use_ usetNL```
+558454823708524545,dawangk,4,/adv
+558454826459987979,DiscordRPG,326,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 124/150 HP left.NL+ The enemy Oglurth has 4/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558454862929592331,dawangk,8,/getcard
+558454864146071563,DiscordRPG,57,Sorry_ dawangk. But you need to be level 100 to use this.
+558454897801166889,dawangk,5,/task
+558454899164315649,DiscordRPG,47,Please tell me which action to perform_ dawangk
+558454924883656704,dawangk,4,/adv
+558454926867562546,DiscordRPG,326,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 121/150 HP left.NL+ The enemy Oglurth has 1/40 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558454967623483418,dawangk,4,/adv
+558454969171312640,DiscordRPG,37,You need to rest_ dawangk (4 seconds)
+558455011969859586,dawangk,4,/adv
+558455013664489504,DiscordRPG,321,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 120/150 HP left.NL+ The enemy Oglurth was slain by dawangk!NL+ Rewards: 13 Gold and 7 XP.NL+ Pet Rock got 0 XP.NL!========================================!```
+558455030332653580,dawangk,6,/stats
+558455032262033429,DiscordRPG,404,```diffNL!======== [dawangk's Stats] ========!NL+ Health: 120/150HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 3 | (180/300 XP)NL+ 75 GoldNL+ Slain 2 times. Killed 30 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!===================================!```
+558455071151489035,dawangk,4,/adv
+558455073055965212,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 117/150 HP left.NL+ The enemy Zerp has 76/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558455264450183169,dawangk,4,/adv
+558455266018983950,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 6NL- Lost 2 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 115/150 HP left.NL+ The enemy Zerp has 70/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558455360013467678,dawangk,4,/adv
+558455361783201793,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 112/150 HP left.NL+ The enemy Zerp has 65/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558455423649185792,dawangk,4,/adv
+558455424987430915,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 110/150 HP left.NL+ The enemy Zerp has 60/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558455457552007169,dawangk,4,/adv
+558455458579349530,DiscordRPG,42,Recovering dawangk's stamina in 6 seconds.
+558455476006682624,dawangk,7,/forage
+558455477705375759,DiscordRPG,62,🍃 dawangk went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+558455496655372289,dawangk,4,/adv
+558455498148544512,DiscordRPG,341,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 10 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 108/150 HP left.NL+ The enemy Zerp has 50/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558455635382108178,dawangk,4,/adv
+558455636916961285,DiscordRPG,340,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL+ Critical hit!NL- Lost 5 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 103/150 HP left.NL+ The enemy Zerp has 46/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558455680064028672,dawangk,4,/adv
+558455681901133825,DiscordRPG,47,You're too tired to do that dawangk (3 seconds)
+558455698246336523,dawangk,4,/adv
+558455699919732767,DiscordRPG,323,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 99/150 HP left.NL+ The enemy Zerp has 43/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558457534571347968,Magister Carmina,12,/adventure 2
+558457535946948628,DiscordRPG,351,```diffNL!========[ Magister Carmina's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Magister Carmina has 24/50 HP left.NL+ The enemy Octocat has 28/55 HP left.NL!=================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558457552216784927,Magister Carmina,12,/adventure 2
+558457553613488128,DiscordRPG,57,You're too tired to do that Magister Carmina (10 seconds)
+558457582633746449,Magister Carmina,12,/adventure 2
+558457584089169920,DiscordRPG,46,You need to rest_ Magister Carmina (3 seconds)
+558457601059454987,Magister Carmina,12,/adventure 2
+558457603005349909,DiscordRPG,351,```diffNL!========[ Magister Carmina's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Magister Carmina has 21/50 HP left.NL+ The enemy Octocat has 25/55 HP left.NL!=================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558459709267378178,akeno,17,pm me to play :))
+558463620053467166,Brachio Brachiosaurus likes you,5,/help
+558463621693440010,DiscordRPG,178,Hello_ Brachio Brachiosaurus likes you. I'm DiscordRPG.NLFor a list of the commands I recognize_ you can type `/commands`_ `DiscordRPG commands` or <@170915625722576896> commands.
+558463650793390081,Brachio Brachiosaurus likes you,9,/commands
+558463652194287616,DiscordRPG,1190,```iniNL[Admin]NLdebug_ setchangelog_ settile_ setprefixNL[Advent]NLadventNL[Adventure]NLadventureNL[Alchemy]NLbrew_ checkbrew_ stopbrewNL[Battles]NLbaccept_ battle_ bcancel_ bdaccept_ bdraw_ bfight_ brefuse_ bstopNL[Books]NLreadNL[Bosses]NLboss_ fightboss_ startbossNL[Dungeons]NLdinv_ dungeonNL[General]NLachievement_ bug_ changelog_ commands_ help_ info_ invite_ item2_ items_ lead_ ping_ pong_ recipe_ serverinvite_ suggest_ support_ wikiNL[Guild]NLgally_ gaudit_ gblacklist_ gbuy_ gcreate_ gdep_ gdepitem_ gdisband_ getchat_ getrole_ gexpand_ ginv_ ginvite_ gitem_ gitems_ gjoin_ gkick_ gleave_ gmembers_ gperms_ grole_ gset_ guild_ guildad_ gwd_ gwditem_ icons_ setpermNL[Locations]NLbuyfield_ buytrapspot_ location_ map_ search_ talk_ travelNL[Market]NLgbavg_ gmavg_ gbbuy_ gblist_ gbsearch_ gbsell_ gmbuy_ gmglist_ gminfo_ gmlist_ gmsearch_ gmsell_ gmstopNL[Parties]NLpadv_ partyNL[Pets]NLcatch_ pet_ pheal_ psetNL[Rules]NLrulesNL[Sides]NLchop_ crack_ fish_ forage_ mine_ plant_ trapNL[User]NLachievements_ assign_ attributes_ buy_ cancelpotion_ craft_ donate_ drop_ getcard_ heal_ idonate_ inv_ invval_ pledge_ potion_ quest_ redeem_ reset_ rpoints_ runes_ sell_ skills_ started_ stats_ task_ unequip_ use_ usetNL```
+558463672184209419,Brachio Brachiosaurus likes you,8,woah ;w;
+558463783316619313,Brachio Brachiosaurus likes you,10,/adventure
+558463784528904213,DiscordRPG,61,Brachio Brachiosaurus likes you_ please get your stats first.
+558463798919430144,Brachio Brachiosaurus likes you,6,/start
+558468120587665432,Highnatzu,4,/adv
+558468122416250881,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 36/50 HP leftNL+ Highnatzu has 122/150 HP left.NL+ The enemy Zerp has 50/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468138782425099,Highnatzu,5,/mine
+558468140699222016,DiscordRPG,69,⛏ Highnatzu found 3 Erinotite Ores_ 1 XP and 1 skill XP while mining.
+558468155630944257,Highnatzu,5,/chop
+558468157250207771,DiscordRPG,79,🌳 Highnatzu went to chop some wood and got 3 Regular logs_ 2 XP and 2 skill XP.
+558468182940188672,Highnatzu,7,/forage
+558468185100255256,DiscordRPG,64,🍀 Highnatzu went foraging and got 3 Lemons_ 1 XP and 2 skill XP.
+558468223473811472,Highnatzu,7,/search
+558468224996343854,DiscordRPG,37,You search the location_ Highnatzu...
+558468250573209621,Highnatzu,6,/stats
+558468252087615508,DiscordRPG,414,```diffNL!======== [Highnatzu's Stats] ========!NL+ Health: 122/150HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 3 | (292/300 XP)NL+ 14_399 GoldNL+ Slain 0 times. Killed 21 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!=====================================!```
+558468296694038553,Highnatzu,4,/adv
+558468298010918924,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 2 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 35/50 HP leftNL+ Highnatzu has 120/150 HP left.NL+ The enemy Zerp has 44/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468342906880000,Highnatzu,4,/adv
+558468344462835726,DiscordRPG,49,You're too tired to do that Highnatzu (3 seconds)
+558468433969414165,Highnatzu,4,/adv
+558468436003520512,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 33/50 HP leftNL+ Highnatzu has 116/150 HP left.NL+ The enemy Zerp has 41/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468518006226955,Highnatzu,4,/adv
+558468519646330890,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 31/50 HP leftNL+ Highnatzu has 113/150 HP left.NL+ The enemy Zerp has 36/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468595898777643,Highnatzu,4,/adv
+558468597693808645,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 2NL- Lost 5 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 29/50 HP leftNL+ Highnatzu has 108/150 HP left.NL+ The enemy Zerp has 34/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468702513790987,Highnatzu,4,/adv
+558468704715669504,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 27/50 HP leftNL+ Highnatzu has 104/150 HP left.NL+ The enemy Zerp has 30/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468795967209473,Highnatzu,4,/adv
+558468797397205003,DiscordRPG,331,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 25/50 HP leftNL+ Highnatzu has 100/150 HP left.NL+ The enemy Zerp has 27/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468894646337577,Highnatzu,4,/adv
+558468896169132052,DiscordRPG,330,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 23/50 HP leftNL+ Highnatzu has 97/150 HP left.NL+ The enemy Zerp has 22/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558468946987057203,Highnatzu,4,/adv
+558468948073381899,DiscordRPG,49,You're too tired to do that Highnatzu (1 seconds)
+558469012502216741,Highnatzu,4,/adv
+558469014079406111,DiscordRPG,330,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 1NL- Lost 5 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 21/50 HP leftNL+ Highnatzu has 92/150 HP left.NL+ The enemy Zerp has 20/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558469157193252865,Highnatzu,4,/adv
+558469158820642819,DiscordRPG,330,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 2 HP Damage.NL+ Pet Rock has 19/50 HP leftNL+ Highnatzu has 89/150 HP left.NL+ The enemy Zerp has 15/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558469449364275210,Highnatzu,4,/adv
+558469450827825162,DiscordRPG,329,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 18/50 HP leftNL+ Highnatzu has 87/150 HP left.NL+ The enemy Zerp has 9/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558469647989604363,Highnatzu,4,/adv
+558469649683972096,DiscordRPG,329,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 17/50 HP leftNL+ Highnatzu has 85/150 HP left.NL+ The enemy Zerp has 4/80 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558469706294624269,Highnatzu,4,/adv
+558469707657641984,DiscordRPG,49,You're too tired to do that Highnatzu (0 seconds)
+558469737164570634,Highnatzu,4,/adv
+558469740356435968,DiscordRPG,471,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 16/50 HP leftNL+ Highnatzu has 82/150 HP left.NL+ The enemy Zerp was slain by Highnatzu!NL+ Rewards: 13 Gold and 10 XP.NL+ Pet Rock got 0 XP.NL+ Highnatzu Leveled up! They've been awarded with 5 attribute points_ and_ along with their max HP increasing by 50_ they've been fully healed!NL!==========================================!```
+558469911404478464,Highnatzu,10,/attribute
+558469971899056169,Highnatzu,11,/attributes
+558469973123530754,DiscordRPG,291,```diffNL!===== [Highnatzu's Attributes] =====!NL+ Criticals: 0 (+0%)NL+ Defense: 0 (-0 dmg)NL+ Gold Boost: 3 (+0%)NL+ Lumber Boost: 0 (+0)NL+ Mine Boost: 2NL+ Reaping: 0NL+ Salvaging: 0NL+ Scavenging: 0NL+ Strength: 5 (+0 dmg)NL+ Taming: 0NL+ XP Boost: 5 (+0%)NL!====================================!```
+558470637497221150,Highnatzu,20,/assign scavenging 5
+558470638554185740,DiscordRPG,68,Highnatzu assigned 5 attribute points to their Scavenging attribute.
+558470693168218113,Highnatzu,11,/attributes
+558470694464126976,DiscordRPG,291,```diffNL!===== [Highnatzu's Attributes] =====!NL+ Criticals: 0 (+0%)NL+ Defense: 0 (-0 dmg)NL+ Gold Boost: 3 (+0%)NL+ Lumber Boost: 0 (+0)NL+ Mine Boost: 2NL+ Reaping: 0NL+ Salvaging: 0NL+ Scavenging: 5NL+ Strength: 5 (+0 dmg)NL+ Taming: 0NL+ XP Boost: 5 (+0%)NL!====================================!```
+558470938279280651,Highnatzu,6,/pheal
+558470939717926917,DiscordRPG,67,Highnatzu used a Health Potion and healed their pet 34HP. (50/50HP)
+558471396800462849,CultivatingWithCameron,2,(;
+558471411593773058,CultivatingWithCameron,1,😉
+558471430497632256,CultivatingWithCameron,1,😭
+558471455667519489,CultivatingWithCameron,2,:9
+558471541730443269,CultivatingWithCameron,28,<:zombie:302439627992858624>
+558759461083414568,MechAssassin99,7,/forage
+558759463104806943,DiscordRPG,69,🌺 MechAssassin99 went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+558759491663822859,MechAssassin99,7,/forage
+558759493035360376,DiscordRPG,51,Recovering MechAssassin99's stamina in 293 seconds.
+558759545401507841,MechAssassin99,9,/location
+558759547418837012,DiscordRPG,0,
+558759602062229527,MechAssassin99,9,/commands
+558759603693682698,DiscordRPG,1190,```iniNL[Admin]NLdebug_ setchangelog_ settile_ setprefixNL[Advent]NLadventNL[Adventure]NLadventureNL[Alchemy]NLbrew_ checkbrew_ stopbrewNL[Battles]NLbaccept_ battle_ bcancel_ bdaccept_ bdraw_ bfight_ brefuse_ bstopNL[Books]NLreadNL[Bosses]NLboss_ fightboss_ startbossNL[Dungeons]NLdinv_ dungeonNL[General]NLachievement_ bug_ changelog_ commands_ help_ info_ invite_ item2_ items_ lead_ ping_ pong_ recipe_ serverinvite_ suggest_ support_ wikiNL[Guild]NLgally_ gaudit_ gblacklist_ gbuy_ gcreate_ gdep_ gdepitem_ gdisband_ getchat_ getrole_ gexpand_ ginv_ ginvite_ gitem_ gitems_ gjoin_ gkick_ gleave_ gmembers_ gperms_ grole_ gset_ guild_ guildad_ gwd_ gwditem_ icons_ setpermNL[Locations]NLbuyfield_ buytrapspot_ location_ map_ search_ talk_ travelNL[Market]NLgbavg_ gmavg_ gbbuy_ gblist_ gbsearch_ gbsell_ gmbuy_ gmglist_ gminfo_ gmlist_ gmsearch_ gmsell_ gmstopNL[Parties]NLpadv_ partyNL[Pets]NLcatch_ pet_ pheal_ psetNL[Rules]NLrulesNL[Sides]NLchop_ crack_ fish_ forage_ mine_ plant_ trapNL[User]NLachievements_ assign_ attributes_ buy_ cancelpotion_ craft_ donate_ drop_ getcard_ heal_ idonate_ inv_ invval_ pledge_ potion_ quest_ redeem_ reset_ rpoints_ runes_ sell_ skills_ started_ stats_ task_ unequip_ use_ usetNL```
+558759757851262986,MechAssassin99,6,/Axhor
+558759830966370305,MechAssassin99,4,/NPC
+558759880991834132,MechAssassin99,5,/talk
+558759883164483604,DiscordRPG,57,Please tell me who you'd like to talk to_ MechAssassin99.
+558759927347150872,MechAssassin99,11,/talk Axhor
+558759929381650442,DiscordRPG,38,{Axhor} - A-Are we in a computer game?
+558759960771690508,MechAssassin99,2,No
+558759999006965790,MechAssassin99,11,/talk Axhor
+558760000110067713,DiscordRPG,29,{Axhor} - GET ME OUT OF HERE!
+558760033979203585,MechAssassin99,11,/talk axhor
+558760035765846065,DiscordRPG,49,Recovering MechAssassin99's stamina in 2 seconds.
+558760071170097192,MechAssassin99,11,/talk Axhor
+558760072864595989,DiscordRPG,29,{Axhor} - GET ME OUT OF HERE!
+558760161297039394,MechAssassin99,19,/talk PlayTheFallen
+558760163033612309,DiscordRPG,30,{PlayTheFallen} - Bloody hell!
+558760227084959754,MechAssassin99,19,/talk PlayTheFallen
+558760228594647077,DiscordRPG,30,{PlayTheFallen} - Crikey mate!
+558760483432431616,MechAssassin99,4,/adv
+558760485655412766,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 49/50 HP leftNL+ MechAssassin99 has 28/50 HP left.NL+ The enemy Ogre has 37/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558760520019214348,MechAssassin99,4,/adv
+558760521147613186,DiscordRPG,49,Recovering MechAssassin99's stamina in 5 seconds.
+558760545105215503,MechAssassin99,7,/forahe
+558760568975261746,MechAssassin99,7,/forage
+558760572594946077,DiscordRPG,50,Recovering MechAssassin99's stamina in 36 seconds.
+558760598284796029,MechAssassin99,4,/adv
+558760599853465613,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 1NL- Lost 3 HP.NL+ Dealt 1 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 48/50 HP leftNL+ MechAssassin99 has 25/50 HP left.NL+ The enemy Ogre has 36/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558760645181571082,MechAssassin99,4,/adv
+558760646691520522,DiscordRPG,49,Recovering MechAssassin99's stamina in 3 seconds.
+558760667809841173,MechAssassin99,4,/adv
+558760670099931156,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 47/50 HP leftNL+ MechAssassin99 has 23/50 HP left.NL+ The enemy Ogre has 34/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558760723753205780,MechAssassin99,4,/adv
+558760725078736917,DiscordRPG,49,Recovering MechAssassin99's stamina in 1 seconds.
+558760750068400129,MechAssassin99,4,/adv
+558760752014426182,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 46/50 HP leftNL+ MechAssassin99 has 21/50 HP left.NL+ The enemy Ogre has 32/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558760782188380211,MechAssassin99,7,/forage
+558760784147251210,DiscordRPG,69,🍀 MechAssassin99 went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+558760871938228255,MechAssassin99,4,/adv
+558760873729064975,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 45/50 HP leftNL+ MechAssassin99 has 20/50 HP left.NL+ The enemy Ogre has 28/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558760949348171776,MechAssassin99,4,/adv
+558760951097196575,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 44/50 HP leftNL+ MechAssassin99 has 17/50 HP left.NL+ The enemy Ogre has 26/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761011541442570,MechAssassin99,4,/adv
+558761013327953930,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 1NL- Lost 3 HP.NL+ Dealt 1 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 43/50 HP leftNL+ MechAssassin99 has 14/50 HP left.NL+ The enemy Ogre has 25/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761056042876946,MechAssassin99,4,/adv
+558761057364213762,DiscordRPG,49,Recovering MechAssassin99's stamina in 3 seconds.
+558761078721478686,MechAssassin99,4,/adv
+558761080684412999,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 42/50 HP leftNL+ MechAssassin99 has 12/50 HP left.NL+ The enemy Ogre has 22/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761129246064652,MechAssassin99,4,/adv
+558761130873454622,DiscordRPG,49,Recovering MechAssassin99's stamina in 2 seconds.
+558761163341430814,MechAssassin99,4,/adv
+558761165216546816,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 41/50 HP leftNL+ MechAssassin99 has 10/50 HP left.NL+ The enemy Ogre has 18/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761225064808458,MechAssassin99,18,/use Health Potion
+558761227065753600,DiscordRPG,59,MechAssassin99 used a Health Potion and got 40HP. (50/50HP)
+558761256933392384,MechAssassin99,4,/adv
+558761258812440576,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 40/50 HP leftNL+ MechAssassin99 has 48/50 HP left.NL+ The enemy Ogre has 15/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761290638688283,MechAssassin99,4,/adv
+558761292395970565,DiscordRPG,54,You're too tired to do that MechAssassin99 (6 seconds)
+558761324717277184,MechAssassin99,4,/adv
+558761326680473618,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 39/50 HP leftNL+ MechAssassin99 has 46/50 HP left.NL+ The enemy Ogre has 11/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761432032739328,MechAssassin99,4,/adv
+558761434142736386,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 1 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 38/50 HP leftNL+ MechAssassin99 has 43/50 HP left.NL+ The enemy Ogre has 10/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761472658767873,MechAssassin99,4,/adv
+558761473405616128,ItsTreyanna,2,:>
+558761474454192149,DiscordRPG,49,Recovering MechAssassin99's stamina in 4 seconds.
+558761512563376138,MechAssassin99,4,/adv
+558761515184816128,DiscordRPG,343,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 37/50 HP leftNL+ MechAssassin99 has 41/50 HP left.NL+ The enemy Ogre has 7/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761562916126795,ItsTreyanna,4,/adv
+558761565390897182,DiscordRPG,41,ItsTreyanna_ please get your stats first.
+558761579554930727,MechAssassin99,4,/adv
+558761581379452938,DiscordRPG,343,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 6NL- Lost 1 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 36/50 HP leftNL+ MechAssassin99 has 40/50 HP left.NL+ The enemy Ogre has 2/40 HP left.NL!===============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558761728209584139,ItsTreyanna,5,/stat
+558761744311517190,ItsTreyanna,3,oof
+558761760115654658,MechAssassin99,17,Start with /stats
+558761823709691935,MechAssassin99,4,/adv
+558761825819295775,DiscordRPG,344,```diffNL!========[ MechAssassin99's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 35/50 HP leftNL+ MechAssassin99 has 38/50 HP left.NL+ The enemy Ogre was slain by MechAssassin99!NL+ Rewards: 8 Gold and 4 XP.NL+ Pet Rock got 0 XP.NL!===============================================!```
+558761866239672320,MechAssassin99,6,/level
+558761895796932619,MechAssassin99,9,/commands
+558761897587900426,DiscordRPG,1190,```iniNL[Admin]NLdebug_ setchangelog_ settile_ setprefixNL[Advent]NLadventNL[Adventure]NLadventureNL[Alchemy]NLbrew_ checkbrew_ stopbrewNL[Battles]NLbaccept_ battle_ bcancel_ bdaccept_ bdraw_ bfight_ brefuse_ bstopNL[Books]NLreadNL[Bosses]NLboss_ fightboss_ startbossNL[Dungeons]NLdinv_ dungeonNL[General]NLachievement_ bug_ changelog_ commands_ help_ info_ invite_ item2_ items_ lead_ ping_ pong_ recipe_ serverinvite_ suggest_ support_ wikiNL[Guild]NLgally_ gaudit_ gblacklist_ gbuy_ gcreate_ gdep_ gdepitem_ gdisband_ getchat_ getrole_ gexpand_ ginv_ ginvite_ gitem_ gitems_ gjoin_ gkick_ gleave_ gmembers_ gperms_ grole_ gset_ guild_ guildad_ gwd_ gwditem_ icons_ setpermNL[Locations]NLbuyfield_ buytrapspot_ location_ map_ search_ talk_ travelNL[Market]NLgbavg_ gmavg_ gbbuy_ gblist_ gbsearch_ gbsell_ gmbuy_ gmglist_ gminfo_ gmlist_ gmsearch_ gmsell_ gmstopNL[Parties]NLpadv_ partyNL[Pets]NLcatch_ pet_ pheal_ psetNL[Rules]NLrulesNL[Sides]NLchop_ crack_ fish_ forage_ mine_ plant_ trapNL[User]NLachievements_ assign_ attributes_ buy_ cancelpotion_ craft_ donate_ drop_ getcard_ heal_ idonate_ inv_ invval_ pledge_ potion_ quest_ redeem_ reset_ rpoints_ runes_ sell_ skills_ started_ stats_ task_ unequip_ use_ usetNL```
+558761947731066900,MechAssassin99,13,/achievements
+558761949194747914,DiscordRPG,42,No achievements were found_ MechAssassin99
+558761998410580003,MechAssassin99,5,/heal
+558762000935682058,DiscordRPG,56,MechAssassin99 tried to use 1 Health Potion but has none
+558762046540218374,MechAssassin99,7,/skills
+558762048251756554,DiscordRPG,212,```diffNL!======== [MechAssassin99's skills] ========!NL+ Chop Level 1 (0 / 20 XP)NL+ Fish Level 1 (0 / 20 XP)NL+ Forage Level 1 (3 / 20 XP)NL+ Mine Level 1 (0 / 20 XP)NL!===========================================!```
+558762079935528980,MechAssassin99,5,/chop
+558762081390952457,DiscordRPG,47,You don't have an axe equipped_ MechAssassin99.
+558762169513148434,MechAssassin99,7,/invall
+558762206880202752,MechAssassin99,7,/invval
+558762208931217418,DiscordRPG,92,MechAssassin99 has 6 items at a total cost value of 0 gold and a total sell value of 0 gold.
+558762758707871758,ItsTreyanna,6,/stats
+558762760335523850,DiscordRPG,537,```diffNL!======== [ItsTreyanna's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!=======================================!```
+558762958398947339,ItsTreyanna,10,/adventure
+558762960693100642,DiscordRPG,333,```diffNL!========[ ItsTreyanna's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ ItsTreyanna has 48/50 HP left.NL+ The enemy Ogre has 38/40 HP left.NL!============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558763059758235664,ItsTreyanna,6,/adv 2
+558763061880684594,DiscordRPG,333,```diffNL!========[ ItsTreyanna's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ ItsTreyanna has 46/50 HP left.NL+ The enemy Ogre has 34/40 HP left.NL!============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558763107342876675,ItsTreyanna,6,/adv 2
+558763109087576070,DiscordRPG,46,Recovering ItsTreyanna's stamina in 3 seconds.
+558763224351244288,ItsTreyanna,6,/adv 2
+558763226268041226,DiscordRPG,333,```diffNL!========[ ItsTreyanna's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ ItsTreyanna has 45/50 HP left.NL+ The enemy Ogre has 30/40 HP left.NL!============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558763331368779799,ItsTreyanna,6,/adv 2
+558763332576739353,DiscordRPG,333,```diffNL!========[ ItsTreyanna's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ ItsTreyanna has 43/50 HP left.NL+ The enemy Ogre has 27/40 HP left.NL!============================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558763616229130270,🐺ஜ๖̶̶̶ζ͜͡Mat the Hunter๖ۣۜஜ🐲,5,/help
+558763618150121523,DiscordRPG,175,Hello_ 🐺ஜ๖̶̶̶ζ͜͡Mat the Hunter๖ۣۜஜ🐲. I'm DiscordRPG.NLFor a list of the commands I recognize_ you can type `/commands`_ `DiscordRPG commands` or <@170915625722576896> commands.
+558763666380685331,🐺ஜ๖̶̶̶ζ͜͡Mat the Hunter๖ۣۜஜ🐲,9,/commands
+558763668012138498,DiscordRPG,1190,```iniNL[Admin]NLdebug_ setchangelog_ settile_ setprefixNL[Advent]NLadventNL[Adventure]NLadventureNL[Alchemy]NLbrew_ checkbrew_ stopbrewNL[Battles]NLbaccept_ battle_ bcancel_ bdaccept_ bdraw_ bfight_ brefuse_ bstopNL[Books]NLreadNL[Bosses]NLboss_ fightboss_ startbossNL[Dungeons]NLdinv_ dungeonNL[General]NLachievement_ bug_ changelog_ commands_ help_ info_ invite_ item2_ items_ lead_ ping_ pong_ recipe_ serverinvite_ suggest_ support_ wikiNL[Guild]NLgally_ gaudit_ gblacklist_ gbuy_ gcreate_ gdep_ gdepitem_ gdisband_ getchat_ getrole_ gexpand_ ginv_ ginvite_ gitem_ gitems_ gjoin_ gkick_ gleave_ gmembers_ gperms_ grole_ gset_ guild_ guildad_ gwd_ gwditem_ icons_ setpermNL[Locations]NLbuyfield_ buytrapspot_ location_ map_ search_ talk_ travelNL[Market]NLgbavg_ gmavg_ gbbuy_ gblist_ gbsearch_ gbsell_ gmbuy_ gmglist_ gminfo_ gmlist_ gmsearch_ gmsell_ gmstopNL[Parties]NLpadv_ partyNL[Pets]NLcatch_ pet_ pheal_ psetNL[Rules]NLrulesNL[Sides]NLchop_ crack_ fish_ forage_ mine_ plant_ trapNL[User]NLachievements_ assign_ attributes_ buy_ cancelpotion_ craft_ donate_ drop_ getcard_ heal_ idonate_ inv_ invval_ pledge_ potion_ quest_ redeem_ reset_ rpoints_ runes_ sell_ skills_ started_ stats_ task_ unequip_ use_ usetNL```
+558763677696786461,Concrete Man,4,/adv
+558763679433228288,DiscordRPG,42,Concrete Man_ please get your stats first.
+558763717991333910,🐺ஜ๖̶̶̶ζ͜͡Mat the Hunter๖ۣۜஜ🐲,7,/invite
+558763719702609941,DiscordRPG,57,Click here to add me to your server! https://drpg.xyz/bot
+558763746671984663,Concrete Man,6,/rules
+558763747867492395,DiscordRPG,825,:one: Using any kind of automated means_ including macros in order to send commands to DiscordRPG is strictly forbidden and doing so will result in you getting your character reset_ and/or a ban from the bot.NLCopy-Pasting of the commands are however allowed.NL:two: Abusing any kind of glitch or bug is a bannable offense.NL:three: Any kind of blackmailing is strictly forbidden.NL:four: Your account - Your responsibilityNL:five: Don't spam the commands.NL:six: Using real money or other bot currencies to buy gold or items off of another player is prohibited_ as is scamming players for gold or items. If this happens contact a member of the staff in the offical server.NL:seven: Using alternate accounts for personal gain or to bypass a ban is strictly forbidden.NLBreaking __**any**__ of these will result in a ban from the bot.
+558763853182271509,Concrete Man,7,/advent
+558763854595883030,DiscordRPG,91,<@557734965689712640>_ It isn't time yet! Around 8 months until the advent calendar starts!
+558763881351217153,Concrete Man,4,/adv
+558763883003641867,DiscordRPG,42,Concrete Man_ please get your stats first.
+558763955909296148,Concrete Man,5,/user
+558764130887008276,Duck_man,25,https://discord.gg/HxnwRs
+558764150227206149,Concrete Man,7,/assing
+558764166324682762,Concrete Man,7,/assign
+558764167683899392,DiscordRPG,42,Concrete Man_ please get your stats first.
+558764273342611516,Concrete Man,5,/info
+558764274898698250,DiscordRPG,208,DRPG Version 4.8.1 - Made by Mackan#7196NLYou can join the official server at https://drpg.xyz/DiscordNLCheck the official site out at https://discorddungeons.meNLCheck out our subreddit! https://drpg.xyz/Reddit
+558766079296405505,Duck_man,22,<@!168274283414421504>
+558766596970250250,ItsTreyanna,14,$s bittersweet
+558766707410468866,ItsTreyanna,24,$p bittersweet nightcore
+558766733402308618,ItsTreyanna,8,oh shoot
+558770871720738827,nels,6,/adv 2
+558770874614808576,DiscordRPG,313,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 2NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 48/50 HP left.NL+ The enemy Kloid has 38/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558770927773417475,nels,10,/adventure
+558770929342087168,DiscordRPG,34,You need to rest_ nels (1 seconds)
+558771033268813855,nels,10,/adventure
+558771034988478464,DiscordRPG,330,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 6NL+ Critical hit!NL- Lost 1 HP.NL+ Dealt 10 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 47/50 HP left.NL+ The enemy Kloid has 28/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771145684549661,StarNinjas,10,/adventure
+558771147383242772,DiscordRPG,40,StarNinjas_ please get your stats first.
+558771165892706344,nels,12,/adventure 2
+558771167851184129,DiscordRPG,313,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 1NL- Lost 3 HP.NL+ Dealt 1 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 44/50 HP left.NL+ The enemy Kloid has 27/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771215163195422,nels,12,/adventure 2
+558771216949968907,DiscordRPG,34,You need to rest_ nels (2 seconds)
+558771261883285516,nels,12,/adventure 2
+558771263892619294,DiscordRPG,313,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 2NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 42/50 HP left.NL+ The enemy Kloid has 25/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771322646429736,nels,12,/adventure 2
+558771324223488001,DiscordRPG,313,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 1 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 39/50 HP left.NL+ The enemy Kloid has 24/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771391860834322,nels,12,/adventure 2
+558771394393931776,DiscordRPG,329,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 4NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 8 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 37/50 HP left.NL+ The enemy Kloid has 16/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771441613406218,nels,12,/adventure 2
+558771443333070850,DiscordRPG,34,You need to rest_ nels (2 seconds)
+558771478137536523,nels,12,/adventure 2
+558771480863834122,DiscordRPG,313,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 35/50 HP left.NL+ The enemy Kloid has 14/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771536387899403,nels,12,/adventure 2
+558771537931665411,DiscordRPG,44,You're too tired to do that nels (0 seconds)
+558771583301451777,nels,12,/adventure 2
+558771584811139143,DiscordRPG,313,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 32/50 HP left.NL+ The enemy Kloid has 12/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771650380693543,nels,12,/adventure 2
+558771652536696842,DiscordRPG,312,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 30/50 HP left.NL+ The enemy Kloid has 9/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771732417085461,nels,12,/adventure 2
+558771734002663425,DiscordRPG,312,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 27/50 HP left.NL+ The enemy Kloid has 7/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771814378110980,nels,12,/adventure 2
+558771816605286410,DiscordRPG,312,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 26/50 HP left.NL+ The enemy Kloid has 3/40 HP left.NL!=====================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558771908032725003,nels,12,/adventure 2
+558771910310363147,DiscordRPG,304,```diffNL!========[ nels's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ nels has 25/50 HP left.NL+ The enemy Kloid was slain by nels!NL+ Rewards: 11 Gold and 6 XP.NL+ Pet Rock got 0 XP.NL!=====================================!```
+558771977918087199,nels,6,/stats
+558771979465916425,DiscordRPG,394,```diffNL!======== [nels's Stats] ========!NL+ Health: 25/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (6/50 XP)NL+ 11 GoldNL+ Slain 0 times. Killed 1 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!================================!```
+558772134822805547,nels,16,/assign weapon 1
+558779186823692298,palion,25,https://discord.gg/sGWtEG
+558779373222756354,VibronicSine319,5,/mine
+558779375110193153,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558784122722713600,Eu Sou Gordo,5,/mine
+558784124379201536,DiscordRPG,42,Eu Sou Gordo_ please get your stats first.
+558784162832580610,Sarmello,5,/mine
+558784165156225035,DiscordRPG,44,You don't have a pickaxe equipped_ Sarmello.
+558784168679440384,Eu Sou Gordo,6,/stats
+558784170147446784,DiscordRPG,539,```diffNL!======== [Eu Sou Gordo's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!========================================!```
+558784202561290270,Sarmello,4,/adv
+558784204884803594,DiscordRPG,324,```diffNL!========[ Sarmello's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Sarmello has 43/50 HP left.NL+ The enemy Ogre has 27/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558784247075307520,Eu Sou Gordo,5,/shop
+558784331607441419,EnderKiller,56,https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw
+558784344219451403,EnderKiller,56,https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw
+558784786626510849,Mrbaws15,4,/adv
+558784788648165380,DiscordRPG,325,```diffNL!========[ Mrbaws15's Adventure ]========!NL% Rolled a 6NL- Lost 1 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Mrbaws15 has 21/50 HP left.NL+ The enemy Kloid has 35/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558784837792694283,Mrbaws15,12,/adventure 2
+558784839352844291,DiscordRPG,38,You need to rest_ Mrbaws15 (2 seconds)
+558784865567506452,Mrbaws15,12,/adventure 2
+558784867203284992,DiscordRPG,325,```diffNL!========[ Mrbaws15's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Mrbaws15 has 19/50 HP left.NL+ The enemy Kloid has 32/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558784895208521780,Mrbaws15,5,/mine
+558784897003814933,DiscordRPG,44,You don't have a pickaxe equipped_ Mrbaws15.
+558784911104802836,Mrbaws15,5,/shop
+558784935155204126,Mrbaws15,12,/adventure 1
+558784936094597121,DiscordRPG,35,Mrbaws15 abandoned their adventure.
+558784966167625757,Mrbaws15,6,/stats
+558784967199424520,DiscordRPG,401,```diffNL!======== [Mrbaws15's Stats] ========!NL+ Health: 19/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (7/50 XP)NL+ 8 GoldNL+ Slain 0 times. Killed 1 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!====================================!```
+558784992969228289,Mrbaws15,4,/inv
+558784994328182784,DiscordRPG,159,```diffNL!===== [Mrbaws15's Inventory (Page 1/1)] =====!NL+ 8 Gold.NL+ 1 x Health PotionNL+ 1 x LogNL+ 2 x LemonsNL!=============================================!```
+558785029078122496,Mrbaws15,4,/use
+558785030566969344,DiscordRPG,45,Found 3 itemsNL`Health Potion`_ `Lemon`_ `Log`
+558785048556339210,Mrbaws15,10,/use lemon
+558785050129334284,DiscordRPG,38,You need to rest_ Mrbaws15 (5 seconds)
+558785063836188683,DiscordRPG,33,Query timed out after 15 seconds.
+558786546887557131,Chillboi,44,who knows  rpg games on minecarft windows 10
+558788349091905565,VibronicSine319,5,/mine
+558788351868534828,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558788930401468418,dawangk,4,/adv
+558788932548952084,DiscordRPG,323,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 87/150 HP left.NL+ The enemy Zerp has 42/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558788938396073985,dawangk,7,/forage
+558788940182847490,DiscordRPG,62,🌸 dawangk went foraging and got 3 Lemons_ 1 XP and 1 skill XP.
+558789486129971200,VibronicSine319,5,/mine
+558789487522742273,DiscordRPG,51,Recovering VibronicSine319's stamina in 29 seconds.
+558791501669204003,Highnatzu,4,/inv
+558791503330279434,DiscordRPG,267,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 14_412 Gold.NL+ 6 x Health PotionsNL+ 1 x Small DaggerNL+ 24 x RocksNL+ 11 x Iron OresNL+ 5 x CoalNL+ 40 x LogsNL+ 6 x Rock SaltNL+ 3 x Erinotite OresNL+ 18 x LemonsNL!==============================================!```
+558791514260504586,Highnatzu,4,/adv
+558791515774648320,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 8 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 24/50 HP leftNL+ Highnatzu has 150/200 HP left.NL+ The enemy Lurght has 152/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558791527338606593,Highnatzu,6,/pheal
+558791529469050904,DiscordRPG,67,Highnatzu used a Health Potion and healed their pet 26HP. (50/50HP)
+558791535081029701,Highnatzu,5,/heal
+558791537027317773,DiscordRPG,56,Highnatzu used a Health Potion and got 50HP. (200/200HP)
+558791566039449600,Highnatzu,7,/search
+558791567423569920,DiscordRPG,37,You search the location_ Highnatzu...
+558791575732224031,DiscordRPG,33,Query timed out after 15 seconds.
+558791584926138388,Highnatzu,7,/forage
+558791587124084741,DiscordRPG,64,🌻 Highnatzu went foraging and got 3 Lemons_ 1 XP and 1 skill XP.
+558791620586373130,Highnatzu,5,/mine
+558791622083739648,DiscordRPG,59,⛏ Highnatzu found 3 Coal_ 2 XP and 1 skill XP while mining.
+558791636281196544,Highnatzu,5,/chop
+558791638105849866,DiscordRPG,79,🌳 Highnatzu went to chop some wood and got 3 Regular logs_ 1 XP and 2 skill XP.
+558791671840636959,Highnatzu,7,/skills
+558791674252492800,DiscordRPG,205,```diffNL!======== [Highnatzu's skills] ========!NL+ Chop Level 2 (41 / 60 XP)NL+ Fish Level 1 (0 / 20 XP)NL+ Forage Level 2 (57 / 60 XP)NL+ Mine Level 2 (42 / 60 XP)NL!======================================!```
+558791730900762644,Highnatzu,6,/stats
+558791732091682840,DiscordRPG,414,```diffNL!======== [Highnatzu's Stats] ========!NL+ Health: 200/200HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 4 | (324/500 XP)NL+ 14_412 GoldNL+ Slain 0 times. Killed 22 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!=====================================!```
+558791806167416852,Highnatzu,4,/inv
+558791807459131412,DiscordRPG,267,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 14_412 Gold.NL+ 4 x Health PotionsNL+ 1 x Small DaggerNL+ 24 x RocksNL+ 11 x Iron OresNL+ 8 x CoalNL+ 44 x LogsNL+ 6 x Rock SaltNL+ 3 x Erinotite OresNL+ 21 x LemonsNL!==============================================!```
+558791880003944455,DiscordRPG,33,Query timed out after 15 seconds.
+558791909406015488,Highnatzu,15,/gmsearch lemon
+558791916913688586,DiscordRPG,561,```mdNL#===== [Global Trades {Selling} (Page 1/1)] =====#NL< 25 Lemons (145G each) {ID. jtgtdcyt} [0 sold] >NL< 45 Lemons (150G each) {ID. jtg6scye} [0 sold] >NL< 283 Lemons (160G each) {ID. jt8hep0u} [0 sold] >NL< 1 Lemon (170G each) {ID. jt7ygfpt} [0 sold] >NL< 90 Lemons (225G each) {ID. jt4ew3u9} [0 sold] >NL< 50 Lemons (325G each) {ID. jt4byodi} [0 sold] >NL< 15 Lemons (175G each) {ID. jt2ypfnd} [0 sold] >NL< 100 Lemons (500G each) {ID. jrt4lcf0} [0 sold] >NL< 100 Lemons (350G each) {ID. jrsv5t8q} [0 sold] >NL#================================================#```
+558792032173162527,Highnatzu,17,/sell jt4byodi 21
+558792034257731584,DiscordRPG,41,Highnatzu tried to sell an unknown item!.
+558792083473956864,Highnatzu,16,/gbsearch lemons
+558792087135584278,DiscordRPG,1141,Found 37 itemsNL` Platemail of Nightmares 1S`_ ` Platemail of Nightmares`_ `Blue Ceremonial Card 1S+10`_ `Blue Ceremonial Card 1S+15`_ `Blue Ceremonial Card 1S+5`_ `Blue Ceremonial Card 1S+8`_ `Blue Ceremonial Card 1S+9`_ `Blue Ceremonial Card 1SR+10`_ `Blue Ceremonial Card 1SR+11`_ `Blue Ceremonial Card 1SR+12`_ `Blue Ceremonial Card 1SR+7`_ `Blue Ceremonial Card 1SR+8`_ `Blue Ceremonial Card 1S`_ `Blue Ceremonial Card 2S+10`_ `Blue Ceremonial Card 2S+12`_ `Blue Ceremonial Card 2S+9`_ `Blue Ceremonial Card 2SOO+10`_ `Blue Ceremonial Card 2SR+10`_ `Blue Ceremonial Card 2SR+11`_ `Blue Ceremonial Card 2SR+12`_ `Blue Ceremonial Card 2SR+15`_ `Blue Ceremonial Card 2SR+2`_ `Blue Ceremonial Card 2SR+8`_ `Blue Ceremonial Card 2SR+9`_ `Blue Ceremonial Card 2SRE`_ `Blue Ceremonial Card 2SRO+15`_ `Blue Ceremonial Card 2SRR+10`_ `Blue Ceremonial Card 2SRR+11`_ `Blue Ceremonial Card 2SRR+12`_ `Blue Ceremonial Card 2SRR+14`_ `Blue Ceremonial Card 2SRR+15`_ `Blue Ceremonial Card 2SRR+21`_ `Blue Ceremonial Card 2SRR+9`_ `Blue Ceremonial Card 2SSO+13`_ `Blue Ceremonial Card 2SSS+10`_ `Blue Ceremonial Card 2SSS+16`_ `Blue Ceremonial Card 2S`
+558792176973119553,DiscordRPG,33,Query timed out after 60 seconds.
+558792208367747072,Highnatzu,17,/sell jt7ygfpt 21
+558792209361797128,DiscordRPG,41,Highnatzu tried to sell an unknown item!.
+558793508312449045,Highnatzu,19,/gbsell jt7ygfpt 21
+558793509625397268,DiscordRPG,45,Sorry_ Highnatzu_ but that's a selling trade.
+558793640843935754,Highnatzu,19,/gbsell jt4byodi 21
+558793642463199237,DiscordRPG,45,Sorry_ Highnatzu_ but that's a selling trade.
+558793679343583283,Highnatzu,9,/gbsearch
+558793680694280192,DiscordRPG,54,You need to specify what item to search for_ Highnatzu
+558793721554927617,Highnatzu,15,/gbsearch lemon
+558793723094237225,DiscordRPG,45,Recovering Highnatzu's stamina in 15 seconds.
+558794297835651093,Highnatzu,19,/gbsell jsybpdjy 21
+558794299664367627,DiscordRPG,64,Highnatzu executed trade `jsybpdjy` (21 Lemons at 120 gold each)
+558794334271438849,Highnatzu,4,/inv
+558794336024657951,DiscordRPG,253,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 16_932 Gold.NL+ 4 x Health PotionsNL+ 1 x Small DaggerNL+ 24 x RocksNL+ 11 x Iron OresNL+ 8 x CoalNL+ 44 x LogsNL+ 6 x Rock SaltNL+ 3 x Erinotite OresNL!==============================================!```
+558794409131638792,DiscordRPG,33,Query timed out after 15 seconds.
+558794419772325910,Highnatzu,17,/sell iron ore 11
+558794421101920267,DiscordRPG,84,Highnatzu sold 11 Iron Ores and got 1_100 gold.NL+ Got achievements: A hero? I dunno.
+558794482124849156,Highnatzu,12,/sell log 44
+558794483836125199,DiscordRPG,42,Highnatzu sold 44 Logs and got 1_320 gold.
+558794562978447380,Highnatzu,12,/sell coal 8
+558794564832591875,DiscordRPG,38,Highnatzu sold 8 Coal and got 40 gold.
+558794651365015573,Highnatzu,13,/sell rock 24
+558794652942336010,DiscordRPG,40,Highnatzu sold 24 Rocks and got 24 gold.
+558794751743098938,Highnatzu,16,/erinotite ore 3
+558794843640430631,Highnatzu,21,/sell erinotite ore 3
+558794845079076874,DiscordRPG,48,Highnatzu sold 3 Erinotite Ores and got 75 gold.
+558794950368559133,Highnatzu,17,/sell rock salt 6
+558794951954006026,DiscordRPG,43,Highnatzu sold 6 Rock Salt and got 60 gold.
+558794965925494794,Highnatzu,4,/inv
+558794967292706847,DiscordRPG,163,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 19_551 Gold.NL+ 4 x Health PotionsNL+ 1 x Small DaggerNL!==============================================!```
+558795039493324804,DiscordRPG,33,Query timed out after 15 seconds.
+558795111874560011,Highnatzu,23,/buy health potion 2000
+558795113330114561,DiscordRPG,54,Highnatzu bought 2_000 Health Potions for 10_000 gold.
+558795134339383299,Highnatzu,4,/inv
+558795135551537154,DiscordRPG,166,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 9_551 Gold.NL+ 2_004 x Health PotionsNL+ 1 x Small DaggerNL!==============================================!```
+558795176403795988,Highnatzu,4,/adv
+558795178048225281,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 7 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 46/50 HP leftNL+ Highnatzu has 193/200 HP left.NL+ The enemy Lurght has 146/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558795208087830528,DiscordRPG,33,Query timed out after 15 seconds.
+558795225393397765,Highnatzu,4,/adv
+558795227180171264,DiscordRPG,39,You need to rest_ Highnatzu (2 seconds)
+558795247799238682,Highnatzu,4,/adv
+558795249720360983,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 3NL- Lost 9 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 42/50 HP leftNL+ Highnatzu has 184/200 HP left.NL+ The enemy Lurght has 143/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558796187701084164,VibronicSine319,5,/mine
+558796189739253789,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 4 XP and 2 skill XP while mining.
+558797367583965215,Highnatzu,5,/mine
+558797369056034827,DiscordRPG,64,⛏ Highnatzu found 3 Rock Salt_ 2 XP and 1 skill XP while mining.
+558797381639077896,Highnatzu,5,/chop
+558797383291502633,DiscordRPG,79,🌴 Highnatzu went to chop some wood and got 3 Regular logs_ 2 XP and 1 skill XP.
+558797395199131660,Highnatzu,7,/forage
+558797396881047574,DiscordRPG,64,🍃 Highnatzu went foraging and got 3 Lemons_ 2 XP and 1 skill XP.
+558797412768940052,Highnatzu,7,/search
+558797414325288961,DiscordRPG,37,You search the location_ Highnatzu...
+558797426497159178,Highnatzu,4,/adv
+558797428233601084,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 8 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 38/50 HP leftNL+ Highnatzu has 176/200 HP left.NL+ The enemy Lurght has 138/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558798144553484309,VibronicSine319,5,/mine
+558798146575007744,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558799873021968419,VibronicSine319,5,/mine
+558799874531917851,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558800279189848065,Cosmo,25,https://discord.gg/jWVGFj
+558802102432956425,VibronicSine319,5,/mine
+558802105696256013,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558802664218034207,dawangk,7,/forage
+558802666302734347,DiscordRPG,62,💐 dawangk went foraging and got 3 Lemons_ 1 XP and 1 skill XP.
+558802675618021386,dawangk,4,/adv
+558802677287616542,DiscordRPG,323,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 6NL- Lost 2 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 85/150 HP left.NL+ The enemy Zerp has 36/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558802739992199186,dawangk,4,/adv
+558802741732835328,DiscordRPG,323,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 82/150 HP left.NL+ The enemy Zerp has 32/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558802757004558340,dawangk,6,/stats
+558802759323746305,DiscordRPG,404,```diffNL!======== [dawangk's Stats] ========!NL+ Health: 82/150HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 3 | (264/300 XP)NL+ 160 GoldNL+ Slain 2 times. Killed 38 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!===================================!```
+558802779485896720,dawangk,4,/adv
+558802780324626433,DiscordRPG,37,You need to rest_ dawangk (5 seconds)
+558802799488401428,dawangk,12,/use lemon 2
+558802801086562314,DiscordRPG,47,dawangk used 2 Lemons and got 50HP. (132/150HP)
+558802808812601345,dawangk,4,/adv
+558802810150453282,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 129/150 HP left.NL+ The enemy Zerp has 28/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558803028808040479,Sarmello,4,/adv
+558803030389161985,DiscordRPG,340,```diffNL!========[ Sarmello's Adventure ]========!NL% Rolled a 5NL+ Critical hit!NL- Lost 1 HP.NL+ Dealt 8 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Sarmello has 42/50 HP left.NL+ The enemy Ogre has 19/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558803072915341312,Highnatzu,5,/mine
+558803075125739567,DiscordRPG,60,⛏ Highnatzu found 3 Rocks_ 2 XP and 1 skill XP while mining.
+558803083174608937,Highnatzu,5,/chop
+558803085112377364,DiscordRPG,79,🌴 Highnatzu went to chop some wood and got 3 Regular logs_ 2 XP and 1 skill XP.
+558803096764153856,Highnatzu,7,/forage
+558803098961969184,DiscordRPG,64,💐 Highnatzu went foraging and got 3 Lemons_ 2 XP and 1 skill XP.
+558803113126002688,Highnatzu,7,/search
+558803114652729374,DiscordRPG,37,You search the location_ Highnatzu...
+558803128279891978,Highnatzu,4,/adv
+558803129919864833,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 3NL- Lost 9 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 34/50 HP leftNL+ Highnatzu has 167/200 HP left.NL+ The enemy Lurght has 135/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558803610209615905,Highnatzu,4,/adv
+558803612239921163,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL- Lost 8 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 30/50 HP leftNL+ Highnatzu has 159/200 HP left.NL+ The enemy Lurght has 131/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558803690539188274,VibronicSine319,5,/mine
+558803692237750307,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558803829215199232,ThomasTLS12,5,/mine
+558803830402318377,DiscordRPG,41,ThomasTLS12_ please get your stats first.
+558803852724535306,ThomasTLS12,6,/stats
+558803853999341581,DiscordRPG,537,```diffNL!======== [ThomasTLS12's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!=======================================!```
+558803872844480520,ThomasTLS12,5,/mine
+558803874912272403,DiscordRPG,48,Recovering ThomasTLS12's stamina in 290 seconds.
+558803911318831123,Highnatzu,4,/adv
+558803913378365450,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 8 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 26/50 HP leftNL+ Highnatzu has 151/200 HP left.NL+ The enemy Lurght has 126/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558805900064849960,NiceBoyGamer,1,p
+558808620909854730,VibronicSine319,5,/mine
+558808622620999699,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558810391187292160,DepressedAlpha,5,/mine
+558810393162809353,DiscordRPG,74,⛏ DepressedAlpha found 5 Erinotite Ores_ 2 XP and 2 skill XP while mining.
+558810396157411339,DepressedAlpha,5,/chop
+558810398204100638,DiscordRPG,123,🌴 DepressedAlpha went to chop some wood and got 5 Regular logs_ 2 XP and 2 skill XP.NLDepressedAlpha Leveled up in Chopping!
+558810404814323712,DepressedAlpha,7,/search
+558810406458490885,DiscordRPG,42,You search the location_ DepressedAlpha...
+558810409466069055,DepressedAlpha,5,/fish
+558810410648731650,DiscordRPG,54,🎣 DepressedAlpha caught a Turtle_ 3 XP and 1 skill XP.
+558810429384556545,DepressedAlpha,7,/forage
+558810431834292234,DiscordRPG,69,🎋 DepressedAlpha went foraging and got 6 Grapes_ 3 XP and 2 skill XP.
+558810452206026773,DepressedAlpha,4,/inv
+558810454047326228,DiscordRPG,381,```diffNL!===== [DepressedAlpha's Inventory (Page 1/3)] =====!NL+ 29_290 Gold.NL+ 493 x Health PotionsNL+ 1 x Iron SwordNL+ 1 x Iron BattleaxeNL+ 3 x Greater Health PotionsNL+ 86 x RocksNL+ 1 x Iron OreNL+ 3 x Iron IngotsNL+ 17 x CoalNL+ 30 x GrapesNL+ 48 x CarrotsNL+ 2 x Bear TrapsNL+ 8 x Freshwater FishNL+ 5 x Tropical FishNL+ 8 x CrabsNL!===================================================!```
+558810526898192394,DiscordRPG,33,Query timed out after 15 seconds.
+558810540877676576,DepressedAlpha,15,/gbsearch grape
+558810544480452637,DiscordRPG,162,Found 6 itemsNL`DRPG Birthday Present`_ `Dragonlord's Necklace of Power 2SRR`_ `Dragonlord's Necklace of Power`_ `Golden Transponder Snail`_ `Grape Seed`_ `Grapes`
+558810633500491777,DepressedAlpha,16,/gbsearch Grapes
+558810635064836116,DiscordRPG,49,Recovering DepressedAlpha's stamina in 3 seconds.
+558810723149545472,DepressedAlpha,16,/gbsearch Grapes
+558810726160924719,DiscordRPG,167,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Grapes (6G each) {ID. jte2t2tt} [1_248 bought] >NL#===============================================#```
+558810756414439435,DepressedAlpha,2,ew
+558810765172146189,DepressedAlpha,2,no
+558810775087480835,DepressedAlpha,4,/inv
+558810776241176577,DiscordRPG,381,```diffNL!===== [DepressedAlpha's Inventory (Page 1/3)] =====!NL+ 29_290 Gold.NL+ 493 x Health PotionsNL+ 1 x Iron SwordNL+ 1 x Iron BattleaxeNL+ 3 x Greater Health PotionsNL+ 86 x RocksNL+ 1 x Iron OreNL+ 3 x Iron IngotsNL+ 17 x CoalNL+ 30 x GrapesNL+ 48 x CarrotsNL+ 2 x Bear TrapsNL+ 8 x Freshwater FishNL+ 5 x Tropical FishNL+ 8 x CrabsNL!===================================================!```
+558810877923688459,DiscordRPG,33,Query timed out after 15 seconds.
+558810896252665857,DepressedAlpha,19,welp guess its time
+558810934416769034,DepressedAlpha,9,230 x 140
+558810955518312458,VibronicSine319,5,/mine
+558810957049102336,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558810987478777885,DiscordRPG,33,Query timed out after 60 seconds.
+558811003849015306,DepressedAlpha,5,32200
+558811027651821578,DepressedAlpha,15,/gbsearch lemon
+558811031238082565,DiscordRPG,348,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 190_000 Lemons (140G each) {ID. jt4e1oqn} [70_175 bought] >NL< 500_000 Lemons (131G each) {ID. jt1gyip1} [57_847 bought] >NL< 500_000 Lemons (120G each) {ID. jsybpdjy} [10_846 bought] >NL< 600 Lemons (30G each) {ID. jsw9cnde} [545 bought] >NL#===============================================#```
+558811155368509440,DepressedAlpha,20,/gbsell jt4e1oqn 230
+558811157708668946,DiscordRPG,70,DepressedAlpha executed trade `jt4e1oqn` (230 Lemons at 140 gold each)
+558811191477141526,DepressedAlpha,4,/inv
+558811193083559968,DiscordRPG,381,```diffNL!===== [DepressedAlpha's Inventory (Page 1/3)] =====!NL+ 61_490 Gold.NL+ 493 x Health PotionsNL+ 1 x Iron SwordNL+ 1 x Iron BattleaxeNL+ 3 x Greater Health PotionsNL+ 86 x RocksNL+ 1 x Iron OreNL+ 3 x Iron IngotsNL+ 17 x CoalNL+ 30 x GrapesNL+ 48 x CarrotsNL+ 2 x Bear TrapsNL+ 8 x Freshwater FishNL+ 5 x Tropical FishNL+ 8 x CrabsNL!===================================================!```
+558811233713782794,DepressedAlpha,22,xD oooooooooooooooffff
+558811262956601345,DiscordRPG,33,Query timed out after 15 seconds.
+558811289887965194,DiscordRPG,33,Query timed out after 60 seconds.
+558817601657110530,dawangk,4,/adv
+558817603296952321,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 125/150 HP left.NL+ The enemy Zerp has 25/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558817606082232341,dawangk,7,/forage
+558817608078589953,DiscordRPG,62,🌾 dawangk went foraging and got 3 Lemons_ 2 XP and 1 skill XP.
+558817738848469002,dawangk,4,/adv
+558817740245303307,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 122/150 HP left.NL+ The enemy Zerp has 21/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558817796893704202,dawangk,4,/adv
+558817798235750400,DiscordRPG,42,Recovering dawangk's stamina in 0 seconds.
+558817807526002699,dawangk,4,/adv
+558817808968843269,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 118/150 HP left.NL+ The enemy Zerp has 18/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558817919262523407,dawangk,4,/adv
+558817921883701250,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 115/150 HP left.NL+ The enemy Zerp has 14/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558817982604640257,dawangk,4,/adv
+558817985062764544,DiscordRPG,324,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 112/150 HP left.NL+ The enemy Zerp has 10/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558817998702379008,dawangk,10,/use lemon
+558818000225173534,DiscordRPG,46,dawangk used a Lemon and got 25HP. (137/150HP)
+558818088800485376,dawangk,14,/gbsearch lmon
+558818092365643809,DiscordRPG,40,Found 78 items. Please be more specific.
+558818127782346752,dawangk,15,/gbsearch lemon
+558818129086775326,DiscordRPG,38,You need to rest_ dawangk (16 seconds)
+558818133239136257,dawangk,4,/adv
+558818134795091969,DiscordRPG,323,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 133/150 HP left.NL+ The enemy Zerp has 6/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558818177971126282,dawangk,15,/gbsearch lemon
+558818178948530178,DiscordRPG,47,You're too tired to do that dawangk (4 seconds)
+558818191095103489,dawangk,4,/adv
+558818192231759875,DiscordRPG,47,You're too tired to do that dawangk (0 seconds)
+558818213773836299,dawangk,15,/gbsearch lemon
+558818216856780803,DiscordRPG,348,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 190_000 Lemons (140G each) {ID. jt4e1oqn} [70_405 bought] >NL< 500_000 Lemons (131G each) {ID. jt1gyip1} [57_847 bought] >NL< 500_000 Lemons (120G each) {ID. jsybpdjy} [10_846 bought] >NL< 600 Lemons (30G each) {ID. jsw9cnde} [545 bought] >NL#===============================================#```
+558818346779541506,dawangk,4,/adv
+558818350076264448,DiscordRPG,323,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 130/150 HP left.NL+ The enemy Zerp has 1/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558818399485165578,dawangk,4,/adv
+558818400919617556,DiscordRPG,47,You're too tired to do that dawangk (2 seconds)
+558818410050486272,dawangk,4,/adv
+558818411556372481,DiscordRPG,318,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 5 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 125/150 HP left.NL+ The enemy Zerp was slain by dawangk!NL+ Rewards: 16 Gold and 8 XP.NL+ Pet Rock got 0 XP.NL!========================================!```
+558818502753124383,DiscordRPG,33,Query timed out after 60 seconds.
+558821629602430978,VibronicSine319,5,/mine
+558821631909298187,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558822090015375360,timtomothy,6,/stats
+558822091412209664,DiscordRPG,414,```diffNL!======== [timtomothy's Stats] ========!NL+ Health: 77/100HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: NoneNL+ Level 2 | (57/150 XP)NL+ 719 GoldNL+ Slain 0 times. Killed 12 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!======================================!```
+558822148643225612,timtomothy,5,/mine
+558822150253969418,DiscordRPG,61,⛏ timtomothy found 2 Rocks_ 1 XP and 1 skill XP while mining.
+558822209569816587,timtomothy,17,/craft iron ingot
+558822211042017301,DiscordRPG,70,timtomothy tried to craft an item they're not skilled enough to craft.
+558822334488641554,VibronicSine319,5,/mine
+558822335835275285,DiscordRPG,47,You need to rest_ VibronicSine319 (132 seconds)
+558822504009826307,timtomothy,4,/adv
+558822505545203747,DiscordRPG,354,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 6NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 10 HP DamageNL- nuggethead took 1 HP Damage.NL+ nuggethead has 21/50 HP leftNL+ timtomothy has 75/100 HP left.NL+ The enemy Zulp has 64/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558823217309941771,VibronicSine319,5,/mine
+558823219096846336,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558823242542874644,VibronicSine319,7,/skills
+558823243855953920,DiscordRPG,245,```diffNL!======== [VibronicSine319's skills] ========!NL+ Chop Level 10 (2_030 / 2_200 XP)NL+ Fish Level 8 (1_419 / 1_440 XP)NL+ Forage Level 10 (2_116 / 2_200 XP)NL+ Mine Level 10 (2_147 / 2_200 XP)NL!============================================!```
+558823284599291904,VibronicSine319,14,/travel copper
+558823285945663488,DiscordRPG,52,VibronicSine319 started their journey to Copperfall!
+558824158729863188,VibronicSine319,5,/chop
+558824159736758305,DiscordRPG,42,VibronicSine319 has arrived to Copperfall!
+558824161259028495,DiscordRPG,86,🌳 VibronicSine319 went to chop some wood and got 14 Regular logs_ 3 XP and 2 skill XP.
+558824171962892299,VibronicSine319,7,/forage
+558824173938540544,DiscordRPG,76,🌼 VibronicSine319 went foraging and got 11 Wheat Seeds_ 2 XP and 2 skill XP.
+558824183153557504,VibronicSine319,5,/fish
+558824184625627159,DiscordRPG,55,🎣 VibronicSine319 caught a Turtle_ 3 XP and 2 skill XP.
+558824194343960576,VibronicSine319,7,/search
+558824195749052436,DiscordRPG,43,You search the location_ VibronicSine319...
+558824205781565462,VibronicSine319,4,/adv
+558824207614607369,DiscordRPG,0,
+558824219186561037,VibronicSine319,13,/travel altar
+558824220839378964,DiscordRPG,58,VibronicSine319 started their journey to Copperfall Altar!
+558824938170220567,VibronicSine319,5,/mine
+558824939826708486,DiscordRPG,48,VibronicSine319 has arrived to Copperfall Altar!
+558824941093650432,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558827020356943892,white_rxses 🌹,32,tryna figure out how to use this
+558830219730092040,𝕯𝖆𝖗𝖐 𝕬𝖓𝖌𝖊𝖑,5,/MINE
+558830221453819925,DiscordRPG,40,𝕯𝖆𝖗𝖐 𝕬𝖓𝖌𝖊𝖑_ please get your stats first.
+558835784136916993,VibronicSine319,5,/mine
+558835787643486288,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558836076639158282,VibronicSine319,14,/travel copper
+558836078115815495,DiscordRPG,52,VibronicSine319 started their journey to Copperfall!
+558836431343190033,VibronicSine319,5,/chop
+558836432303554562,DiscordRPG,42,VibronicSine319 has arrived to Copperfall!
+558836433876418562,DiscordRPG,85,🌳 VibronicSine319 went to chop some wood and got 14 Willow logs_ 3 XP and 2 skill XP.
+558836442713948160,VibronicSine319,7,/forage
+558836444370829350,DiscordRPG,71,🎍 VibronicSine319 went foraging and got 11 Apples_ 3 XP and 2 skill XP.
+558836453560418304,VibronicSine319,5,/fish
+558836455041007636,DiscordRPG,54,🎣 VibronicSine319 caught a Snail_ 3 XP and 2 skill XP.
+558836467183386624,VibronicSine319,7,/search
+558836468605255699,DiscordRPG,43,You search the location_ VibronicSine319...
+558836482119303179,VibronicSine319,4,/adv
+558836483268673567,DiscordRPG,0,
+558836559198289930,Highnatzu,4,/inv
+558836560645324822,DiscordRPG,218,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 9_551 Gold.NL+ 2_004 x Health PotionsNL+ 1 x Small DaggerNL+ 3 x RocksNL+ 8 x LogsNL+ 3 x Rock SaltNL+ 6 x LemonsNL!==============================================!```
+558836576327565343,Highnatzu,7,/search
+558836577799897098,DiscordRPG,37,You search the location_ Highnatzu...
+558836585739845665,Highnatzu,5,/chop
+558836587488608271,DiscordRPG,79,🌲 Highnatzu went to chop some wood and got 3 Regular logs_ 2 XP and 1 skill XP.
+558836592882483200,Highnatzu,5,/mine
+558836594761793548,DiscordRPG,60,⛏ Highnatzu found 3 Rocks_ 2 XP and 1 skill XP while mining.
+558836605738156059,Highnatzu,7,/forage
+558836607503958018,DiscordRPG,98,🌼 Highnatzu went foraging and got 3 Lemons_ 2 XP and 1 skill XP.NLHighnatzu Leveled up in Foraging!
+558836615921795081,Highnatzu,4,/adv
+558836617591128074,DiscordRPG,336,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 1NL- Lost 10 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 5 HP Damage.NL+ Pet Rock has 21/50 HP leftNL+ Highnatzu has 141/200 HP left.NL+ The enemy Lurght has 124/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558836630840934413,DiscordRPG,33,Query timed out after 15 seconds.
+558836648465399808,Highnatzu,6,/pheal
+558836649606381572,DiscordRPG,67,Highnatzu used a Health Potion and healed their pet 29HP. (50/50HP)
+558836694233907210,Highnatzu,4,/inv
+558836695571628032,DiscordRPG,219,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 9_551 Gold.NL+ 2_003 x Health PotionsNL+ 1 x Small DaggerNL+ 6 x RocksNL+ 12 x LogsNL+ 3 x Rock SaltNL+ 9 x LemonsNL!==============================================!```
+558836729449021442,Highnatzu,4,/adv
+558836731261091847,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL- Lost 8 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 46/50 HP leftNL+ Highnatzu has 133/200 HP left.NL+ The enemy Lurght has 120/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558836762353336320,DiscordRPG,33,Query timed out after 15 seconds.
+558837467181219842,VibronicSine319,4,/adv
+558837469366452226,DiscordRPG,0,
+558837484432130048,VibronicSine319,5,/chop
+558837485438894081,DiscordRPG,51,Recovering VibronicSine319's stamina in 49 seconds.
+558837502115315742,VibronicSine319,13,/travel altar
+558837504032243723,DiscordRPG,58,VibronicSine319 started their journey to Copperfall Altar!
+558837611142316062,Highnatzu,9,/location
+558837612610060308,DiscordRPG,0,
+558837752100028441,Highnatzu,21,/travel Dsian's House
+558837753203130408,DiscordRPG,40,You need a compass to travel_ Highnatzu.
+558837805262962721,VibronicSine319,4,/adv
+558837806655340554,DiscordRPG,48,VibronicSine319 has arrived to Copperfall Altar!
+558837807666298900,DiscordRPG,42,You can't adventure here_ VibronicSine319.
+558837816541446144,VibronicSine319,5,/mine
+558837818240270356,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558837976772247552,Highnatzu,9,/buyfield
+558837978164625438,DiscordRPG,58,Sorry_ Highnatzu. But you need to be level 10 to use this.
+558838619356528640,Highnatzu,4,/adv
+558838621197697025,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 2NL- Lost 9 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 5 HP Damage.NL+ Pet Rock has 41/50 HP leftNL+ Highnatzu has 124/200 HP left.NL+ The enemy Lurght has 117/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558838668635406359,Highnatzu,4,/adv
+558838669759217702,DiscordRPG,44,Recovering Highnatzu's stamina in 2 seconds.
+558838715649359873,Highnatzu,15,/gmsearch sword
+558838722959769612,DiscordRPG,1312,Found 55 itemsNL`Alpha God Sword`_ `Bacon-hafted longsword`_ `Broken Iron Sword 2SRE+15`_ `Broken Iron Sword 2SRR+20`_ `Broken Iron Sword`_ `Burning Super-Death Sword +1`_ `Burning Super-Death Sword +2`_ `Burning Super-Death Sword +3`_ `Burning Super-Death Sword +4`_ `Burning Super-Death Sword +5`_ `Burning Super-Death Sword +8`_ `Burning Super-Death Sword 2SSS`_ `Burning Super-Death Sword`_ `Dummy Sword Blade`_ `Dummy Sword Grip`_ `Dummy Sword Guard`_ `Dummy Sword Pommel`_ `Force Mithril Greatsword +7`_ `Force Mithril Greatsword`_ `Iron Sword +1`_ `Iron Sword +2`_ `Iron Sword +4`_ `Iron Sword +8`_ `Iron Sword 1S`_ `Iron Sword 2S+10`_ `Iron Sword 2S+5`_ `Iron Sword 2S`_ `Iron Sword Blade`_ `Iron Sword Grip`_ `Iron Sword Guard`_ `Iron Sword Pommel`_ `Iron Sword`_ `Leptocite Sword Blade`_ `Leptocite Sword Grip`_ `Leptocite Sword Guard`_ `Leptocite Sword Pommel`_ `Massive Greatsword of Striking +12`_ `Massive Greatsword of Striking +16`_ `Massive Greatsword of Striking 2SRR+9`_ `Massive Greatsword of Striking`_ `Orchid Sword +1`_ `Orchid Sword +2`_ `Orchid Sword +3`_ `Orchid Sword +4`_ `Orchid Sword +5`_ `Orchid Sword +6`_ `Orchid Sword +7`_ `Orchid Sword +8`_ `Orchid Sword 1S`_ `Orchid Sword`_ `Reizaa Sword`_ `Supernova Sword`_ `Sword of Pink Slime`_ `Sword of the Wise`_ `Zangetsu Bankai Sword`
+558838840199086090,Highnatzu,19,/item Iron Sword +8
+558838841658703882,DiscordRPG,46,Sorry_ Highnatzu_ but that item doesn't exist.
+558839061263941642,Highnatzu,21,/item Leptocite Sword
+558839062602055715,DiscordRPG,112,Found 4 itemsNL`Leptocite Sword Blade`_ `Leptocite Sword Grip`_ `Leptocite Sword Guard`_ `Leptocite Sword Pommel`
+558839190524002321,Highnatzu,27,/item Leptocite Sword Blade
+558839191988076545,DiscordRPG,0,
+558839405419298826,Highnatzu,4,/adv
+558839407033974804,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL- Lost 8 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 37/50 HP leftNL+ Highnatzu has 116/200 HP left.NL+ The enemy Lurght has 113/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558839435643453461,Highnatzu,7,/search
+558839437283557376,DiscordRPG,37,You search the location_ Highnatzu...
+558839558683492353,Highnatzu,7,/forage
+558839560629387283,DiscordRPG,64,🌷 Highnatzu went foraging and got 4 Lemons_ 2 XP and 2 skill XP.
+558839574386704387,Highnatzu,5,/mine
+558839576018288660,DiscordRPG,60,⛏ Highnatzu found 3 Rocks_ 2 XP and 1 skill XP while mining.
+558839618448130078,Highnatzu,5,/chop
+558839619953754123,DiscordRPG,79,🌳 Highnatzu went to chop some wood and got 3 Regular logs_ 2 XP and 1 skill XP.
+558839634210193438,Highnatzu,4,/inv
+558839635472809986,DiscordRPG,220,```diffNL!===== [Highnatzu's Inventory (Page 1/1)] =====!NL+ 9_551 Gold.NL+ 2_003 x Health PotionsNL+ 1 x Small DaggerNL+ 9 x RocksNL+ 16 x LogsNL+ 3 x Rock SaltNL+ 13 x LemonsNL!==============================================!```
+558839708483059712,DiscordRPG,33,Query timed out after 15 seconds.
+558839810521956353,Highnatzu,4,/adv
+558839812535222298,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 8 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 4 HP Damage.NL+ Pet Rock has 33/50 HP leftNL+ Highnatzu has 108/200 HP left.NL+ The enemy Lurght has 108/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558840901774999553,timtomothy,4,/adv
+558840903486406666,DiscordRPG,337,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- nuggethead took 2 HP Damage.NL+ nuggethead has 19/50 HP leftNL+ timtomothy has 71/100 HP left.NL+ The enemy Zulp has 61/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558841038907768863,timtomothy,4,/adv
+558841040811851776,DiscordRPG,337,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 2 HP DamageNL- nuggethead took 2 HP Damage.NL+ nuggethead has 17/50 HP leftNL+ timtomothy has 67/100 HP left.NL+ The enemy Zulp has 59/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558841559794319374,timtomothy,4,/adv
+558841562344325160,DiscordRPG,337,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 3 HP DamageNL- nuggethead took 2 HP Damage.NL+ nuggethead has 15/50 HP leftNL+ timtomothy has 64/100 HP left.NL+ The enemy Zulp has 56/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558841754019692585,timtomothy,7,/forage
+558841755932295188,DiscordRPG,65,🍃 timtomothy went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+558841949537173539,VibronicSine319,5,/mine
+558841951630393355,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 3 XP and 2 skill XP while mining.
+558842765379633182,VibronicSine319,5,/mine
+558842766507900968,DiscordRPG,57,You're too tired to do that VibronicSine319 (106 seconds)
+558844773813977119,Pixelmon Trainer,7,/locate
+558844794844217344,Pixelmon Trainer,7,/search
+558844796462956571,DiscordRPG,44,You search the location_ Pixelmon Trainer...
+558844809813688324,Pixelmon Trainer,4,/adv
+558844811818565633,DiscordRPG,353,```diffNL!========[ Pixelmon Trainer's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Pixelmon Trainer has 65/100 HP left.NL+ The enemy Oglurth has 37/40 HP left.NL!=================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558844869343313922,Pixelmon Trainer,4,/adv
+558844871264305163,DiscordRPG,353,```diffNL!========[ Pixelmon Trainer's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Pixelmon Trainer has 63/100 HP left.NL+ The enemy Oglurth has 33/40 HP left.NL!=================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558844899617931289,Pixelmon Trainer,4,/adv
+558844900880154624,DiscordRPG,56,You're too tired to do that Pixelmon Trainer (7 seconds)
+558844935810449438,Pixelmon Trainer,4,/inv
+558844936905293846,DiscordRPG,198,```diffNL!===== [Pixelmon Trainer's Inventory (Page 1/1)] =====!NL+ 170 Gold.NL+ 3 x Health PotionsNL+ 1 x Small DaggerNL+ 4 x LogsNL+ 4 x LemonsNL!=====================================================!```
+558844969092382753,Pixelmon Trainer,5,/shop
+558845001170157579,Pixelmon Trainer,6,/items
+558845002759929876,DiscordRPG,575,```diffNL!=====[ Items (Page 1/51) ]=====!NL+ Health Potion - 5 Gold {Lvl. 1}NL- Greater Health Potion - 10 Gold {Lvl. 5}NL- Grapes - 15 Gold {Lvl. 5}NL- Mushroom - 30 Gold {Lvl. 8}NL- Cherry - 40 Gold {Lvl. 6}NL- Healing Nectar - 40 Gold {Lvl. 3}NL- Even Greater Health Potion - 50 Gold {Lvl. 8}NL- Carrot - 60 Gold {Lvl. 5}NL- Apple - 80 Gold {Lvl. 10}NL- Banana - 90 Gold {Lvl. 10}NL- Enhancing Stone - 100 Gold {Lvl. 10}NL+ Iron Sword - 100 Gold {Lvl. 2}NL- Wheat - 100 Gold {Lvl. 5}NL- Milk - 200 Gold {Lvl. 1}NL- Freshwater Fish - 200 Gold {Lvl. 4}NL!===============================!```
+558845009990778911,DiscordRPG,33,Query timed out after 15 seconds.
+558845264274915328,DiscordRPG,33,Query timed out after 60 seconds.
+558850878057086979,VibronicSine319,5,/mine
+558850879558516757,DiscordRPG,67,⛏ VibronicSine319 found 14 Rocks_ 4 XP and 2 skill XP while mining.
+558860436364328977,GAP2of4,7,/forage
+558860438042050600,DiscordRPG,62,🌿 GAP2of4 went foraging and got 3 Lemons_ 1 XP and 2 skill XP.
+558860447277907969,GAP2of4,5,/chop
+558860448682737681,DiscordRPG,77,🌲 GAP2of4 went to chop some wood and got 2 Regular logs_ 1 XP and 1 skill XP.
+558860456127627265,GAP2of4,5,/mine
+558860458459922433,DiscordRPG,58,⛏ GAP2of4 found 2 Rocks_ 1 XP and 1 skill XP while mining.
+558860482128379946,GAP2of4,7,/search
+558860483604774913,DiscordRPG,35,You search the location_ GAP2of4...
+558860498372657182,GAP2of4,4,/adv
+558860500444905482,DiscordRPG,315,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 10/50 HP leftNL+ GAP2of4 has 71/100 HP left.NL+ The enemy Zerp was slain by GAP2of4!NL+ Rewards: 17 Gold and 8 XP.NL+ Mitchel got 3 XP.NL!========================================!```
+558860541779771412,GAP2of4,4,/inv
+558860542987599909,DiscordRPG,230,```diffNL!===== [GAP2of4's Inventory (Page 1/1)] =====!NL+ 2_057 Gold.NL+ 13 x Health PotionsNL+ 1 x Small DaggerNL+ 4 x RocksNL+ 4 x Iron OresNL+ 12 x LogsNL+ 12 x Rock SaltNL+ 16 x LemonsNL!============================================!```
+558860565653749808,GAP2of4,4,/adv
+558860568107417603,DiscordRPG,321,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 8/50 HP leftNL+ GAP2of4 has 68/100 HP left.NL+ The enemy Zerp has 75/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558860610125692928,GAP2of4,4,/adv
+558860611186851864,DiscordRPG,47,You're too tired to do that GAP2of4 (3 seconds)
+558860615624425492,DiscordRPG,33,Query timed out after 15 seconds.
+558860637090873345,GAP2of4,4,/adv
+558860638399496195,DiscordRPG,321,```diffNL!========[ GAP2of4's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Mitchel took 2 HP Damage.NL+ Mitchel has 6/50 HP leftNL+ GAP2of4 has 65/100 HP left.NL+ The enemy Zerp has 71/80 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+558860688248799242,GAP2of4,4,/adv
+558860689679056922,DiscordRPG,37,You need to rest_ GAP2of4 (2 seconds)
+558860710679937034,GAP2of4,4,/inv
+558860712093679629,DiscordRPG,230,```diffNL!===== [GAP2of4's Inventory (Page 1/1)] =====!NL+ 2_057 Gold.NL+ 13 x Health PotionsNL+ 1 x Small DaggerNL+ 4 x RocksNL+ 4 x Iron OresNL+ 12 x LogsNL+ 12 x Rock SaltNL+ 16 x LemonsNL!============================================!```
+558860742401589269,GAP2of4,15,/gmsearch lemon
+558860748797771776,DiscordRPG,561,```mdNL#===== [Global Trades {Selling} (Page 1/1)] =====#NL< 25 Lemons (145G each) {ID. jtgtdcyt} [0 sold] >NL< 45 Lemons (150G each) {ID. jtg6scye} [0 sold] >NL< 283 Lemons (160G each) {ID. jt8hep0u} [0 sold] >NL< 1 Lemon (170G each) {ID. jt7ygfpt} [0 sold] >NL< 90 Lemons (225G each) {ID. jt4ew3u9} [0 sold] >NL< 50 Lemons (325G each) {ID. jt4byodi} [0 sold] >NL< 15 Lemons (175G each) {ID. jt2ypfnd} [0 sold] >NL< 100 Lemons (500G each) {ID. jrt4lcf0} [0 sold] >NL< 100 Lemons (350G each) {ID. jrsv5t8q} [0 sold] >NL#================================================#```
+558860781622394891,DiscordRPG,33,Query timed out after 15 seconds.
+558860783119761440,GAP2of4,15,/gbsearch lemon
+558860787087835136,DiscordRPG,348,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 190_000 Lemons (140G each) {ID. jt4e1oqn} [70_817 bought] >NL< 500_000 Lemons (131G each) {ID. jt1gyip1} [57_847 bought] >NL< 500_000 Lemons (120G each) {ID. jsybpdjy} [10_846 bought] >NL< 600 Lemons (30G each) {ID. jsw9cnde} [545 bought] >NL#===============================================#```
+558860847141617683,GAP2of4,19,/gbsell jt4e1oqn 15
+558860848521543695,DiscordRPG,62,GAP2of4 executed trade `jt4e1oqn` (15 Lemons at 140 gold each)
+558860865978236943,GAP2of4,4,/inv
+558860867672735745,DiscordRPG,228,```diffNL!===== [GAP2of4's Inventory (Page 1/1)] =====!NL+ 4_157 Gold.NL+ 13 x Health PotionsNL+ 1 x Small DaggerNL+ 4 x RocksNL+ 4 x Iron OresNL+ 12 x LogsNL+ 12 x Rock SaltNL+ 1 x LemonNL!============================================!```
+558860911423520798,GAP2of4,19,/gbsearch rock salt
+558860914019794965,DiscordRPG,172,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Rock Salt (15G each) {ID. jt25vy6m} [21_989 bought] >NL#===============================================#```
+558860940263686174,DiscordRPG,33,Query timed out after 15 seconds.

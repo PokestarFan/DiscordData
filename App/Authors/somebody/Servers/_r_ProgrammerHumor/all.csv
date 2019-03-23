@@ -1,0 +1,30 @@
+ID,Channel,Content Length,Content
+558806484339654676,general-discussions,160,_looks_ well not like there's a lot to review_ of what's there_ imo it looks fine_ everything is nicely separated into little sections of related function calls
+558808067555459076,general-discussions,84,this is probably bad practice_ but i'd import `import javafx.scene.shape.*;` instead
+558809177779208192,general-discussions,14,don't think so
+558809369706496013,general-discussions,43,so it wouldn't import `javafx.scene.*;` etc
+558810088693956635,general-discussions,26,nah it's got a good reason
+558810159472967682,general-discussions,91,firstly everything would be super slow if you imported hundreds if not thousands of classes
+558810268403105815,general-discussions,75,secondly you probably didn't want anything from the child namespaces anyway
+558810361478774784,general-discussions,128,it might be a thing you want in a scripting language_ but definitely not java (btw_ scripting languages don't allow this either)
+558811822719762452,programming,35,<@314205761846902788> what language
+558814525076275200,programming,3,uhm
+558814601651683369,programming,55,assignment expressions were introduced in python in 3.8
+558814649332662279,programming,52,in Java 1 doesn't work as true <@314205761846902788>
+558814716537864202,programming,51,in python_ yes. in Java_ it's not a `boolean` so no
+558851663041921035,programming,2,ew
+558851694969094144,programming,6,python
+558851715261005824,programming,12,is third wtf
+558851866746945536,programming,117,i think python is misrepresented (and to an extent JS too) because they're usually the only language respondents know
+558851885835091998,programming,37,so they have nothing to compare it to
+558852088206065664,programming,76,well_ not that people know more than one language for other languages though
+558852211132596234,programming,85,but i guess it's that they have a bit of an advantage from being scripting languages?
+558852400274997276,programming,29,also 🤔 rust is hard to learn?
+558852913628446721,programming,24,😦 aww we can't ping mods
+558852984042422272,programming,56,re: "what languages and tools they are comfortable with"
+558853030074646550,programming,62,would there need to be guidelines on what counts/doesn't count
+558853458879315974,programming,39,depending on the meaning of larger_ yes
+558853511920484394,programming,49,i haven't done larger as in multiple people large
+558853627087683594,programming,3,lol
+558854101497020437,programming,115,re: python. sure_ it isn't _bad_. but no way is it _that_ much better than literally every other scripting language
+558855431162953748,programming,17,🤔 hmm. fair point

@@ -1,0 +1,35 @@
+ID,Content Length,Content
+558755661094322197,58,minecraft mooooooooooooooooooooooooooooooooooooooooooooood
+558755871488999424,29,<@142242854167642122> tru dat
+558755935397347343,33,I used the nitro gift on this one
+558756029878501380,21,nah I deleted old acc
+558756761637748736,11,oof windoze
+558757414980157455,40,hack all the things_ drink all the booze
+558758421457797327,46,zero through three_ we're in every single ring
+558758943728599080,37,mfw no one gets the song reference :(
+558759391059247113,118,<@115076505549144067> also is hardware a ring? I thought lowest ring is zero cause rings are only existent in software
+558759408268607490,20,and cpu manages them
+558759422571053094,14,me is hardware
+558759465906601995,27,different small chip in cpu
+558759473246633985,6,yea Ik
+558759961526665245,78,oof I tried to strip the me's firmware but apparently 9. gen cpus prevent that
+558760010033790996,38,I had to use buspirate to reflash bios
+558760097447280641,48,yeah 9. gen cpus detect that and prevent booting
+558760102258016367,8,it seems
+558760525882720270,86,only thing I want is Libreboot for 9. gen cpus and It won't be ready in next 100 years
+558760934185762826,53,yeah libreboot is coreboot with no proprietary parts?
+558761339108196372,44,imagine if intel made their shit open source
+558761418724212750,71,but I think something about x86 agreement disallowed making open source
+558761636618305536,3,yes
+558761683170885661,31,dude there are already exploits
+558761704037548036,32,and fixes are making cpus slower
+558761738615390217,15,was it spectre?
+558762051590160421,143,I can only remember how one of them exploits were working_ it was something about placing sigtrap right in mapped kernel memory security checks
+558762108133703685,35,right before security check I think
+558762421397880880,58,cause branch predictor executed code beyond security check
+558762464507068416,37,maybe not execute but something other
+558762489643270149,42,I dunno how branch prediction really works
+558762894163050536,59,<@115076505549144067> what do u think about puri.sm laptops
+558763190331244571,52,how does it has i7 7500u as cpu and support coreboot
+558763255137566746,61,I thought coreboot didn't support anything newer than haswell
+558765434535673856,61,is this correct https://coreboot.org/status/board-status.html

@@ -1,0 +1,5 @@
+ID,Content Length,Content
+558778623692242984,83,I finally made the `if (x = 0) {` bug for the first time in my programming career 🎉
+558813710404026369,23,You can't do it in Java
+558815116297240586,58,And I was using a language that doesn't even have booleans
+558816040390492160,72,But because of Java I'm used to explicitly saying `x==0` instead of `!x`

@@ -1,0 +1,119 @@
+ID,Author,Content Length,Content
+558778623692242984,Kyro,83,I finally made the `if (x = 0) {` bug for the first time in my programming career 🎉
+558785611230609428,emccue,30,what program were you writing?
+558811658881990668,bread,138,<@403919257873678348> sometimes_ just to confuse my business partner_ I write `while (x = 8) {` because it comes out as true until broken.
+558811728809426957,bread,29,I get frequent texts about it
+558811822719762452,somebody,35,<@314205761846902788> what language
+558812679829979136,bread,20,Mostly in our Python
+558813499862810634,bread,104,and in our Java_ but that's because anything that's not false or 0 returns true in the of statement IIRC
+558813710404026369,Kyro,23,You can't do it in Java
+558813884392407080,bread,7,I use 1
+558813940218462239,bread,38,since the assignment returns the value
+558814007251697665,bread,15,1 works as true
+558814525076275200,somebody,3,uhm
+558814601651683369,somebody,55,assignment expressions were introduced in python in 3.8
+558814649332662279,somebody,52,in Java 1 doesn't work as true <@314205761846902788>
+558814716537864202,somebody,51,in python_ yes. in Java_ it's not a `boolean` so no
+558815116297240586,Kyro,58,And I was using a language that doesn't even have booleans
+558816040390492160,Kyro,72,But because of Java I'm used to explicitly saying `x==0` instead of `!x`
+558817301705785345,bread,44,You right_ it's not in my Androi dcode_ my b
+558817595894005808,bread,30,It's in the C++ part of my JVM
+558831809010597900,MemoryError,41,is there a way to append to an array in C
+558831836588146738,MemoryError,16,not linked lists
+558832006050611203,MemoryError,88,i have a callback function which needs to add an item to an array every time it's called
+558832055534878740,MemoryError,33,i can't figure out how to do that
+558832650949754900,emccue,63,conceptually an array is not a good fit for continual appending
+558832774342246411,emccue,118,If you want to do an operation like that you would be best off writing or finding your own "ArrayList" kind of wrapper
+558832996619255833,MemoryError,61,is there a way to find the index of the last item in the list
+558833043738198016,MemoryError,6,array*
+558833123811524638,emccue,58,I think you don't quite understand what an array in c _is_
+558833202815565825,emccue,34,it is a fixed size block of memory
+558833229780484148,emccue,39,that you have a pointer to the start of
+558833301725511700,emccue,55,it is up to you to keep track of the size of that array
+558833325943554078,emccue,25,usually in a seperate int
+558833389654769664,emccue,69,because you only have the pointer to the start of the block of memory
+558833485142556674,emccue,95,nothing about that pointer can tell you how much memory ahead of that you are allowed to access
+558833647302606849,emccue,160,so if you keep the size of the array and the pointer to the start of the array held somewhere then the "index of the last item" is something you implicitly know
+558834656754008073,emccue,53,and I might be wrong when I say to store it in an int
+558834705592483842,emccue,40,it might be a `usize` or some other type
+558834734483111948,emccue,31,I am not super well versed in C
+558834781337550857,emccue,45,and I don't have classes that make me write C
+558834845690757154,emccue,28,so I have no desire to learn
+558834869896085527,emccue,14,rust 2019 baby
+558835036468674580,MemoryError,24,well i suppose im fucked
+558835125572468737,MemoryError,22,time to check out rust
+558835870220812328,MemoryError,68,if anyone can help me out with this i might consider going back to C
+558836141651001375,emccue,54,The type you are looking for in rust is probably `Vec`
+558836246571384832,emccue,72,can you share your problem and what you were thinking of for a solution?
+558836968654503943,emccue,64,I can maybe whip up a quick A/B of what it would be in C vs rust
+558837496327307287,emccue,65,Actually I am kinda bored so i could use the mindless distraction
+558838364481126401,MemoryError,218,I have a function which retrieves a few rows from a database and uses a callback function to individually process each row. The callback function is supposed to map the row's data to a structure and add it to an array.
+558838506462380072,emccue,46,is this for a class or for a personal project?
+558838554839613452,MemoryError,16,personal project
+558838627145089044,emccue,41,cool_ means you can use whatever you want
+558838656161546302,emccue,8,what db?
+558838663736459271,MemoryError,29,i'm experimenting with SQLite
+558838685718675488,emccue,6,gotcha
+558839798748676097,emccue,27,any more details than that?
+558839872333414411,MemoryError,10,not really
+558839938129461258,emccue,43,do you have a schema you were messing with?
+558839981297106959,emccue,29,like_ the SQL you were using?
+558840051308429322,MemoryError,22,not sure what you mean
+558840113631592458,emccue,64,well if you are using sqlite you started off by creating a table
+558840131813900289,emccue,26,and then you inserted data
+558840155457454092,MemoryError,4,yeah
+558840155767701514,emccue,28,and now you want to query it
+558840324198236171,emccue,79,I want to stick to what you were doing so I don't have to think about sql today
+558840689530765333,MemoryError,407,```cNLvoid handle_entry(void *entries_ int argc_ char **argv_ char **column_name){NL  Entry entry;NL  strcpy(entry.title_ argv[1]);NL  strcpy(entry.content_ argv[2]);NL}NLNLvoid get_entries(){NL  sqlite3 *DB;NL  sqlite3_stmt *stmt;NL  char *sql = "SELECT * FROM Entries;";NL  Entry *entries[100];NL  sqlite3_open("entries.db"_ &DB);NL  sqlite3_exec(DB_ sql_ handle_entry_ entries_ 0);NL``` this is what i was trying to do
+558840733889724437,emccue,10,ahh gotcha
+558840765682548756,emccue,29,whats the schema for entries?
+558840905038168064,MemoryError,18,ID_ Title_ Content
+558840963368484879,MemoryError,80,```cNLtypedef struct Entry {NL  int ID;NL  char title;NL  char content;NL} Entry;NL```
+558841081064587275,emccue,67,thats good_ but i meant specifically the sql for creating the table
+558841133334003723,emccue,23,eh whatever I can do it
+558841223897546752,emccue,79,remember kids: If you try too hard to be lazy_ you are actually doing more work
+558841267765641233,MemoryError,127,```NLCREATE TABLE Entries(NL              ID INTEGER PRIMARY KEY_NL              Title CHAR(512)_NL              Content TEXT);NL```
+558847468926664734,emccue,32,<@467576889926483969> Here ya go
+558847489017380875,emccue,1537,```rustNLuse rusqlite::{Connection_ NO_PARAMS};NLNL#[derive(Debug)]NLstruct Entry {NL    id: i64_NL    title: String_NL    content: StringNL}NLNLfn insert_entry(conn: &Connection_ entry: &Entry) -> rusqlite::Result<usize> {NL    conn.execute("\NL    INSERT INTO Entries (Title_ Content)NL        VALUES (?1_ ?2)NL    "_NL    &[&entry.title_ &entry.content])NL}NLNLfn all_entries(conn: &Connection) -> rusqlite::Result<Vec<Entry>> {NL    let mut stmt = connNL        .prepare("SELECT ID_ Title_ Content FROM Entries")?;NL    let entry_iter = stmt.query_map(NL        NO_PARAMS_NL        |row| Ok(Entry{NL            id: row.get(0)?_NL            title: row.get(1)?_NL            content: row.get(2)?NL        })NL    )?;NLNL    let mut entries = Vec::new();NL    for entry in entry_iter {NL        entries.push(entry?);NL    }NLNL    Ok(entries)NL}NLNLfn main() -> rusqlite::Result<()> {NL    let conn = Connection::open("db.sqlite")?;NL    conn.execute("\NL    CREATE TABLE IF NOT EXISTS Entries(NL              ID INTEGER PRIMARY KEY_NL              Title CHAR(512)_NL              Content TEXT);NL    "_NL    NO_PARAMS)?;NLNL    let entry_1 = Entry {NL        id: 0_NL        title: String::from("Entry Number One")_NL        content: String::from("This is the text for my entry.")NL    };NLNL    let entry_2 = Entry {NL        id: 1_NL        title: String::from("Le Second Entreee")_NL        content: String::from("2. What is 2? Can you taste it?")NL    };NLNL    insert_entry(&conn_&entry_1)?;NL    insert_entry(&conn_&entry_2)?;NLNLNLNL    println!("{:?}"_ all_entries(&conn));NLNL    Ok(())NL}NL```
+558847695972728852,emccue,462,```NL/Users/emccue/.cargo/bin/cargo run --color=always --package sequel --bin sequelNL   Compiling sequel v0.1.0 (/Users/emccue/Development/sequel)NL    Finished dev [unoptimized + debuginfo] target(s) in 1.63sNL     Running `target/debug/sequel`NLOk([Entry { id: 1_ title: "Entry Number One"_ content: "This is the text for my entry." }_ Entry { id: 2_ title: "Le Second Entreee"_ content: "2. What is 2? Can you taste it?" }])NLNLProcess finished with exit code 0NL```
+558847781683462144,emccue,21,`rusqlite = "0.17.0"`
+558847811672735797,emccue,39,and that is the only library i am using
+558848335918661642,MemoryError,43,that's gonna take a long time to understand
+558848353073365003,MemoryError,6,for me
+558848426612228096,MemoryError,39,im still in ch one in the rust tutorial
+558849214507909130,emccue,10,thats fair
+558849338047201291,emccue,88,C is definitely a simpler language in terms of number of concepts you need to understand
+558849745087365120,kenndel,35,i thought that was haskell at first
+558849768676392980,kenndel,30,rust is an intersting language
+558849807813312533,kenndel,17,haskell + c + c++
+558850073497436180,emccue,0,
+558850121387737100,emccue,97,`For the third year in a row_ Rust is the most loved programming language among our respondents_`
+558850842598572033,MemoryError,4,link
+558850856007630848,emccue,98,Not a quality assessment_ but I want to frontload good press because the language is hard to learn
+558850903638016010,emccue,58,https://insights.stackoverflow.com/survey/2018/#technology
+558850995887669259,emccue,51,but once you learn it people tend to really like it
+558851020298387476,MemoryError,20,where's the 2019 one
+558851159087906828,emccue,33,in the future because it is march
+558851663041921035,somebody,2,ew
+558851694969094144,somebody,6,python
+558851715261005824,somebody,12,is third wtf
+558851866746945536,somebody,117,i think python is misrepresented (and to an extent JS too) because they're usually the only language respondents know
+558851885835091998,somebody,37,so they have nothing to compare it to
+558852088206065664,somebody,76,well_ not that people know more than one language for other languages though
+558852211132596234,somebody,85,but i guess it's that they have a bit of an advantage from being scripting languages?
+558852353717960714,emccue,48,Hey mods_ just thinking out loud without context
+558852400274997276,somebody,29,also 🤔 rust is hard to learn?
+558852526523285506,emccue,92,is there a way to give people badges for what languages and tools they are comfortable with?
+558852648355233830,emccue,103,It would save me quite a bit of time asking people to get context on what is limiting their perspective
+558852913628446721,somebody,24,😦 aww we can't ping mods
+558852984042422272,somebody,56,re: "what languages and tools they are comfortable with"
+558853030074646550,somebody,62,would there need to be guidelines on what counts/doesn't count
+558853309641785358,emccue,104,<@153146360705712128> What languages are you comfortable with and can use. You choose where that line is
+558853360132947979,emccue,45,And have you done a larger project in python?
+558853458879315974,somebody,39,depending on the meaning of larger_ yes
+558853511920484394,somebody,49,i haven't done larger as in multiple people large
+558853590522003456,XpertAaron,94,For a second there I thought discord had brought back the mention somebody April fool's thingy
+558853627087683594,somebody,3,lol
+558854101497020437,somebody,115,re: python. sure_ it isn't _bad_. but no way is it _that_ much better than literally every other scripting language
+558855234063958047,emccue,90,I think that has far less to do with the language itself and more to do with the ecosystem
+558855431162953748,somebody,17,🤔 hmm. fair point

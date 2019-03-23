@@ -1,0 +1,25 @@
+ID,Server,Channel,Content Length,Content
+558831809010597900,/r/ProgrammerHumor,programming,41,is there a way to append to an array in C
+558831836588146738,/r/ProgrammerHumor,programming,16,not linked lists
+558832006050611203,/r/ProgrammerHumor,programming,88,i have a callback function which needs to add an item to an array every time it's called
+558832055534878740,/r/ProgrammerHumor,programming,33,i can't figure out how to do that
+558832996619255833,/r/ProgrammerHumor,programming,61,is there a way to find the index of the last item in the list
+558833043738198016,/r/ProgrammerHumor,programming,6,array*
+558835036468674580,/r/ProgrammerHumor,programming,24,well i suppose im fucked
+558835125572468737,/r/ProgrammerHumor,programming,22,time to check out rust
+558835870220812328,/r/ProgrammerHumor,programming,68,if anyone can help me out with this i might consider going back to C
+558838364481126401,/r/ProgrammerHumor,programming,218,I have a function which retrieves a few rows from a database and uses a callback function to individually process each row. The callback function is supposed to map the row's data to a structure and add it to an array.
+558838554839613452,/r/ProgrammerHumor,programming,16,personal project
+558838663736459271,/r/ProgrammerHumor,programming,29,i'm experimenting with SQLite
+558839872333414411,/r/ProgrammerHumor,programming,10,not really
+558840051308429322,/r/ProgrammerHumor,programming,22,not sure what you mean
+558840155457454092,/r/ProgrammerHumor,programming,4,yeah
+558840689530765333,/r/ProgrammerHumor,programming,407,```cNLvoid handle_entry(void *entries_ int argc_ char **argv_ char **column_name){NL  Entry entry;NL  strcpy(entry.title_ argv[1]);NL  strcpy(entry.content_ argv[2]);NL}NLNLvoid get_entries(){NL  sqlite3 *DB;NL  sqlite3_stmt *stmt;NL  char *sql = "SELECT * FROM Entries;";NL  Entry *entries[100];NL  sqlite3_open("entries.db"_ &DB);NL  sqlite3_exec(DB_ sql_ handle_entry_ entries_ 0);NL``` this is what i was trying to do
+558840905038168064,/r/ProgrammerHumor,programming,18,ID_ Title_ Content
+558840963368484879,/r/ProgrammerHumor,programming,80,```cNLtypedef struct Entry {NL  int ID;NL  char title;NL  char content;NL} Entry;NL```
+558841267765641233,/r/ProgrammerHumor,programming,127,```NLCREATE TABLE Entries(NL              ID INTEGER PRIMARY KEY_NL              Title CHAR(512)_NL              Content TEXT);NL```
+558848335918661642,/r/ProgrammerHumor,programming,43,that's gonna take a long time to understand
+558848353073365003,/r/ProgrammerHumor,programming,6,for me
+558848426612228096,/r/ProgrammerHumor,programming,39,im still in ch one in the rust tutorial
+558850842598572033,/r/ProgrammerHumor,programming,4,link
+558851020298387476,/r/ProgrammerHumor,programming,20,where's the 2019 one

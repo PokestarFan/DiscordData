@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#assorted
+login.py
+*.log
+*.bat
+*.txt
+.idea/*
+*.idea*
+Backup/*

@@ -1,0 +1,446 @@
+ID,Author,Content Length,Content
+558433936800350209,Fendoran,1054,These Codes is out of date for my currency system and i don't know what to do or how to fix it_ can't seem to find anything anywhere regarding this issue! please help!NLNLNLThis is the "OLD" code below _ something's faulty or otherwise just not working anymore_ if there's another way of doing this or any fixes to this_ i would appreciate all the work i can get_ this is all i need to get everything running again so if all of this could be working but differently i am forever grateful! ↴NLNL**Command Block Money Generator** (Adds chosen currency to player & removes entity log kill)NL```/scoreboard players add @p[score_vex_min=1] money 2NL/scoreboard players remove @p[score_vex_min=1] vex 1```NLNL**Shop Sign** (Removes chosen amount of currency & gives chosen item)NL```/give @p[r=3_score_money_min=10000] minecraft:spawn_egg 1 0 {EntityTag:{id:"Villager"}}NL/scoreboard players remove @p[r=3_score_money_min=10000] money 10000```NLNL**Added Entity** (Kill for chosen amount of currency)NL```/scoreboard objectives add creeper stat.killEntity.Creeper creeper```
+558433938234671105,MEE6,62,Hey <@!245669771071324183>_ you just advanced to **level 6** !
+558435569999413251,Sprinkles,23,Will this be for 1.13+?
+558435599250489351,Fendoran,17,newest update yes
+558435713385889804,Sprinkles,515,Let me check if I got an objective name right_ but otherwise here's my response:NLNLI could directly convert these commands into their 1.13+ form.NL```/scoreboard players add @p[scores={vex=1..}] money 2NL/scoreboard players remove @p[scores={vex=1..}] vex 1```NL```/give @p[distance=..3_scores={money=10000..}] minecraft:ghast_spawn_egg{EntityTag:{id:"minecraft:villager"}}NL/scoreboard players remove @p[distance=..3_scores={money=10000..}] money 10000```NL```/scoreboard objectives add creeper killed:creeper creeper```
+558435796395360256,Fendoran,23,would u do that for me?
+558438596533813248,Fendoran,7,oh wait
+558438615819223051,Fendoran,25,this is the updated form?
+558438631715504153,Sprinkles,7,Yessir!
+558438847374163988,Fendoran,80,so why'd they change all this_ i mean_ what was the problem with the old system?
+558439122482757642,Sprinkles,226,The old system was inefficient_ outdated_ and crude with lots of useless commands. This updated system has a new parser_ completely rewritten commands and storage_ and merged useless commands into others so they became useful.
+558439287213785098,Fendoran,132,so you recognise ?NL```/scoreboard players add @p[scores={vex=1..}] money 2NL/scoreboard players remove @p[scores={vex=1..}] vex 1NL```
+558439317530214429,Fendoran,28,ever used it before_ i mean?
+558439451752267806,Sprinkles,84,I have_ yeah. Scores use ranges instead of "at least <number>" or "at most <number>"
+558439501634994177,Sprinkles,234,If I wanted to store the number of items I have in my hand to a score_ I'd runNL`/execute as @p store result score @s itemCount run data get entity @s SelectedItem`NLWe can do so much more thanks to the changes in the commands from 1.13
+558439522292203521,Fendoran,22,ok so i got a question
+558439553443299329,Fendoran,23,idk if you had the same
+558439590474678272,Fendoran,59,but i used to have 2 command blocks side by side each other
+558439610762657812,Fendoran,31,each with the different command
+558439644014968833,Fendoran,50,with redstone and the other thing i can't remember
+558439666337054721,Fendoran,32,constantly blinking to be active
+558439782431064074,Fendoran,35,any more efficient way of doing it?
+558439825707892737,OMSIN,53,<@482247702311337985> Are there anyone andwered you ?
+558439905429159946,Sprinkles,47,I assume you mean running a command constantly?
+558440035133816852,Fendoran,67,it kinda has to if they want instant money from killing a creature?
+558440298146037766,Sprinkles,196,Redstone and commands don't mix well these days_ but some people use them still. Repeating command blocks run their commands twenty times per second_ if you need commands to be running that often.
+558440347454406676,OMSIN,63,<@482247702311337985> I guess you are using Linux_ am I right ?
+558440450294284292,Fendoran,73,so how does that even work_ so 2 command blocks on top of eachother right
+558440625700077577,Fendoran,172,This one at the bottom with Repeating and Always ActiveNL```/scoreboard players add @p[scores={vex=1..}] money 2```NLNL```/scoreboard players remove @p[scores={vex=1..}] vex 1
+558441131340333086,Sprinkles,138,You can use a repeating command block for the first_ and point that into an always active chain command block. They will execute together.
+558441251305816085,Fendoran,73,do they have to be side by side or can they also be on top of each other?
+558441691128791041,Fendoran,69,btw_ NL```/scoreboard objectives add creeper killed:creeper creeper```
+558441711743795243,Fendoran,31,seem to not be working properly
+558441862634012682,Fendoran,25,the problem is at the end
+558441890534391839,Fendoran,23,with the "display name"
+558441939381256193,OMSIN,372,<@482247702311337985> Please check:NLNLHave u restart the server_ if not pls try restart it.NLNLAre you hosting multiple server ? (Pls run 1 at once)NLNLHave you check the port forward config again ? (It may turned off my itself for some reason)NLNLAre u sure that the server is currently running at port 25565 ?NLNL... If these cannot help_ try restart your computer and try again.
+558441961359540249,Sprinkles,110,Ah_ that's a JSON component. For simplicity's sake_ you can shorten that to `"creeper`" with quotes around it.
+558442097418436609,Fendoran,18,ahh i need "" then
+558442110022451245,Fendoran,3,but
+558442120705212467,Sprinkles,95,And no_ command blocks can be in essentially any rotation as long as they point into each other
+558442392567545859,Fendoran,180,Ok so wich of these oes into wich? first one purple and second one green?NL/scoreboard players add @p[scores={vex=1..}] money 2NL/scoreboard players remove @p[scores={vex=1..}] vex 1
+558442466517319702,Sprinkles,59,Yep. if you did it the other way around_ it might not work.
+558442561782677504,Fendoran,30,and set both to always active?
+558442590601609229,Sprinkles,4,Yes.
+558442743475470347,OMSIN,88,The green one need to be always active if you want it to always run with the purple one.
+558442858030432257,OMSIN,65,The purple one you can place redstone to activate it when u need.
+558442941920706570,OMSIN,69,It's okay to set it to always active if you decided to always run it.
+558442950388875284,Fendoran,37,but it can also be always active yes?
+558442974976016384,Sprinkles,12,It can_ yes.
+558443028801519640,Fendoran,28,ok another dumb question inc
+558443075832119306,Fendoran,50,how do i make them line in so perfectly as you did
+558443156950220810,Sprinkles,39,They're rotational_ similar to pistons.
+558443316237303818,OMSIN,38,The arrow points to u when u place it.
+558443381424914453,Fendoran,20,ok gonna test it now
+558443582604836864,Fendoran,7,oh shit
+558443621335040002,Fendoran,28,forgot how to add money also
+558443722170302485,Fendoran,31,the add scoreboard money money?
+558444115394560001,Sprinkles,4,Huh?
+558444292671012864,Fendoran,55,you know the side objective that displays your currency
+558444400838049817,Sprinkles,49,It's not working now? What were you using before?
+558444434996330506,Fendoran,3,uhm
+558444445633216568,Fendoran,12,let me check
+558444659496714252,Fendoran,114,Something like this?NL```/scoreboard objectives add money DollarNL/scoreboard objectives setdisplay sidebar money```
+558444864002588682,Sprinkles,186,`Dollar`'s not a valid objective. If you're looking for an objective that doesn't change until you tell it to_ you would use `dummy`.NL```/scoreboard objectives add money dummy "Dollar"``
+558445012866564117,Fendoran,38,and the setdisplay should be the same?
+558445065337307137,Sprinkles,30,Yeah. That part hasn't changed
+558445275568406531,Fendoran,30,idk if've done something wrong
+558445290437476352,Fendoran,22,but not working for me
+558445339447787552,Fendoran,0,
+558445363904774144,Fendoran,0,
+558445390240677888,Fendoran,0,
+558445997236420629,Sprinkles,117,Is `zombie` a valid objective? If so_ make sure your score's increasing. Otherwise I'm not sure why it's not working.
+558446122436263937,Fendoran,10,i added it
+558446379672928258,Fendoran,7,ahh yeh
+558446392163434517,Fendoran,16,it's working now
+558446716953821207,Sprinkles,13,Good to hear!
+558447070814404610,LitNotFig,3,hey
+558447084550881319,LitNotFig,19,can someone help me
+558447137705295885,LitNotFig,63,im working on a minecraft map and it keeps sending me a message
+558447383545905153,LitNotFig,62,it keeps saying Command Blocks are not enabled on this server.
+558447564328796170,Fendoran,37,go to config file in ur server folder
+558447580057698324,Fendoran,18,and set it to true
+558447659527045122,Fendoran,45,*find Command Block:falseNLand set it to true*
+558447752615428106,Sprinkles,79,I'd say the actual name of the file_ but the moderation bot tends to delete it.
+558447813260869662,Fendoran,9,sprunkles
+558447844734795776,LitNotFig,12,its not here
+558447865698058240,Fendoran,57,you know any good sites to generate codes signs for shop?
+558447893724528651,LitNotFig,24,can I send someone a pic
+558447915178393639,Fendoran,69,i used to use https://minecraftcommand.science/command-sign-generator
+558447916201803800,LitNotFig,13,of the config
+558447933608165399,Fendoran,18,but it's for 1.8..
+558447962762641413,Sprinkles,39,It's in the server(dot)properties file.
+558448095550242837,Sprinkles,70,Until I memorized JSON_ I used this site: <https://minecraftjson.com/>
+558448254350655499,LitNotFig,2,oh
+558448255478792193,MEE6,62,Hey <@!427497508340760586>_ you just advanced to **level 1** !
+558448271270608896,LitNotFig,14,he said config
+558448367714435072,LitNotFig,40,also how do i make it so mobs dont spawn
+558448432352591891,Fendoran,94,does this site allow me to just paste in a code_ or do i have to actualy type in shiet myself?
+558448546374877199,LitNotFig,37,wait_ I can change the resourse pack?
+558448674645213184,Sprinkles,91,You click the Add Text button_ then insert some text at the top_ then click Add Text again.
+558448808577466411,Sprinkles,47,Although... it seems this isn't updated either.
+558448930493562910,Sprinkles,246,lol this was the `/give` command it gave me:NL```/give @p sign 1 0 {BlockEntityTag:{Text1:"[\"\"_{\"text\":\"asd\"}]"_id:"Sign"}}```NLWhen it should look like this:NL```/give @p sign{BlockEntityTag:{Text1:"[\"\"_{\"text\":\"asd\"}]"_id:"Sign"}} 1```
+558449115596324891,Sprinkles,97,It's especially wrong in 1.14_ as oak/spruce/etc. types of signs exist. So it's a little outdated
+558449137868079105,Fendoran,209,what if i wanted a sign for ```/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:"minecraft:villager"}}NL/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5```
+558449162929307654,LitNotFig,46,how do you put that weird box around the text?
+558449247679414282,Fendoran,48,with 3x ` at the beginning and the end of a text
+558449307166965762,Sprinkles,128,You use backticks. It's good for ignoring discord's formatting.NL\`small block\`: `example`NL\`\`\`code block\`\`\`:NL```example```
+558449430387228682,Sprinkles,69,It also supports syntax highlighting.NL```jsonNL{NL    "example": 1NL}```
+558449525099069450,Sprinkles,37,A sign that... does those things? hmm
+558449596070756352,LitNotFig,9,thank you
+558449613204488212,Fendoran,64,mhm_ is what i used to have_ i also had nice coloring etc etc...
+558449619869106187,LitNotFig,24,now all my commands work
+558449659505278978,LitNotFig,51,can i send one of you all the command blocks i used
+558449976129355776,Sprinkles,143,The issue with having commands like that on a sign is players will need operator permissions to run certain commands like `/give` or `/gamemode
+558450032387555328,Sprinkles,21,You could_ sure [Lit]
+558450042764001280,Fendoran,28,didn't use to when i had it?
+558450124682952705,Fendoran,33,i think i had like tellraw though
+558450309395906560,Sprinkles,204,If you want players to be able to interact with things on signs with click events like that_ you could set up a trigger objective with the `/trigger` command instead. That's what that command was made for
+558450500165566526,Fendoran,37,I'm not experienced with these things
+558450521623625729,Fendoran,25,so i wouldn't know how to
+558450897504567296,LitNotFig,51,can someone come on my server and test this with me
+558451225188892674,Sprinkles,618,Trigger objectives are scoreboards that anyone can modify for themselves. They need to be activated first to change them_ and deactivate when modified.NLYou could have a sign with a click event to run a `/trigger` command that changes a trigger scoreboard_ and check if a player's score changes.NLNLLet's pretend we have a trigger objective called "test". In the sign you got your click event that has this: `/trigger test`NLThe command succeeds_ then you check for the score change in another command block: `execute as @a if score @s test matches 1.. run <command>`NLIt's rather hard to explain_ but that's the basic idea
+558451533935673355,Fendoran,21,shoouldn't be needed?
+558451582543593473,Fendoran,58,all my signs on my old server noone had problems accesing?
+558451702160949248,Sprinkles,93,They must have had some kind of permission to use them. Or there was some mod magic happening
+558451749577293844,Sprinkles,53,Non-operator players shouldn't have access to `/give`
+558452173885669377,Fendoran,22,well they could anyway
+558452430551908362,Fendoran,31,but anyways_ first things first
+558452468430929921,LitNotFig,43,can someone come and test this for with me/
+558452545509654528,Fendoran,544,noone has updated their websites to make something like ```/give @p sign 1 0 {BlockEntityTag:{Text1:"{\"text\":\"Villager Egg\"_\"color\":\"blue\"}"_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\"minecraft:villager\\"}}\"}}"_Text3:"{\"text\":\"$ 5_- \"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}"}_display:{Name:"Custom Sign"}}```
+558452706340241418,Fendoran,7,and btw
+558452722542837771,MEE6,62,Hey <@!245669771071324183>_ you just advanced to **level 7** !
+558452730725793812,Fendoran,29,this is to give "me" the sign
+558452736383909928,Fendoran,8,not them
+558452786220761098,Fendoran,81,i use a command block to give me the sign and then i hang it op for people to use
+558453010850643998,OMSIN,58,I think it the same like get people to run /give ghast egg
+558453064462237726,OMSIN,40,And they have no permission to use /give
+558453114579976203,Fendoran,18,they don't have to
+558453145693323274,Fendoran,40,the /give is to give me the sign anyways
+558453225712517123,OMSIN,75,Clicking the sign is the same with shortcut for running command_ isn't it ?
+558453299154518016,Fendoran,13,it's the idea
+558453497776046120,Sprinkles,540,Most of that is the same_ just changing this:NL```jsonNL/give @p oak_sign{BlockEntityTag:{Text1:"{\"text\":\"Villager Egg\"_\"color\":\"blue\"}"_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\\"minecraft:villager\\\"}}\"}}"_Text3:"{\"text\":\"$ 5_- \"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}"}_display:{Name:"Custom Sign"}}```
+558453517862305815,OMSIN,76,So when people click the sign_ it's the same with typing /give .............
+558453518588182529,Dyno,34,<@551678168348491786> No spamming.
+558453559985963029,Sprinkles,50,Oh_ I'm in 1.14 so `oak_sign` might not exist yet.
+558453564381462529,OMSIN,19,Wt* am I spamming ?
+558453718303899649,OMSIN,22,... Sorry if I'm wrong
+558453739317362689,OMSIN,3,-.-
+558454181892194304,Fendoran,7,oh shit
+558454249445654528,Fendoran,63,could u possible remove text line 1 and make text line 3 green?
+558454606317748224,Sprinkles,483,```jsonNL/give @p oak_sign{BlockEntityTag:{Text1:""_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\\"minecraft:villager\\\"}}\"}}"_Text3:"{\"text\":\"$ 5_- \"_\"color\":\"green\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}"}_display:{Name:"\"Custom Sign\""}}```NLLike that?
+558454821309382656,caelan08,39,butt holls<:reactor:309478404208590849>
+558455340748898325,Fendoran,108,and let's say if i wanted a different color on the same line with a text_ could i just put it infront of it?
+558455776159727646,Sprinkles,147,Two different colors... it's a little tricky.NL```jsonNL"[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"}]"```
+558456877046824980,Fendoran,27,tried to put it into text 2
+558456935536394256,Fendoran,34,but seems like it's cooperating xD
+558457113081413632,Sprinkles,40,Worked for me. What command did you use?
+558457427553419308,Fendoran,33,sorry tried to put it into text 3
+558457441998864454,Fendoran,14,let me link it
+558457613302366219,Fendoran,513,```/give @p sign{BlockEntityTag:{Text1:""_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\\"minecraft:villager\\\"}}\"}}"_Text3:""[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"}]"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}"}_display:{Name:"\"Custom Sign\""}}```
+558457634642984960,Fendoran,4,hehe
+558458192280158228,Sprinkles,201,`Text3:""[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"}]"_`NLThe error lies in the JSON text being outside the original quotes_ and an extra quote on the outside
+558458508497125376,Fendoran,57,either I'm stupid or I'm doing something incredibly wrong
+558459557790351371,Fendoran,543,I feel this should be correctNL```/give @p sign{BlockEntityTag:{Text1:""_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\\"minecraft:villager\\\"}}\"}}"_Text3:""[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"}]"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}"}_display:{Name:"\"Custom Sign\""}}```
+558460244364230716,Sprinkles,51,`Text3:""[\"`*`<--[HERE]`*NLThe issue still persists
+558460323271802880,Sprinkles,40,The JSON is outside the quotation string
+558460439550492702,Sprinkles,130,Should look like this:NL```jsonNLText3:"[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"}]"```
+558460807516651551,Fendoran,512,```/give @p sign{BlockEntityTag:{Text1:""_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\\"minecraft:villager\\\"}}\"}}"_Text3:"[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"}]"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}"}_display:{Name:"\"Custom Sign\""}}```
+558460820422656021,Fendoran,10,am i dumb?
+558460827963883522,Fendoran,5,dafuq
+558463619998941224,Sprinkles,38,That should work. Encountering issues?
+558463657860661270,Fendoran,3,yep
+558463666727682068,Fendoran,12,all red text
+558463681936097293,Fendoran,22,not giving me anything
+558464081485496331,Sprinkles,45,What does the error say in the command block?
+558464220254175233,Fendoran,0,
+558464902642270218,Sprinkles,328,``blue\"}]"_\"clickEvent\"``NLThe issue is the clickevent is outside the component.NL```jsonNLText3:"[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}]"```NLtry that
+558465534815895562,Fendoran,524,like so?NL```/give @p sign{BlockEntityTag:{Text1:""_Text2:"{\"text\":\"Villager Egg\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/give @p[distance=..3_scores={money=5..}] minecraft:ghast_spawn_egg{EntityTag:{id:\\\"minecraft:villager\\\"}}\"}}"_Text3:"[\"\"_{\"text\":\"Red\"_\"color\":\"red\"}_\" \"_{\"text\":\"Blue\"_\"color\":\"blue\"_\"clickEvent\":{\"action\":\"run_command\"_\"value\":\"/scoreboard players remove @p[distance=..3_scores={money=5..}] money 5\"}}]"\"}}"}_display:{Name:"\"Custom Sign\""}}```
+558466327933616128,Sprinkles,173,Almost. There should be a right square bracket `}` after that last part_ at:NL...`money 5\"}}]"_display`...NLbetween the quotation mark and the comma. `money 5\"}}]"}_display`
+558466420988575775,Sprinkles,60,As the `display` tag isn't apart of the `BlockEntityTag` tag
+558467345623023616,Fendoran,14,finaly got it!
+558467378430869514,Fendoran,21,jesus how complicated
+558467698305138719,Fendoran,46,so you agree that once i give myself this sign
+558467706920370187,Fendoran,14,and put it out
+558467735902748672,Fendoran,39,noone needs commands to click on it 😃 ?
+558468653029523457,Sprinkles,57,If they have operator permissions_ anyone can use it yeah
+558468761645088789,Fendoran,70,so without operator permission noone can use it is what you're saying?
+558468805508988939,Sprinkles,53,Basically. You'd need to use a `/trigger` click event
+558468836093853716,Fendoran,36,now i mean without the /give command
+558468949956755466,Fendoran,66,because the command they're basically using is /scoreboard players
+558469142060072960,Sprinkles,62,Non-op'd players don't have access to `/scoreboard` or `/give`
+558469517299417099,Fendoran,88,i swear to you i've seen people use it and it works_ but i can't test it untill tomorrow
+558469569908310025,Fendoran,61,mind me contacting you if it doesn't for a possible solution?
+558469623373103126,Fendoran,29,gonna have to go to sleep now
+558469873806737408,Sprinkles,73,I'm not sure if I will be up when you contact me_ but you can if you wish
+558470058448388126,Fendoran,61,I will try_ you could always leave a reply whenever you can 😃
+558470811556511785,CultivatingWithCameron,45,When you deop yourself on your own server....
+558470884881596417,CultivatingWithCameron,36,Then you realized that you messed up
+558472278547890186,The Llama Next Door,65,How does this server have a /minecraft invite instead of numbers?
+558472463587999762,Sprinkles,98,it's an official partnered server (or the owner is a discord partner) so they get a custom invite.
+558472556198494209,Sprinkles,88,The owner of the Terraria server's a discord partner_ and they have a custom invite too.
+558472717607632896,The Llama Next Door,43,Does that have to do with the vericication?
+558472811572625431,Sprinkles,109,Maybe? I know for sure it has to do with the Discord Partner thing_ but maybe verified servers get those too.
+558472835916627978,The Llama Next Door,2,Ok
+558472883639418909,The Llama Next Door,26,Do most servers have that?
+558472912886300672,Sprinkles,26,A verification symbol? no.
+558473036055969792,The Llama Next Door,34,Do most servers have a partnership
+558473134777303100,Sprinkles,82,That I'm not sure of. Some discord members are Discord Partners_ not many of them.
+558473183334891521,The Llama Next Door,12,Oh ok thanks
+558755060214136832,zorenine,220,Ohh okay.  I use to have that mod but then I found something so disappointing. Your not able to do double dmg when duel wielding. like that to me just destroys the whole entire purpose of duel wielding in the first place
+558755090211667980,WilliamBac,135,Hello_ so my account password has no been changed (at least I hope not)_ yet I can no longer login. It sayd invalid username/passerword
+558755101406265395,WilliamBac,12,what do I do
+558755211729174530,Archez,47,<@304757722786562048> restore password by email
+558755313092657162,WilliamBac,53,The account is many years old_ long lost the password
+558755332868931586,WilliamBac,12,to the email
+558755425009532939,Archez,37,Did you forget email to this account?
+558755497822650408,WilliamBac,42,I have the email_ not the email's password
+558755536003268629,{ᏝᏬᏒᏦᏕ},17,recover password?
+558755538708725790,Archez,12,i understans
+558755618303901717,WilliamBac,82,Send a support ticket_ but those things dont get reponses until like 5 weeks later
+558755634619613214,WilliamBac,15,if you're lucky
+558755642224017448,{ᏝᏬᏒᏦᏕ},57,<#302987265229979649> has pin message about account stuff
+558755713623654400,WilliamBac,72,what are the chances that I can just wait a while  and it'll work again?
+558755731554435072,Archez,45,<@304757722786562048> did you phoned to them?
+558755743327715329,Grubeis,178,I hope you will be able to understand this. I want to make a chest that when opened it will drop all its loot on the ground right below it_ and removing the chest in the proccess
+558755745428930575,MEE6,62,Hey <@!482247702311337985>_ you just advanced to **level 7** !
+558755760423567380,WilliamBac,1,?
+558755783752548372,WilliamBac,25,you mean did I call them?
+558755790312308779,{ᏝᏬᏒᏦᏕ},47,mojang is heavily backlog on tickets i've heard
+558755794255085578,Grubeis,3,Lol
+558755805629906954,Archez,3,yes
+558755816552005632,WilliamBac,2,No
+558755837284319242,Archez,21,to technicall support
+558755852111052810,WilliamBac,16,Would that help?
+558755947258839062,WilliamBac,46,I feel that that probably wouldn't do too much
+558756078351810561,Archez,106,<@482247702311337985> i have never heard about plugin who can do it _but you can add plugin for once loot.
+558756079509569570,MEE6,62,Hey <@!336938338068201473>_ you just advanced to **level 2** !
+558756130809970719,Archez,26,If you have got an receipt
+558756200225832980,Archez,27,or something just like this
+558756201383460879,WilliamBac,47,Nope. Bought the account well over 2 years ago.
+558756315971977236,WilliamBac,43,I have the old password_ but thats about it
+558756390181797898,WilliamBac,58,You think that this is justa bug? and would they reset it?
+558756559878881295,Archez,4,bug?
+558756652795297812,Archez,50,you can reset password you forgot email's password
+558756676539383829,Grubeis,21,How do I get plugins?
+558756678993051678,Archez,8,you said
+558756774606274560,Archez,50,<@482247702311337985> What engine do you have got?
+558756802661974049,Archez,17,(server`s engine)
+558756815496675339,Grubeis,6,1.13.2
+558756822312419329,WilliamBac,29,I'll wait a day and try again
+558757724670787616,Archez,29,<@482247702311337985> Spigot?
+558757756589309962,Grubeis,13,What is that?
+558757992607252491,{ᏝᏬᏒᏦᏕ},21,a server plugin thing
+558758375974895619,Grubeis,20,No I don't have that
+558759857902059520,Other Dad's Son,66,https://tenor.com/view/beavis-butthead-this-sucks-more-gif-6177335
+558761828562239499,Stranded At Sea,81,<@482247702311337985> Just name an item with the same text used for the Lock tag.
+558762563152642080,Grubeis,36,How do I kill mobs excluding players
+558762816186875919,Gods dead and tictok killed him,35,But I have never went to ooVoo java
+558762933455159337,Stranded At Sea,24,`/kill @e[type=!player]`
+558762978246131712,Gods dead and tictok killed him,1,✓
+558765308924395523,Grubeis,55,How do I make a command that requires a item to execute
+558767632191586324,Stranded At Sea,83,How so? Do you mean when a player is holding the item_ or when it is on the ground?
+558769268767064070,Archez,27,I'm looking for technician.
+558783593233645583,Daïlan,66,Well its the first time I see this_ usually it crashes a bit later
+558783636783104000,Daïlan,29,I have no idea what it can be
+558784299793645608,gottem,2,ok
+558784330579705857,gottem,24,thanks for trying thougj
+558786000068018186,Undefeatable,23,Try out snapshot 15w14a
+558788063262670883,The Llama Next Door,3,Hey
+558788246520332314,MAFIA Priest,9,HAIL ISAK
+558788249997541376,MAFIA Priest,9,HAIL ISAK
+558788253424025600,MAFIA Priest,9,HAIL ISAK
+558788255223513088,MAFIA Priest,9,HAIL ISAK
+558788257824112650,MAFIA Priest,9,HAIL ISAK
+558788263381434368,MAFIA Priest,9,HAIL ISAK
+558788265721987085,MAFIA Priest,9,HAIL ISAK
+558788266711842816,Dyno,56,<@303990739195527168> You're sending messages too quick!
+558788268959989776,MAFIA Priest,9,HAIL ISAK
+558788271048753172,MAFIA Priest,9,HAIL ISAK
+558788276530577418,MAFIA Priest,9,HAIL ISAK
+558788277260386317,MAFIA Priest,9,HAIL ISAK
+558788278447243279,MAFIA Priest,9,HAIL ISAK
+558788281177866250,MAFIA Priest,9,HAIL ISAK
+558788283891580928,MAFIA Priest,9,HAIL ISAK
+558788286290591744,MAFIA Priest,9,HAIL ISAK
+558788288765362176,MAFIA Priest,9,HAIL ISAK
+558788292686905354,MAFIA Priest,9,HAIL ISAK
+558788293517508638,Dyno,56,<@303990739195527168> You're sending messages too quick!
+558788294117163018,MAFIA Priest,9,HAIL ISAK
+558788295824375836,MAFIA Priest,9,HAIL ISAK
+558788318666424320,MAFIA Priest,9,HAIL ISAK
+558788318943248396,MAFIA Priest,9,HAIL ISAK
+558788320155402240,MAFIA Priest,9,HAIL ISAK
+558788320621232129,MAFIA Priest,9,HAIL ISAK
+558788321426538506,MAFIA Priest,9,HAIL ISAK
+558788321791442958,Dyno,56,<@303990739195527168> You're sending messages too quick!
+558788322374320129,MAFIA Priest,9,HAIL ISAK
+558788325637357579,MAFIA Priest,18,HAIL ISAKHAIL ISAK
+558788328837611531,MAFIA Priest,9,HAIL ISAK
+558788331463245836,MAFIA Priest,9,HAIL ISAK
+558788334646722599,MAFIA Priest,9,HAIL ISAK
+558788360790081556,MAFIA Priest,9,HAIL ISAK
+558788360987213845,MAFIA Priest,9,HAIL ISAK
+558788361691594753,MAFIA Priest,9,HAIL ISAK
+558788362442637313,MAFIA Priest,9,HAIL ISAK
+558788388325425152,MAFIA Priest,9,HAIL ISAK
+558788390988939296,MAFIA Priest,9,HAIL ISAK
+558788394751098891,MAFIA Priest,9,HAIL ISAK
+558788397573865502,MAFIA Priest,9,HAIL ISAK
+558788400879239183,MAFIA Priest,9,HAIL ISAK
+558788403265667083,MAFIA Priest,9,HAIL ISAK
+558788404532478012,Dyno,56,<@303990739195527168> You're sending messages too quick!
+558788405979512855,MAFIA Priest,9,HAIL ISAK
+558788408739364864,MAFIA Priest,9,HAIL ISAK
+558788410526007316,MAFIA Priest,9,HAIL ISAK
+558788412639805460,MAFIA Priest,9,HAIL ISAK
+558788415529811978,MAFIA Priest,9,HAIL ISAK
+558788419900276767,MAFIA Priest,9,HAIL ISAK
+558788423352188928,MAFIA Priest,9,HAIL ISAK
+558788425768239105,MAFIA Priest,9,HAIL ISAK
+558788433623908353,MAFIA Priest,9,HAIL ISAK
+558788688838918144,MAFIA Priest,9,HAIL ISAK
+558788719096758282,MAFIA Priest,25,oof wrong server sry guys
+558788849351000081,James Charles,4,wwad
+558788851460603934,James Charles,2,wd
+558788852333019137,James Charles,3,dwa
+558788967617789973,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558788968519434241,Dyno,34,<@303990739195527168> No spamming.
+558788973309460482,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558788976287154203,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558788979563036702,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558788981404336131,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558788984633950208,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558788987100332033,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558789001486532642,MAFIA Priest,70,<@&302100744587182082> WE WANT LIBERTY OF SPEECH AND SPRITE!!!!!!!!!!!
+558789003654987800,Dyno,34,<@303990739195527168> No spamming.
+558789011662176288,Stranded At Sea,46,<@345293769408512000> We've got a spammer here
+558789060101931015,lazycouchpotato,40,?mute <@303990739195527168> 1440 spammer
+558789062685753369,Dyno,67,<:dynoSuccess:314691591484866560> ***MAFIA Priest#1725 was muted***
+558789088640106507,MoonbootMurphy,32,<:peepingtim:359197300754612237>
+558789103592931329,ProfessorValko,24,lol i muted them already
+558789114380681217,ProfessorValko,12,double mute?
+558789348959453214,lazycouchpotato,5,Alts.
+558791961016926208,lolo sim,64,salut a tous jaimerais un modpack minecraft avec moin de 250 mod
+558795471108309012,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,78,why does the launcher open on my second display_ when i have no second display
+558795471758557185,MEE6,63,Hey <@!409751224187879434>_ you just advanced to **level 12** !
+558795493111627796,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,78,why does the launcher open on my second display_ when i have no second display
+558795595972608010,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,10,*connected
+558796158445813781,Red_Bones,29,did you have one at one time?
+558796207757983766,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,17,what do you mean?
+558796281481527297,Red_Bones,42,did you have a second monitor at one time?
+558796359302643722,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,33,no I only use my built in display
+558796563208732712,Red_Bones,65,than why would it try to launch on something you never had? weird
+558796681982771200,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,145,and when i use my second monitor the preformance goes to 0% and when i move the window back to my built in display and restart_ it just goes back
+558796791072686091,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,30,is there anyway i can fix this
+558796803617718272,Red_Bones,63,so you have had one connected at one time! thats what im asking
+558796868205805568,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,3,yes
+558796911381970956,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,30,is there anyway i can fix this
+558796927911854100,Red_Bones,40,okay do you have it connected right now?
+558796981187641345,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,25,Also i tried reinstalling
+558796992403210264,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,2,no
+558797044433682442,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,39,like i said it corrupts the preformance
+558797127455866890,Red_Bones,20,what gpu do you use?
+558797352769683456,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,24,my laptop's built in one
+558797420360761365,Red_Bones,25,okay what OS do you have?
+558797475205349376,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,19,W I N D O W S   1 0
+558797570357329932,Red_Bones,26,okay go to settings/system
+558797612145180677,Red_Bones,35,first option is going to be display
+558797656978096176,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,4,okay
+558797685688238080,Red_Bones,42,does it show more then one or just default
+558797803544117279,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,16,it shows default
+558798039414734886,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,18,welp im ||fucked||
+558799026124750868,Red_Bones,252,well i would say_ the next time you connect the second monitor _ update drivers for monitor and then make sure you have the default one as your primary #1 monitor_ than disconnect it. updating drivers for that monitor should fix your proformance issue.
+558799204504436736,ɮǟʀʀʏϩ⊘ ₁९⍰⍰⍰⍰,49,I have to restart my pc to get normal preformance
+558799375766257669,Sub2Pewds,63,how do i get the new textures? i have java and windows editions
+558799621275648012,{ᏝᏬᏒᏦᏕ},40,first change name before i help u at all
+558799989363441694,qwertyllea,1,l
+558799995017494528,Red_Bones,159,<@!409751224187879434>  restart after you have monitor installed or after you unplugged monitor? have you tried to look for updated driver while it not in use?
+558800128333578291,Cosmo,25,https://discord.gg/jWVGFj
+558800129339949066,Dyno,38,<@470004660825227294> No invite links.
+558800664667619339,Sprinkles,429,<@517443822578302977> Steps:NL1. Boot up the latest snapshotNL2. Navigate to your minecraft directory. `%appdata% > .minecraft > versions > 19w12b > 19w12b.jar`NL3. Open that with an explorer program like WinRAR or 7Zip_ and navigate further to `assets > minecraft > textures`NL4. Copy that folder.NLNow you'll need to make a resource pack_ and put those textures into it. There's plenty of tutorials online for making resource packs.
+558800802269888517,Sub2Pewds,14,ok Thanl You 😃
+558800945182539777,Sprinkles,1,👍
+558801263215771689,Sub2Pewds,87,i cant find 19w12b i went to versions and its not there i even tried updating minecraft
+558801589662515215,Sprinkles,116,It's a snapshot version_ you can enable snapshots in the launcher. (I'm trying to remember exactly how to enable it)
+558801702485098498,Sub2Pewds,2,ok
+558801815592894464,Sprinkles,0,
+558801887164629003,Sprinkles,43,(That's a slightly outdated screenshot heh)
+558801921343881227,Sub2Pewds,43,i know its all enabled i still cant find it
+558805276233564160,Sub2Pewds,34,ok im dumb i forgoot something lol
+558805304251383808,MEE6,62,Hey <@!517443822578302977>_ you just advanced to **level 1** !
+558805333053800450,Sub2Pewds,3,YAY
+558806351472492544,TheLonelyZach,28,<:zombie:302439627992858624>
+558814481132683284,! xdemistar !,15,i have question
+558814742752526337,{ᏝᏬᏒᏦᏕ},18,here's your answer
+558814899619364912,! xdemistar !,48,how can ai friend join me in a game of minecraft
+558814900978188328,MEE6,62,Hey <@!215854073063276544>_ you just advanced to **level 1** !
+558814916274946073,! xdemistar !,4,nice
+558815144373649428,{ᏝᏬᏒᏦᏕ},26,open a LAN/server or realm
+558815185142284309,Baseball_Gopher,24,am i on java or bedrock?
+558815514747469864,Meepco,96,running spigot 1.13.2_ how can i block commands or certain plugins from wrking in certain worlds
+558815515955429397,MEE6,62,Hey <@!325804203354357772>_ you just advanced to **level 2** !
+558815629784645632,Baseball_Gopher,39,how do i do minecraft coding and stuff?
+558815855681470474,{ᏝᏬᏒᏦᏕ},25,learn java/c++/c# & so on
+558816554075029506,Baseball_Gopher,1,?
+558818417897897994,Daïlan,105,If you want to do "minecraft coding and stuff"_ yeah the first step is to learn the basics of programming
+558818522143260703,Daïlan,63,If you want to mod the java version you should learn about java
+558829373558358056,joey,49,how do i get those textures inside to not render?
+558830836925857803,{ᏝᏬᏒᏦᏕ},45,find nether_portal texture & change it? maybe
+558830889782476811,Zach,36,How can I set a block under a player
+558830907101020160,Zach,18,Whenever they move
+558830932094746634,Zach,23,and Whereever they move
+558831769554518018,Red_Bones,158,`execute at @a run setblock ~ ~-1 ~ <name of block>_` then run that in a command_block on always active and repeating or datapack using the tick function file
+558832195519774725,lonely bear,70,<@306938348361220097> /execute [player] ~ ~ ~ /setblock ~ ~-1 ~ [block
+558832537175326721,Red_Bones,36,what version you on? not even close!
+558837279695831040,Sprinkles,98,Both are essentially the same thing. One's 1.12-style and the other's 1.13-style (arguably better)
+558839332652187649,joey,53,ok i have no idea what i did but i got it working????
+558842892014321684,HalfOfAKebab,133,is there a way to block players on my server from seeing coordinates in f3 in 1.14 without mods (i'm open to using datapacks though)?
+558843480537956393,Daïlan,31,/gamerule reducedDebugInfo true
+558843534657191946,HalfOfAKebab,29,oh that's a gamerule? perfect
+558843537186226177,HalfOfAKebab,6,thanks
+558843538830393347,Daïlan,36,Im not sure if it blocks coordinates
+558843559521026060,Daïlan,33,But it does block a lot of things
+558843682447556609,joey,31,/gamerule reducedDebugInfo true
+558843689913417728,joey,2,oh
+558843747685761052,joey,52,<@108682507163041792> the wiki says it blocks coords
+558843833593626624,Daïlan,4,Nice
+558843854766342144,Daïlan,20,I was checking it ^^
+558843999054462996,{ᏝᏬᏒᏦᏕ},61,is it truly true... wait for report back from halfofakebab...
+558844178755354625,Daïlan,64,Hey does anybody know how much ram do i need for a java server ?
+558844224603291658,Daïlan,30,Max 5 players at the same time
+558844433831821334,Kaniko_Salad,5,Hello
+558844439296999434,Daïlan,104,I currently have 3 Go_ im worried it will lag when we are exploring the world a few thousands from spawn
+558844440177803265,MEE6,62,Hey <@!108682507163041792>_ you just advanced to **level 2** !
+558844506976550962,Kaniko_Salad,72,https://tenor.com/view/bts-jungkook-kpop-bts-meme-jungshook-gif-12768818
+558844651864457247,{ᏝᏬᏒᏦᏕ},31,ram isn't the only thing u need
+558845292728942602,YiFireFox,52,Anyone here could make me a custom IP for my server?
+558847493874515973,Gamelet Wolf,10,Hi I’m new
+558847730374410251,{ᏝᏬᏒᏦᏕ},6,hi new
+558847771193376778,Gamelet Wolf,6,Me too
+558850719176720384,Gaster Blaster,130,I was playing 1.7 1 mod_ recording using game bar_ and I started getting MASSIVE lag spikes.But when im not recording_ all is well
+558856636177973281,dolfin,31,does anyone wanna play bedwars?
+558858300104638484,󠂪󠂪󠂪󠂪󠂪󠂪,51,Guys have they stopped updating Java after aquatic?
+558858405251514388,{ᏝᏬᏒᏦᏕ},18,no_ 1.14 is coming
+558858431646400514,󠂪󠂪󠂪󠂪󠂪󠂪,1,o

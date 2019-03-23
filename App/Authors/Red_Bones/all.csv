@@ -1,0 +1,22 @@
+ID,Server,Channel,Content Length,Content
+558796158445813781,MINECRAFT,technical-java,29,did you have one at one time?
+558796281481527297,MINECRAFT,technical-java,42,did you have a second monitor at one time?
+558796563208732712,MINECRAFT,technical-java,65,than why would it try to launch on something you never had? weird
+558796803617718272,MINECRAFT,technical-java,63,so you have had one connected at one time! thats what im asking
+558796927911854100,MINECRAFT,technical-java,40,okay do you have it connected right now?
+558797127455866890,MINECRAFT,technical-java,20,what gpu do you use?
+558797420360761365,MINECRAFT,technical-java,25,okay what OS do you have?
+558797570357329932,MINECRAFT,technical-java,26,okay go to settings/system
+558797612145180677,MINECRAFT,technical-java,35,first option is going to be display
+558797685688238080,MINECRAFT,technical-java,42,does it show more then one or just default
+558799026124750868,MINECRAFT,technical-java,252,well i would say_ the next time you connect the second monitor _ update drivers for monitor and then make sure you have the default one as your primary #1 monitor_ than disconnect it. updating drivers for that monitor should fix your proformance issue.
+558799995017494528,MINECRAFT,technical-java,159,<@!409751224187879434>  restart after you have monitor installed or after you unplugged monitor? have you tried to look for updated driver while it not in use?
+558831769554518018,MINECRAFT,technical-java,158,`execute at @a run setblock ~ ~-1 ~ <name of block>_` then run that in a command_block on always active and repeating or datapack using the tick function file
+558832537175326721,MINECRAFT,technical-java,36,what version you on? not even close!
+558833484303695885,MINECRAFT,skins-n-textures,20,i can go either way!
+558833610623549463,MINECRAFT,skins-n-textures,45,<@537731814601785346>  create a loarger model
+558833844791541773,MINECRAFT,skins-n-textures,40,retexture the texture in a resource pack
+558834381310132234,MINECRAFT,skins-n-textures,136,you can get a editor like gimp and redo the texture in a higher resolution (meaning make the texture 256x256 and scale it in the model )
+558834689578631193,MINECRAFT,skins-n-textures,103,I would not stretch the texture to try higher resolution_ it will not turn out right and look like crap
+558834788795023370,MINECRAFT,skins-n-textures,46,you have to edit the texture_ no way around it
+558834845325852672,MINECRAFT,skins-n-textures,4,yeah

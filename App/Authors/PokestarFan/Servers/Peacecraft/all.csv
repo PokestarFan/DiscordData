@@ -1,0 +1,221 @@
+ID,Channel,Content Length,Content
+558428105497116682,main,3,wow
+558428118235348993,main,24,my discord app bot thing
+558428141123534848,main,14,is a **beast**
+558428153572360202,main,29,more in <#551761350733594626>
+558428164662099999,coding,3,oml
+558428183360438273,coding,21,the bot code is crazy
+558428229497520131,coding,1690,```pythonNLdef format_msg(m):NL    id = m.idNL    server = m.server.nameNL    channel = m.channel.nameNL    author = m.author.nameNL    content = m.contentNL    content_length = len(content)NL    server_dir = "Servers\\%s" % serverNL    server_dir = server_dir.replace("/"_ "_").replace("_"_ "_").replace(":"_ "_")NL    server_all = server_dir + '\\all.csv'NL    channel_dir = server_dir + '\\%s.csv' % channelNL    author_dir = "Authors\\%s" % authorNL    author_dir = author_dir.replace("/"_ "_").replace("."_"_").replace("|"_"_")NL    author_all = author_dir + '\\all.csv'NL    author_server_dir = author_dir + '\\' + server_dirNL    author_server_all = author_server_dir + '\\all.csv'NL    author_server_channel = author_dir + '\\' + channel_dirNL    with open("all_all.csv"_ "a"_ encoding='utf-8') as a:NL        a.write(return_csv_form(id_ author_ server_ channel_ content_length_ content))NL    chmkdir(server_dir)NL    check_if_exists(server_all_ "ID_Author_Channel_Content Length_Content"_NL                    return_csv_form(id_ author_ channel_ content_length_ content))NL    check_if_exists(channel_dir_ "ID_Author_Content Length_Content"_NL                    return_csv_form(id_ author_ content_length_ content))NL    chmkdir(author_dir)NL    check_if_exists(author_all_ "ID_Server_Channel_Content Length_Content"_NL                    return_csv_form(id_ server_ channel_ content_length_ content))NL    chmkdir(author_server_dir)NL    check_if_exists(author_server_all_ "ID_Channel_Content Length_Content"_NL                    return_csv_form(id_ channel_ content_length_ content))NL    check_if_exists(author_server_channel_ "ID_Content Length_Content"_ return_csv_form(id_ content_length_ content))NL```
+558428291296526336,coding,12,so basically
+558428305334992896,coding,19,let's say my folder
+558428322107883521,coding,11,PokestarFan
+558428330982899713,coding,10,looks like
+558428556632522753,coding,136,```NLC:.NL|   all.csvNL|   tree.txtNL|   NL\---ServersNL    \---PeacecraftNL            all.csvNL            coding.csvNL            main.csvNL```
+558429123471736834,coding,24,this is the current data
+558429127112261632,coding,6,so far
+558429154098544651,coding,0,
+558429171551043609,coding,29,once i let it run for a while
+558429193067560960,coding,35,I can send a compressed zip version
+558430807686119435,main,45,@everyone give me discord servers to join plz
+558430976414580757,main,3,lol
+558431193893437460,main,37,<@!358359026083430410> here is ur bot
+558431199220072470,main,3,bit
+558431201732591627,main,1,*
+558431212046254082,main,489,```NL[2019-03-21 19:25:11_230] {msgs.py:41} | INFO : Folder Authors\Eliazar\Servers\ createdNL[2019-03-21 19:25:11_230] {msgs.py:41} | INFO : Folder Authors\Eliazar\Servers\Peacecraft\ createdNL[2019-03-21 19:25:11_230] {msgs.py:61} | INFO : File Authors\Eliazar\Servers\Peacecraft\all.csv created with heading ID_Channel_Content Length_ContentNL[2019-03-21 19:25:11_246] {msgs.py:61} | INFO : File Authors\Eliazar\Servers\Peacecraft\main.csv created with heading ID_Content Length_ContentNL```
+558431656487288832,main,3,lol
+558431682500362260,main,25,i can send u ur data file
+558431691316920330,main,10,in a while
+558431694231830529,main,4,also
+558431700359839754,main,8,servers?
+558433681195270154,coding,4,nice
+558433710001881090,coding,29,this has to be bad for my HDD
+558439077276287016,coding,3,lol
+558439090824151040,coding,15,want an update?
+558439173510529025,coding,0,
+558439184755326977,coding,14,and i provided
+558439282163843072,coding,4,what
+558439298370633744,coding,19,burning hard drive?
+558439445506818048,coding,4,wait
+558439456336511007,coding,20,then what is burning
+558439691670781952,coding,2,oh
+558439694975762433,coding,2,ok
+558439698108776454,coding,4,then
+558439701887975424,coding,4,welp
+558439704115019776,coding,3,oof
+558439707172929540,coding,2,ok
+558440360087650335,coding,11,what's that
+558440371785302019,coding,8,dyslexia
+558440380262121523,coding,10,but worse?
+558440484431724544,coding,139,```NLthe production of a sense impression relating to one sense or part of the body by stimulation of another sense or part of the body.NL```
+558440520754528267,coding,0,
+558440658856312844,coding,3,ahh
+558440672387006465,coding,26,wikipedia makes more sense
+558440680758968341,coding,188,```NLSynesthesia is a perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to automatic_ involuntary experiences in a second sensory or cognitive pathwayNL```
+558440746555015180,coding,62,basically if you hear something then you might taste something
+558440761629081616,coding,24,even if there is nothing
+558440790158999595,coding,2,oh
+558440794000850988,coding,3,lol
+558440811281383434,coding,22,that seems more liekly
+558440817996464133,coding,6,likely
+558440844231704579,coding,36,because the synth thing is very rare
+558440849122525270,coding,7,i think
+558440874065920009,coding,25,but there r meds for that
+558440895507071008,coding,3,lol
+558440981968453632,coding,3,umm
+558440992009879572,coding,4,what
+558441005687242773,coding,7,is that
+558441015317364777,coding,14,lie buttering?
+558441035491966976,coding,12,u mean lying
+558441043813597214,coding,3,uhh
+558441058984263694,coding,18,do u have dyslexia
+558441082162249748,coding,2,ok
+558441109823684619,coding,8,how then
+558441115242463244,coding,9,did u ype
+558441120045203476,coding,4,type
+558441124990156810,coding,11,`apreadig0`
+558441224013611033,coding,4,well
+558441236596391948,coding,8,dyslexia
+558441249418248194,coding,20,is not for crazy ppl
+558441535557861376,coding,13,weeeeeeeeeeee
+558441538867298326,coding,0,
+558441559511793665,main,2,oh
+558441565605855252,main,4,wait
+558441574456098858,main,9,the album
+558441584958636032,main,11,or the song
+558444100630609921,memery,16,congrats discord
+558444705377943572,main,1,?
+558444733417127937,main,3,uhh
+558444773476794368,main,53,<@!358359026083430410> it sounds like ur on acid 24/7
+558444806095765505,main,25,or you ate a heavy edible
+558444842888200193,main,20,edible = cooked weed
+558444933179244546,main,2,no
+558445643711119361,main,15,im not involved
+558445654201073674,main,3,bye
+558445897130704917,main,4,jeez
+558445906429476906,main,16,did someone find
+558445913173917728,main,10,and upload
+558445924465246208,main,15,the sound files
+558445929800400896,main,7,for mc?
+558445986041692180,main,2,uh
+558446004773453835,main,27,how do u extract with hases
+558446011152859156,main,6,hashes
+558446075493613570,main,3,YES
+558446084062707713,main,7,CAT.OGG
+558446188014207020,main,3,lol
+558446390049636356,coding,3,lol
+558446401189838869,coding,14,it's not a bot
+558446451370491915,coding,30,it's a data collection program
+558446466700673026,coding,24,i just called the folder
+558446474917314560,coding,3,App
+558446553174376455,coding,4,damm
+558446556148400139,coding,0,
+558446750583750659,coding,3,lol
+558446777683017728,coding,34,it's achieving levels of craziness
+558446788261183519,coding,14,that shouldn't
+558446946294038545,coding,3,fun
+558446949150490635,coding,33,https://www.petakillsanimals.com/
+558447028103938068,coding,3,lol
+558447104972816384,coding,2,oh
+558447114451943434,coding,9,seriously
+558447118222622747,coding,3,lol
+558447133146218499,coding,18,that's more stupid
+558447142209847326,coding,13,than vaccines
+558447219024461825,coding,2,ok
+558447225148014592,coding,7,im done
+558447229338255372,coding,3,wtf
+558447236703322115,coding,10,this world
+558447241614852116,coding,6,is too
+558447247122235407,coding,6,stupid
+558447256433328139,coding,13,for my liking
+558447261542121473,coding,3,wtf
+558447278126268416,coding,22,which idiot wrote that
+558447295251742730,coding,7,im done
+558447314323374098,coding,15,i've had enough
+558447337916071978,coding,36,i can see why people have depression
+558447403133304848,coding,80,the world is a FUCKING PIECE OF SHIT WORLD WITH SHOOTERS AND PEDOPHILES AND PETA
+558447412407042049,coding,8,LIKE WTF
+558447418555760640,coding,5,WORLD
+558447428232151091,coding,11,GOD WAKE UP
+558447445479260161,coding,20,AND DO A THANOS SNAP
+558447448033329152,coding,3,FFS
+558447462189367296,coding,15,IM SICK OF THIS
+558447512726274048,coding,18,commit self-isekai
+558447545056100372,coding,14,i wish i could
+558447560482881546,coding,22,but it's not garunteed
+558447675788230675,coding,4,like
+558447773616439296,coding,4,well
+558447797536423967,coding,20,nothing good happens
+558447808328237097,coding,17,everything is bad
+558447839072616449,coding,30,why does life **suck** so much
+558447897331499012,coding,35,im having like a existensial crisis
+558447902276714507,coding,8,but like
+558447909797101598,coding,10,not really
+558447949378748419,coding,13,it's like one
+558447974288457751,coding,3,wow
+558447979300913172,coding,3,idk
+558447992680611850,coding,13,im just tired
+558447998586322965,coding,6,of bad
+558448001648164885,coding,3,bad
+558448005196283905,coding,3,bad
+558448018869714947,coding,16,kittens are good
+558448037475778570,coding,22,but no kittens forever
+558448051656720394,coding,19,im not going to die
+558448083806191628,coding,41,i just wished something good would happen
+558448136385986560,coding,6,i know
+558448141700038678,coding,8,but like
+558448164311531551,coding,25,there is no reason for me
+558448173618692096,coding,16,to leave my home
+558448196372922471,coding,28,the fucked-up world makes me
+558448202819436554,coding,10,want to be
+558448209458888704,coding,8,a hermit
+558448282800488449,coding,84,ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh my head hurts im going to stop thinking
+558448286009131018,coding,2,ok
+558448310634151946,coding,23,i did too much thinking
+558448327268630528,coding,4,well
+558448356582490122,coding,36,im going to go study for my geo test
+558448386966028288,coding,38,i don't like heavy metal that much tho
+558448399775432710,coding,11,ok bye guys
+558448423406141451,coding,3,lol
+558460030635081738,main,138,here is the first installment. First of all_ DO NOT USE PYTHON TO PARSE_ as there are some messagess with newlines in them that were added
+558460050906021919,main,15,open with excel
+558474255201992704,main,5,later
+558474390564634635,memery,4,what
+558474395627290645,memery,3,the
+558474398928207872,memery,4,fuck
+558762349146931211,main,3,lol
+558762369820393472,main,29,it was <@!323980004285349888>
+558762426816921602,main,65,jeez this song gave me so much nostalgia so i had to listen along
+558762544286793749,main,18,discord is so mean
+558766012149793012,coding,3,fun
+558768061616881676,main,3,;p;
+558768066079752197,main,3,lol
+558768071750451205,main,4,nice
+558768105430712320,main,41,<@!358359026083430410> linking zelda vids
+558768129153564678,main,22,*nobody was surprised*
+558768217116639232,main,1,👏
+558768428912082985,coding,530,```NL[2019-03-22 17:45:30_966] {msgs.py:125} | ERROR : Message with id 558768246120120382 could not formattedNLTraceback (most recent call last):NL  File "msgs.py"_ line 123_ in on_messageNL    format_msg(message)NL  File "msgs.py"_ line 106_ in format_msgNL    chmkdir(author_dir)NL  File "msgs.py"_ line 47_ in chmkdirNL    multmkdir(name)NL  File "msgs.py"_ line 40_ in multmkdirNL    os.mkdir(s)NLOSError: [WinError 123] The filename_ directory name_ or volume label syntax is incorrect: 'Authors\\Why Are You Reading My Username?\\'NL```
+558768433915887626,coding,3,fun
+558772898538455109,coding,126,this might be helpful to some people: https://stackoverflow.com/questions/5552555/unicodedecodeerror-invalid-continuation-byte
+558777933540622349,coding,92,test https://cdn.discordapp.com/attachments/514550094805073921/558756126712135691/image0.png
+558777960417460225,coding,9,it worked
+558781183593414656,coding,3,lol
+558781287129808908,coding,43,the tabs tho `                            `
+558781298551029761,coding,3,lol
+558781318079578123,coding,28,discord formats extra spaces
+558781326061207581,coding,3,` `
+558781330066898954,coding,2,``
+558781355735908362,coding,13,`           `
+558781386740465694,coding,6,&nbsp;
+558781394780946484,coding,4,nope
+558804892676915225,memery,0,
+558806133280866324,main,6,Plugin
+558806156336824408,main,3,Lol
+558806243330883584,main,42,@everyone **DO NOT WATCH HOGH SCHOOL DXD**
+558818170438287390,main,19,Lol I misspelled it
+558818198372483073,main,20,It’s HIGH SCHOOL DXD
+558818249404448781,main,62,but ofc when I go on caps mode my keyboard doesn’t autocorrect
+558823141573525534,coding,3,wow
+558823150901657613,coding,14,my program has
+558823166391091240,coding,8,captured
+558823183625617434,coding,9,data from
+558823205671010315,coding,24,5956 different usernames

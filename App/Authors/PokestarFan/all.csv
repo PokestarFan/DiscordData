@@ -1,0 +1,303 @@
+ID,Server,Channel,Content Length, Content
+558107170613362689,Peacecraft,main,2,ok
+558107175046610944,Peacecraft,main,4,nice
+558107176451702784,Peacecraft,main,4,also
+558107185436164116,Peacecraft,main,17,i spent this time
+558107210119380994,Peacecraft,main,25,getting my reader working
+558107253786279966,Peacecraft,main,23,ah lol it reads my msgs
+558107258681163790,Peacecraft,main,4,nice
+558107603423723533,Peacecraft,coding,34,yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+558107620440014859,Peacecraft,coding,506,```
+558107682335096836,Peacecraft,coding,9,also fun?
+558107693747929099,Peacecraft,coding,1818,```
+558107745728069632,Peacecraft,coding,22,this is someone's name
+558107755052007444,Peacecraft,coding,62,`\U000e00aa\U000e00aa\U000e00aa\U000e00aa\U000e00aa\U000e00aa`
+558107794889375744,Peacecraft,coding,30,so it's all emoji or something
+558108013878050829,Peacecraft,ads,3,lol
+558108037471141888,Peacecraft,ads,23,can i choose what anime
+558108073038970913,Peacecraft,ads,49,would hate to have a face full of eromanga sensei
+558108139032150027,Peacecraft,coding,5,yikes
+558108145566613505,Peacecraft,coding,9,this name
+558108152957108224,Peacecraft,coding,9,`{ᏝᏬᏒᏦᏕ}`
+558108301510967296,Peacecraft,animal-gifs,4,wait
+558108313678774272,Peacecraft,animal-gifs,17,this is much dead
+558108496302702603,Peacecraft,memery,0,
+558108522185883659,Peacecraft,memery,5,Yikes
+558108911119499275,Peacecraft,memery,3,lol
+558108916878278667,Peacecraft,memery,4,nice
+558108922955956255,Peacecraft,memery,4,what
+558108924859908127,Peacecraft,memery,3,why
+558108928081264653,Peacecraft,memery,4,also
+558108940106334218,Peacecraft,memery,13,i figured out
+558108954740260874,Peacecraft,memery,27,i need to sanitize newlines
+558108962550054929,Peacecraft,memery,12,in the thing
+558110423648305162,Peacecraft,memery,0,
+558110424432902144,Peacecraft,memery,0,
+558110424344690712,Peacecraft,memery,0,
+558110424713789441,Peacecraft,memery,0,
+558110424722178071,Peacecraft,memery,0,
+558110425426821161,Peacecraft,memery,0,
+558110425833799691,Peacecraft,memery,0,
+558110518938959892,Peacecraft,memery,0,
+558110971907014678,/r/ProgrammerHumor,general-discussions,2,Hi
+558112165496881180,Peacecraft,coding,2,oh
+558112172710821898,Peacecraft,coding,9,holy shoo
+558112194793832448,Peacecraft,coding,35,i accidentally leaked my login info
+558112217552125968,Peacecraft,coding,83,fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+558112539528003594,Peacecraft,coding,2,oh
+558112553717202946,Peacecraft,coding,22,some of the error code
+558112557517373440,Peacecraft,coding,5,i had
+558112582410567691,Peacecraft,coding,26,tracebacked to my run code
+558112598512631819,Peacecraft,coding,25,which had my email + pass
+558112608469778452,Peacecraft,coding,15,so i deleted it
+558428105497116682,Peacecraft,main,3,wow
+558428118235348993,Peacecraft,main,24,my discord app bot thing
+558428141123534848,Peacecraft,main,14,is a **beast**
+558428153572360202,Peacecraft,main,29,more in <#551761350733594626>
+558428164662099999,Peacecraft,coding,3,oml
+558428183360438273,Peacecraft,coding,21,the bot code is crazy
+558428229497520131,Peacecraft,coding,1690,```pythonNLdef format_msg(m):NL    id = m.idNL    server = m.server.nameNL    channel = m.channel.nameNL    author = m.author.nameNL    content = m.contentNL    content_length = len(content)NL    server_dir = "Servers\\%s" % serverNL    server_dir = server_dir.replace("/"_ "_").replace("_"_ "_").replace(":"_ "_")NL    server_all = server_dir + '\\all.csv'NL    channel_dir = server_dir + '\\%s.csv' % channelNL    author_dir = "Authors\\%s" % authorNL    author_dir = author_dir.replace("/"_ "_").replace("."_"_").replace("|"_"_")NL    author_all = author_dir + '\\all.csv'NL    author_server_dir = author_dir + '\\' + server_dirNL    author_server_all = author_server_dir + '\\all.csv'NL    author_server_channel = author_dir + '\\' + channel_dirNL    with open("all_all.csv"_ "a"_ encoding='utf-8') as a:NL        a.write(return_csv_form(id_ author_ server_ channel_ content_length_ content))NL    chmkdir(server_dir)NL    check_if_exists(server_all_ "ID_Author_Channel_Content Length_Content"_NL                    return_csv_form(id_ author_ channel_ content_length_ content))NL    check_if_exists(channel_dir_ "ID_Author_Content Length_Content"_NL                    return_csv_form(id_ author_ content_length_ content))NL    chmkdir(author_dir)NL    check_if_exists(author_all_ "ID_Server_Channel_Content Length_Content"_NL                    return_csv_form(id_ server_ channel_ content_length_ content))NL    chmkdir(author_server_dir)NL    check_if_exists(author_server_all_ "ID_Channel_Content Length_Content"_NL                    return_csv_form(id_ channel_ content_length_ content))NL    check_if_exists(author_server_channel_ "ID_Content Length_Content"_ return_csv_form(id_ content_length_ content))NL```
+558428291296526336,Peacecraft,coding,12,so basically
+558428305334992896,Peacecraft,coding,19,let's say my folder
+558428322107883521,Peacecraft,coding,11,PokestarFan
+558428330982899713,Peacecraft,coding,10,looks like
+558428556632522753,Peacecraft,coding,136,```NLC:.NL|   all.csvNL|   tree.txtNL|   NL\---ServersNL    \---PeacecraftNL            all.csvNL            coding.csvNL            main.csvNL```
+558429123471736834,Peacecraft,coding,24,this is the current data
+558429127112261632,Peacecraft,coding,6,so far
+558429154098544651,Peacecraft,coding,0,
+558429171551043609,Peacecraft,coding,29,once i let it run for a while
+558429193067560960,Peacecraft,coding,35,I can send a compressed zip version
+558430807686119435,Peacecraft,main,45,@everyone give me discord servers to join plz
+558430976414580757,Peacecraft,main,3,lol
+558431193893437460,Peacecraft,main,37,<@!358359026083430410> here is ur bot
+558431199220072470,Peacecraft,main,3,bit
+558431201732591627,Peacecraft,main,1,*
+558431212046254082,Peacecraft,main,489,```NL[2019-03-21 19:25:11_230] {msgs.py:41} | INFO : Folder Authors\Eliazar\Servers\ createdNL[2019-03-21 19:25:11_230] {msgs.py:41} | INFO : Folder Authors\Eliazar\Servers\Peacecraft\ createdNL[2019-03-21 19:25:11_230] {msgs.py:61} | INFO : File Authors\Eliazar\Servers\Peacecraft\all.csv created with heading ID_Channel_Content Length_ContentNL[2019-03-21 19:25:11_246] {msgs.py:61} | INFO : File Authors\Eliazar\Servers\Peacecraft\main.csv created with heading ID_Content Length_ContentNL```
+558431656487288832,Peacecraft,main,3,lol
+558431682500362260,Peacecraft,main,25,i can send u ur data file
+558431691316920330,Peacecraft,main,10,in a while
+558431694231830529,Peacecraft,main,4,also
+558431700359839754,Peacecraft,main,8,servers?
+558431843477749791,Superheroes,spam,17,what even is this
+558432166590283777,Superheroes,spam,2,oh
+558432171287904267,Superheroes,spam,3,lol
+558432178304843786,Superheroes,spam,8,but like
+558432186202849310,Superheroes,spam,8,i forgot
+558432199653982209,Superheroes,spam,20,what hte purpose was
+558433430312976424,/r/Anime Discord!,general,9,holy jeez
+558433437778837518,/r/Anime Discord!,general,8,who knew
+558433446888865823,/r/Anime Discord!,general,14,it was so hard
+558433462038691852,/r/Anime Discord!,general,28,to get into a discord server
+558433615420063771,/r/Anime Discord!,general,3,lol
+558433681195270154,Peacecraft,coding,4,nice
+558433710001881090,Peacecraft,coding,29,this has to be bad for my HDD
+558439077276287016,Peacecraft,coding,3,lol
+558439090824151040,Peacecraft,coding,15,want an update?
+558439173510529025,Peacecraft,coding,0,
+558439184755326977,Peacecraft,coding,14,and i provided
+558439282163843072,Peacecraft,coding,4,what
+558439298370633744,Peacecraft,coding,19,burning hard drive?
+558439445506818048,Peacecraft,coding,4,wait
+558439456336511007,Peacecraft,coding,20,then what is burning
+558439691670781952,Peacecraft,coding,2,oh
+558439694975762433,Peacecraft,coding,2,ok
+558439698108776454,Peacecraft,coding,4,then
+558439701887975424,Peacecraft,coding,4,welp
+558439704115019776,Peacecraft,coding,3,oof
+558439707172929540,Peacecraft,coding,2,ok
+558440360087650335,Peacecraft,coding,11,what's that
+558440371785302019,Peacecraft,coding,8,dyslexia
+558440380262121523,Peacecraft,coding,10,but worse?
+558440484431724544,Peacecraft,coding,139,```NLthe production of a sense impression relating to one sense or part of the body by stimulation of another sense or part of the body.NL```
+558440520754528267,Peacecraft,coding,0,
+558440658856312844,Peacecraft,coding,3,ahh
+558440672387006465,Peacecraft,coding,26,wikipedia makes more sense
+558440680758968341,Peacecraft,coding,188,```NLSynesthesia is a perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to automatic_ involuntary experiences in a second sensory or cognitive pathwayNL```
+558440746555015180,Peacecraft,coding,62,basically if you hear something then you might taste something
+558440761629081616,Peacecraft,coding,24,even if there is nothing
+558440790158999595,Peacecraft,coding,2,oh
+558440794000850988,Peacecraft,coding,3,lol
+558440811281383434,Peacecraft,coding,22,that seems more liekly
+558440817996464133,Peacecraft,coding,6,likely
+558440844231704579,Peacecraft,coding,36,because the synth thing is very rare
+558440849122525270,Peacecraft,coding,7,i think
+558440874065920009,Peacecraft,coding,25,but there r meds for that
+558440895507071008,Peacecraft,coding,3,lol
+558440981968453632,Peacecraft,coding,3,umm
+558440992009879572,Peacecraft,coding,4,what
+558441005687242773,Peacecraft,coding,7,is that
+558441015317364777,Peacecraft,coding,14,lie buttering?
+558441035491966976,Peacecraft,coding,12,u mean lying
+558441043813597214,Peacecraft,coding,3,uhh
+558441058984263694,Peacecraft,coding,18,do u have dyslexia
+558441082162249748,Peacecraft,coding,2,ok
+558441109823684619,Peacecraft,coding,8,how then
+558441115242463244,Peacecraft,coding,9,did u ype
+558441120045203476,Peacecraft,coding,4,type
+558441124990156810,Peacecraft,coding,11,`apreadig0`
+558441224013611033,Peacecraft,coding,4,well
+558441236596391948,Peacecraft,coding,8,dyslexia
+558441249418248194,Peacecraft,coding,20,is not for crazy ppl
+558441535557861376,Peacecraft,coding,13,weeeeeeeeeeee
+558441538867298326,Peacecraft,coding,0,
+558441559511793665,Peacecraft,main,2,oh
+558441565605855252,Peacecraft,main,4,wait
+558441574456098858,Peacecraft,main,9,the album
+558441584958636032,Peacecraft,main,11,or the song
+558442905627394080,FlareTV - Backup Community,welcome,0,
+558444100630609921,Peacecraft,memery,16,congrats discord
+558444705377943572,Peacecraft,main,1,?
+558444733417127937,Peacecraft,main,3,uhh
+558444773476794368,Peacecraft,main,53,<@!358359026083430410> it sounds like ur on acid 24/7
+558444806095765505,Peacecraft,main,25,or you ate a heavy edible
+558444842888200193,Peacecraft,main,20,edible = cooked weed
+558444933179244546,Peacecraft,main,2,no
+558445643711119361,Peacecraft,main,15,im not involved
+558445654201073674,Peacecraft,main,3,bye
+558445897130704917,Peacecraft,main,4,jeez
+558445906429476906,Peacecraft,main,16,did someone find
+558445913173917728,Peacecraft,main,10,and upload
+558445924465246208,Peacecraft,main,15,the sound files
+558445929800400896,Peacecraft,main,7,for mc?
+558445986041692180,Peacecraft,main,2,uh
+558446004773453835,Peacecraft,main,27,how do u extract with hases
+558446011152859156,Peacecraft,main,6,hashes
+558446075493613570,Peacecraft,main,3,YES
+558446084062707713,Peacecraft,main,7,CAT.OGG
+558446188014207020,Peacecraft,main,3,lol
+558446218188161024,r/teengamingnights,general,2,yo
+558446221715570700,r/teengamingnights,general,4,guys
+558446237028843520,r/teengamingnights,general,15,someone sent me
+558446242578038828,r/teengamingnights,general,7,cat.ogg
+558446264300077057,r/teengamingnights,general,31,the sound file for the cat disc
+558446312765521951,r/teengamingnights,general,0,
+558446390049636356,Peacecraft,coding,3,lol
+558446401189838869,Peacecraft,coding,14,it's not a bot
+558446451370491915,Peacecraft,coding,30,it's a data collection program
+558446466700673026,Peacecraft,coding,24,i just called the folder
+558446474917314560,Peacecraft,coding,3,App
+558446553174376455,Peacecraft,coding,4,damm
+558446556148400139,Peacecraft,coding,0,
+558446750583750659,Peacecraft,coding,3,lol
+558446777683017728,Peacecraft,coding,34,it's achieving levels of craziness
+558446788261183519,Peacecraft,coding,14,that shouldn't
+558446946294038545,Peacecraft,coding,3,fun
+558446949150490635,Peacecraft,coding,33,https://www.petakillsanimals.com/
+558447028103938068,Peacecraft,coding,3,lol
+558447104972816384,Peacecraft,coding,2,oh
+558447114451943434,Peacecraft,coding,9,seriously
+558447118222622747,Peacecraft,coding,3,lol
+558447133146218499,Peacecraft,coding,18,that's more stupid
+558447142209847326,Peacecraft,coding,13,than vaccines
+558447219024461825,Peacecraft,coding,2,ok
+558447225148014592,Peacecraft,coding,7,im done
+558447229338255372,Peacecraft,coding,3,wtf
+558447236703322115,Peacecraft,coding,10,this world
+558447241614852116,Peacecraft,coding,6,is too
+558447247122235407,Peacecraft,coding,6,stupid
+558447256433328139,Peacecraft,coding,13,for my liking
+558447261542121473,Peacecraft,coding,3,wtf
+558447278126268416,Peacecraft,coding,22,which idiot wrote that
+558447295251742730,Peacecraft,coding,7,im done
+558447314323374098,Peacecraft,coding,15,i've had enough
+558447337916071978,Peacecraft,coding,36,i can see why people have depression
+558447403133304848,Peacecraft,coding,80,the world is a FUCKING PIECE OF SHIT WORLD WITH SHOOTERS AND PEDOPHILES AND PETA
+558447412407042049,Peacecraft,coding,8,LIKE WTF
+558447418555760640,Peacecraft,coding,5,WORLD
+558447428232151091,Peacecraft,coding,11,GOD WAKE UP
+558447445479260161,Peacecraft,coding,20,AND DO A THANOS SNAP
+558447448033329152,Peacecraft,coding,3,FFS
+558447462189367296,Peacecraft,coding,15,IM SICK OF THIS
+558447512726274048,Peacecraft,coding,18,commit self-isekai
+558447545056100372,Peacecraft,coding,14,i wish i could
+558447560482881546,Peacecraft,coding,22,but it's not garunteed
+558447675788230675,Peacecraft,coding,4,like
+558447773616439296,Peacecraft,coding,4,well
+558447797536423967,Peacecraft,coding,20,nothing good happens
+558447808328237097,Peacecraft,coding,17,everything is bad
+558447839072616449,Peacecraft,coding,30,why does life **suck** so much
+558447897331499012,Peacecraft,coding,35,im having like a existensial crisis
+558447902276714507,Peacecraft,coding,8,but like
+558447909797101598,Peacecraft,coding,10,not really
+558447949378748419,Peacecraft,coding,13,it's like one
+558447974288457751,Peacecraft,coding,3,wow
+558447979300913172,Peacecraft,coding,3,idk
+558447992680611850,Peacecraft,coding,13,im just tired
+558447998586322965,Peacecraft,coding,6,of bad
+558448001648164885,Peacecraft,coding,3,bad
+558448005196283905,Peacecraft,coding,3,bad
+558448018869714947,Peacecraft,coding,16,kittens are good
+558448037475778570,Peacecraft,coding,22,but no kittens forever
+558448051656720394,Peacecraft,coding,19,im not going to die
+558448083806191628,Peacecraft,coding,41,i just wished something good would happen
+558448136385986560,Peacecraft,coding,6,i know
+558448141700038678,Peacecraft,coding,8,but like
+558448164311531551,Peacecraft,coding,25,there is no reason for me
+558448173618692096,Peacecraft,coding,16,to leave my home
+558448196372922471,Peacecraft,coding,28,the fucked-up world makes me
+558448202819436554,Peacecraft,coding,10,want to be
+558448209458888704,Peacecraft,coding,8,a hermit
+558448282800488449,Peacecraft,coding,84,ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh my head hurts im going to stop thinking
+558448286009131018,Peacecraft,coding,2,ok
+558448310634151946,Peacecraft,coding,23,i did too much thinking
+558448327268630528,Peacecraft,coding,4,well
+558448356582490122,Peacecraft,coding,36,im going to go study for my geo test
+558448386966028288,Peacecraft,coding,38,i don't like heavy metal that much tho
+558448399775432710,Peacecraft,coding,11,ok bye guys
+558448423406141451,Peacecraft,coding,3,lol
+558460030635081738,Peacecraft,main,138,here is the first installment. First of all_ DO NOT USE PYTHON TO PARSE_ as there are some messagess with newlines in them that were added
+558460050906021919,Peacecraft,main,15,open with excel
+558474255201992704,Peacecraft,main,5,later
+558474390564634635,Peacecraft,memery,4,what
+558474395627290645,Peacecraft,memery,3,the
+558474398928207872,Peacecraft,memery,4,fuck
+558762349146931211,Peacecraft,main,3,lol
+558762369820393472,Peacecraft,main,29,it was <@!323980004285349888>
+558762426816921602,Peacecraft,main,65,jeez this song gave me so much nostalgia so i had to listen along
+558762544286793749,Peacecraft,main,18,discord is so mean
+558766012149793012,Peacecraft,coding,3,fun
+558768061616881676,Peacecraft,main,3,;p;
+558768066079752197,Peacecraft,main,3,lol
+558768071750451205,Peacecraft,main,4,nice
+558768105430712320,Peacecraft,main,41,<@!358359026083430410> linking zelda vids
+558768129153564678,Peacecraft,main,22,*nobody was surprised*
+558768217116639232,Peacecraft,main,1,👏
+558768428912082985,Peacecraft,coding,530,```NL[2019-03-22 17:45:30_966] {msgs.py:125} | ERROR : Message with id 558768246120120382 could not formattedNLTraceback (most recent call last):NL  File "msgs.py"_ line 123_ in on_messageNL    format_msg(message)NL  File "msgs.py"_ line 106_ in format_msgNL    chmkdir(author_dir)NL  File "msgs.py"_ line 47_ in chmkdirNL    multmkdir(name)NL  File "msgs.py"_ line 40_ in multmkdirNL    os.mkdir(s)NLOSError: [WinError 123] The filename_ directory name_ or volume label syntax is incorrect: 'Authors\\Why Are You Reading My Username?\\'NL```
+558768433915887626,Peacecraft,coding,3,fun
+558772898538455109,Peacecraft,coding,126,this might be helpful to some people: https://stackoverflow.com/questions/5552555/unicodedecodeerror-invalid-continuation-byte
+558777802451582986,masterani.me,domexkano-ep-11,3,lol
+558777815781212180,masterani.me,domexkano-ep-11,8,you know
+558777831392280578,masterani.me,domexkano-ep-11,24,I knew this would happen
+558777874933481480,masterani.me,domexkano-ep-11,42,the second I saw the hotel was see through
+558777933540622349,Peacecraft,coding,92,test https://cdn.discordapp.com/attachments/514550094805073921/558756126712135691/image0.png
+558777960417460225,Peacecraft,coding,9,it worked
+558777979732361228,masterani.me,domexkano-ep-11,87,https://cdn.discordapp.com/attachments/514550094805073921/558756126712135691/image0.png
+558778044773302272,masterani.me,domexkano-ep-11,23,how do you tag spoilers
+558778157746880516,masterani.me,domexkano-ep-11,3,aha
+558778169667354655,masterani.me,domexkano-ep-11,91,||https://cdn.discordapp.com/attachments/514550094805073921/558756126712135691/image0.png||
+558778503701463065,masterani.me,domexkano-ep-11,0,
+558778547494453254,masterani.me,domexkano-ep-11,40,this is a spoiler from the end of the ep
+558778600455667715,masterani.me,domexkano-ep-11,60,although if ur here i would assume you watched up to the end
+558778725974540298,masterani.me,gotoubun-ep-11,3,lol
+558778787093807161,masterani.me,gotoubun-ep-11,77,i use crunchyroll because I found a free 30 day premium code on their twitter
+558781183593414656,Peacecraft,coding,3,lol
+558781287129808908,Peacecraft,coding,43,the tabs tho `                            `
+558781298551029761,Peacecraft,coding,3,lol
+558781318079578123,Peacecraft,coding,28,discord formats extra spaces
+558781326061207581,Peacecraft,coding,3,` `
+558781330066898954,Peacecraft,coding,2,``
+558781355735908362,Peacecraft,coding,13,`           `
+558781386740465694,Peacecraft,coding,6,&nbsp;
+558781394780946484,Peacecraft,coding,4,nope
+558804892676915225,Peacecraft,memery,0,
+558806133280866324,Peacecraft,main,6,Plugin
+558806156336824408,Peacecraft,main,3,Lol
+558806243330883584,Peacecraft,main,42,@everyone **DO NOT WATCH HOGH SCHOOL DXD**
+558818170438287390,Peacecraft,main,19,Lol I misspelled it
+558818198372483073,Peacecraft,main,20,It’s HIGH SCHOOL DXD
+558818249404448781,Peacecraft,main,62,but ofc when I go on caps mode my keyboard doesn’t autocorrect
+558823141573525534,Peacecraft,coding,3,wow
+558823150901657613,Peacecraft,coding,14,my program has
+558823166391091240,Peacecraft,coding,8,captured
+558823183625617434,Peacecraft,coding,9,data from
+558823205671010315,Peacecraft,coding,24,5956 different usernames

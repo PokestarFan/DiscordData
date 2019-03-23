@@ -1,0 +1,32 @@
+ID,Server,Channel,Content Length,Content
+558832598122627084,MINECRAFT,minecraft,11,your idiots
+558832639448973315,MINECRAFT,minecraft,8,you suck
+558832670071848970,MINECRAFT,minecraft,9,you dumbo
+558832728837980161,MINECRAFT,minecraft,26,dont say my name you idiot
+558835489541586981,MINECRAFT,minecraft,8,you suck
+558835538338250762,MINECRAFT,minecraft,1,!
+558835600900358207,MINECRAFT,minecraft,3,.-.
+558835634370773020,MINECRAFT,minecraft,311,--Created by the benevolent and lovely DusekVanity // Don't mess with anything belowNLNLNLlocal DusekVanity = script.ParentNLNLlocal Crouch = script:WaitForChild("Crouch"):Clone()NLCrouch.Disabled = falseNLNLwhile (DusekVanity.Parent.Character == nil) do wait(1) endNLCrouch:Clone().Parent = DusekVanity.Parent.Character
+558835666797068301,MINECRAFT,minecraft,311,--Created by the benevolent and lovely DusekVanity // Don't mess with anything belowNLNLNLlocal DusekVanity = script.ParentNLNLlocal Crouch = script:WaitForChild("Crouch"):Clone()NLCrouch.Disabled = falseNLNLwhile (DusekVanity.Parent.Character == nil) do wait(1) endNLCrouch:Clone().Parent = DusekVanity.Parent.Character
+558835690310467584,MINECRAFT,minecraft,311,--Created by the benevolent and lovely DusekVanity // Don't mess with anything belowNLNLNLlocal DusekVanity = script.ParentNLNLlocal Crouch = script:WaitForChild("Crouch"):Clone()NLCrouch.Disabled = falseNLNLwhile (DusekVanity.Parent.Character == nil) do wait(1) endNLCrouch:Clone().Parent = DusekVanity.Parent.Character
+558835712888143874,MINECRAFT,minecraft,311,--Created by the benevolent and lovely DusekVanity // Don't mess with anything belowNLNLNLlocal DusekVanity = script.ParentNLNLlocal Crouch = script:WaitForChild("Crouch"):Clone()NLCrouch.Disabled = falseNLNLwhile (DusekVanity.Parent.Character == nil) do wait(1) endNLCrouch:Clone().Parent = DusekVanity.Parent.Character
+558835740096593940,MINECRAFT,minecraft,311,--Created by the benevolent and lovely DusekVanity // Don't mess with anything belowNLNLNLlocal DusekVanity = script.ParentNLNLlocal Crouch = script:WaitForChild("Crouch"):Clone()NLCrouch.Disabled = falseNLNLwhile (DusekVanity.Parent.Character == nil) do wait(1) endNLCrouch:Clone().Parent = DusekVanity.Parent.Character
+558835809449410575,MINECRAFT,minecraft,9,NO TYPING
+558835834359644170,MINECRAFT,minecraft,9,NO TYPING
+558835879477641256,MINECRAFT,minecraft,20,I WORK WITH FLAMINGO
+558835907701112836,MINECRAFT,minecraft,13,SO DIE IDIOTS
+558835959400103937,MINECRAFT,minecraft,3,LOL
+558836007127089172,MINECRAFT,minecraft,8,!ban tlv
+558836035736305665,MINECRAFT,minecraft,8,!ban tlb
+558836069785927692,MINECRAFT,minecraft,9,NO TYPING
+558836094167416832,MINECRAFT,minecraft,9,NO TYPING
+558836122130710528,MINECRAFT,minecraft,9,NO TYPING
+558836161033011202,MINECRAFT,minecraft,62,https://tenor.com/view/pokemon-applaud-happy-clap-gif-13766169
+558836194881044480,MINECRAFT,minecraft,28,<:zombie:302439627992858624>
+558836226224816129,MINECRAFT,minecraft,66,https://tenor.com/view/carlton-excited-happy-yes-jump-gif-13759814
+558836250560299009,MINECRAFT,minecraft,9,NO TYPING
+558836315509096458,MINECRAFT,minecraft,50,i dont care da hell who notch the idiot is shut up
+558836339508772874,MINECRAFT,minecraft,9,NO TYPING
+558836363735334922,MINECRAFT,minecraft,9,NO TYPING
+558836545587642368,MINECRAFT,minecraft,5,!rank
+558836583671922699,MINECRAFT,minecraft,17,SHUT UP YOU IDIOT

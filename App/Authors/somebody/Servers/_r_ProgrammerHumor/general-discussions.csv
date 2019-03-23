@@ -1,0 +1,9 @@
+ID,Content Length,Content
+558806484339654676,160,_looks_ well not like there's a lot to review_ of what's there_ imo it looks fine_ everything is nicely separated into little sections of related function calls
+558808067555459076,84,this is probably bad practice_ but i'd import `import javafx.scene.shape.*;` instead
+558809177779208192,14,don't think so
+558809369706496013,43,so it wouldn't import `javafx.scene.*;` etc
+558810088693956635,26,nah it's got a good reason
+558810159472967682,91,firstly everything would be super slow if you imported hundreds if not thousands of classes
+558810268403105815,75,secondly you probably didn't want anything from the child namespaces anyway
+558810361478774784,128,it might be a thing you want in a scripting language_ but definitely not java (btw_ scripting languages don't allow this either)

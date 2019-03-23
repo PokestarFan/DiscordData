@@ -1,0 +1,33 @@
+ID,Channel,Content Length,Content
+558468268780945418,builds,42,so i tryed to make a mario pipe in bedrock
+558468271477620753,builds,28,https://youtu.be/CKS3KXsyBD0
+558468286564794371,builds,9,looks lit
+558759699902627855,technical-bedrock,65,so lets say i have a existing world would i be able to put it in?
+558760050307498015,technical-bedrock,3,uhh
+558760081752195093,technical-bedrock,36,trying to change how the block looks
+558760111821291550,technical-bedrock,8,so model
+558762709961670669,technical-bedrock,20,i have another thing
+558762864954048532,technical-bedrock,100,so lets say this person steos on wood right then it gives them a jump boost without a pressure plate
+558763215547531289,technical-bedrock,4,Wait
+558763221394391040,technical-bedrock,2,So
+558763356857565196,technical-bedrock,7,Obhh so
+558763454673190912,technical-bedrock,37,/execute @p 0 4 0 effect blindess 10?
+558763496444133388,technical-bedrock,14,Will that work
+558763853874331648,technical-bedrock,65,So then if someone breaks a block how can it show a title command
+558763996748972032,technical-bedrock,74,Like lets say I broke a piece of wood and a title @a title command pops up
+558764644332863489,technical-bedrock,6,woahhh
+558765405917806633,technical-bedrock,90,how about a push effect with the /execute like step on wood gets you flinged like 6 blocks
+558766194535039003,technical-bedrock,22,why did u put ~ ~ -1 ~
+558766562400534560,technical-bedrock,22,also how far can it go
+558766918237159424,technical-bedrock,97,What about if someone steps on Cobblestone ( -135 47 11 ) and I want them flinged to -135 46 -127
+558767254859284508,technical-bedrock,27,oh so how far does it go to
+558767713661747210,technical-bedrock,37,wait so to be flinged its jump boost?
+558768159482445833,technical-bedrock,7,fowards
+558768305876369421,technical-bedrock,4,damn
+558768336712892416,technical-bedrock,31,well levitation will work right
+558768597787213905,technical-bedrock,60,no like i want it to do that when i stand on a certain block
+558768780801605643,technical-bedrock,63,so then /execute @a -144 59 43 effect @s levitation 1 255 true?
+558769134347878412,technical-bedrock,30,what would iput for data value
+558769262953496576,technical-bedrock,13,cobbleston e'
+558769560627576860,technical-bedrock,11,dosent work
+558769642240213012,technical-bedrock,23,here ill send u a image

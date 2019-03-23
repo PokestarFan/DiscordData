@@ -1,0 +1,7 @@
+ID,Content Length,Content
+558825929388982302,52,In general you dont want to use any sort of import *
+558826036184481802,59,it makes it harder to track where stuff actually comes from
+558826329546686485,96,it would be nicer if you could say stuff like `import java.util.{ArrayList_ List_ Map_ HashMap}`
+558826363147124746,15,but cest la vie
+558859353709477898,47,I don't see why sorting by length is a priority
+558859420625403905,71,though I am sure you can configure the autoformatter somehow to do that

@@ -1,0 +1,57 @@
+ID,Content Length,Content
+558785611230609428,30,what program were you writing?
+558832650949754900,63,conceptually an array is not a good fit for continual appending
+558832774342246411,118,If you want to do an operation like that you would be best off writing or finding your own "ArrayList" kind of wrapper
+558833123811524638,58,I think you don't quite understand what an array in c _is_
+558833202815565825,34,it is a fixed size block of memory
+558833229780484148,39,that you have a pointer to the start of
+558833301725511700,55,it is up to you to keep track of the size of that array
+558833325943554078,25,usually in a seperate int
+558833389654769664,69,because you only have the pointer to the start of the block of memory
+558833485142556674,95,nothing about that pointer can tell you how much memory ahead of that you are allowed to access
+558833647302606849,160,so if you keep the size of the array and the pointer to the start of the array held somewhere then the "index of the last item" is something you implicitly know
+558834656754008073,53,and I might be wrong when I say to store it in an int
+558834705592483842,40,it might be a `usize` or some other type
+558834734483111948,31,I am not super well versed in C
+558834781337550857,45,and I don't have classes that make me write C
+558834845690757154,28,so I have no desire to learn
+558834869896085527,14,rust 2019 baby
+558836141651001375,54,The type you are looking for in rust is probably `Vec`
+558836246571384832,72,can you share your problem and what you were thinking of for a solution?
+558836968654503943,64,I can maybe whip up a quick A/B of what it would be in C vs rust
+558837496327307287,65,Actually I am kinda bored so i could use the mindless distraction
+558838506462380072,46,is this for a class or for a personal project?
+558838627145089044,41,cool_ means you can use whatever you want
+558838656161546302,8,what db?
+558838685718675488,6,gotcha
+558839798748676097,27,any more details than that?
+558839938129461258,43,do you have a schema you were messing with?
+558839981297106959,29,like_ the SQL you were using?
+558840113631592458,64,well if you are using sqlite you started off by creating a table
+558840131813900289,26,and then you inserted data
+558840155767701514,28,and now you want to query it
+558840324198236171,79,I want to stick to what you were doing so I don't have to think about sql today
+558840733889724437,10,ahh gotcha
+558840765682548756,29,whats the schema for entries?
+558841081064587275,67,thats good_ but i meant specifically the sql for creating the table
+558841133334003723,23,eh whatever I can do it
+558841223897546752,79,remember kids: If you try too hard to be lazy_ you are actually doing more work
+558847468926664734,32,<@467576889926483969> Here ya go
+558847489017380875,1537,```rustNLuse rusqlite::{Connection_ NO_PARAMS};NLNL#[derive(Debug)]NLstruct Entry {NL    id: i64_NL    title: String_NL    content: StringNL}NLNLfn insert_entry(conn: &Connection_ entry: &Entry) -> rusqlite::Result<usize> {NL    conn.execute("\NL    INSERT INTO Entries (Title_ Content)NL        VALUES (?1_ ?2)NL    "_NL    &[&entry.title_ &entry.content])NL}NLNLfn all_entries(conn: &Connection) -> rusqlite::Result<Vec<Entry>> {NL    let mut stmt = connNL        .prepare("SELECT ID_ Title_ Content FROM Entries")?;NL    let entry_iter = stmt.query_map(NL        NO_PARAMS_NL        |row| Ok(Entry{NL            id: row.get(0)?_NL            title: row.get(1)?_NL            content: row.get(2)?NL        })NL    )?;NLNL    let mut entries = Vec::new();NL    for entry in entry_iter {NL        entries.push(entry?);NL    }NLNL    Ok(entries)NL}NLNLfn main() -> rusqlite::Result<()> {NL    let conn = Connection::open("db.sqlite")?;NL    conn.execute("\NL    CREATE TABLE IF NOT EXISTS Entries(NL              ID INTEGER PRIMARY KEY_NL              Title CHAR(512)_NL              Content TEXT);NL    "_NL    NO_PARAMS)?;NLNL    let entry_1 = Entry {NL        id: 0_NL        title: String::from("Entry Number One")_NL        content: String::from("This is the text for my entry.")NL    };NLNL    let entry_2 = Entry {NL        id: 1_NL        title: String::from("Le Second Entreee")_NL        content: String::from("2. What is 2? Can you taste it?")NL    };NLNL    insert_entry(&conn_&entry_1)?;NL    insert_entry(&conn_&entry_2)?;NLNLNLNL    println!("{:?}"_ all_entries(&conn));NLNL    Ok(())NL}NL```
+558847695972728852,462,```NL/Users/emccue/.cargo/bin/cargo run --color=always --package sequel --bin sequelNL   Compiling sequel v0.1.0 (/Users/emccue/Development/sequel)NL    Finished dev [unoptimized + debuginfo] target(s) in 1.63sNL     Running `target/debug/sequel`NLOk([Entry { id: 1_ title: "Entry Number One"_ content: "This is the text for my entry." }_ Entry { id: 2_ title: "Le Second Entreee"_ content: "2. What is 2? Can you taste it?" }])NLNLProcess finished with exit code 0NL```
+558847781683462144,21,`rusqlite = "0.17.0"`
+558847811672735797,39,and that is the only library i am using
+558849214507909130,10,thats fair
+558849338047201291,88,C is definitely a simpler language in terms of number of concepts you need to understand
+558850073497436180,0,
+558850121387737100,97,`For the third year in a row_ Rust is the most loved programming language among our respondents_`
+558850856007630848,98,Not a quality assessment_ but I want to frontload good press because the language is hard to learn
+558850903638016010,58,https://insights.stackoverflow.com/survey/2018/#technology
+558850995887669259,51,but once you learn it people tend to really like it
+558851159087906828,33,in the future because it is march
+558852353717960714,48,Hey mods_ just thinking out loud without context
+558852526523285506,92,is there a way to give people badges for what languages and tools they are comfortable with?
+558852648355233830,103,It would save me quite a bit of time asking people to get context on what is limiting their perspective
+558853309641785358,104,<@153146360705712128> What languages are you comfortable with and can use. You choose where that line is
+558853360132947979,45,And have you done a larger project in python?
+558855234063958047,90,I think that has far less to do with the language itself and more to do with the ecosystem

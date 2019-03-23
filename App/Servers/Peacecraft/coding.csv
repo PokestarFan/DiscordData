@@ -1,0 +1,387 @@
+ID,Author,Content Length,Content
+558107603423723533,PokestarFan,34,yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+558107620440014859,PokestarFan,506,```
+558107682335096836,PokestarFan,9,also fun?
+558107693747929099,PokestarFan,1818,```
+558107745728069632,PokestarFan,22,this is someone's name
+558107755052007444,PokestarFan,62,`\U000e00aa\U000e00aa\U000e00aa\U000e00aa\U000e00aa\U000e00aa`
+558107794889375744,PokestarFan,30,so it's all emoji or something
+558108139032150027,PokestarFan,5,yikes
+558108145566613505,PokestarFan,9,this name
+558108152957108224,PokestarFan,9,`{ᏝᏬᏒᏦᏕ}`
+558112165496881180,PokestarFan,2,oh
+558112172710821898,PokestarFan,9,holy shoo
+558112194793832448,PokestarFan,35,i accidentally leaked my login info
+558112217552125968,PokestarFan,83,fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+558112310980247552,Eliazar,2,hm
+558112322242084866,Eliazar,1,?
+558112539528003594,PokestarFan,2,oh
+558112553717202946,PokestarFan,22,some of the error code
+558112557517373440,PokestarFan,5,i had
+558112582410567691,PokestarFan,26,tracebacked to my run code
+558112598512631819,PokestarFan,25,which had my email + pass
+558112608469778452,PokestarFan,15,so i deleted it
+558112996237246466,Eliazar,4,cool
+558113104378986498,Eliazar,43,tracebacked is not a word nor a simple typo
+558113157667749901,Eliazar,40,so perhaps a faux word or a complex typo
+558428164662099999,PokestarFan,3,oml
+558428183360438273,PokestarFan,21,the bot code is crazy
+558428229497520131,PokestarFan,1690,```pythonNLdef format_msg(m):NL    id = m.idNL    server = m.server.nameNL    channel = m.channel.nameNL    author = m.author.nameNL    content = m.contentNL    content_length = len(content)NL    server_dir = "Servers\\%s" % serverNL    server_dir = server_dir.replace("/"_ "_").replace("_"_ "_").replace(":"_ "_")NL    server_all = server_dir + '\\all.csv'NL    channel_dir = server_dir + '\\%s.csv' % channelNL    author_dir = "Authors\\%s" % authorNL    author_dir = author_dir.replace("/"_ "_").replace("."_"_").replace("|"_"_")NL    author_all = author_dir + '\\all.csv'NL    author_server_dir = author_dir + '\\' + server_dirNL    author_server_all = author_server_dir + '\\all.csv'NL    author_server_channel = author_dir + '\\' + channel_dirNL    with open("all_all.csv"_ "a"_ encoding='utf-8') as a:NL        a.write(return_csv_form(id_ author_ server_ channel_ content_length_ content))NL    chmkdir(server_dir)NL    check_if_exists(server_all_ "ID_Author_Channel_Content Length_Content"_NL                    return_csv_form(id_ author_ channel_ content_length_ content))NL    check_if_exists(channel_dir_ "ID_Author_Content Length_Content"_NL                    return_csv_form(id_ author_ content_length_ content))NL    chmkdir(author_dir)NL    check_if_exists(author_all_ "ID_Server_Channel_Content Length_Content"_NL                    return_csv_form(id_ server_ channel_ content_length_ content))NL    chmkdir(author_server_dir)NL    check_if_exists(author_server_all_ "ID_Channel_Content Length_Content"_NL                    return_csv_form(id_ channel_ content_length_ content))NL    check_if_exists(author_server_channel_ "ID_Content Length_Content"_ return_csv_form(id_ content_length_ content))NL```
+558428291296526336,PokestarFan,12,so basically
+558428305334992896,PokestarFan,19,let's say my folder
+558428322107883521,PokestarFan,11,PokestarFan
+558428330982899713,PokestarFan,10,looks like
+558428556632522753,PokestarFan,136,```NLC:.NL|   all.csvNL|   tree.txtNL|   NL\---ServersNL    \---PeacecraftNL            all.csvNL            coding.csvNL            main.csvNL```
+558429123471736834,PokestarFan,24,this is the current data
+558429127112261632,PokestarFan,6,so far
+558429154098544651,PokestarFan,0,
+558429171551043609,PokestarFan,29,once i let it run for a while
+558429193067560960,PokestarFan,35,I can send a compressed zip version
+558433681195270154,PokestarFan,4,nice
+558433710001881090,PokestarFan,29,this has to be bad for my HDD
+558434165364621313,Eliazar,3,eek
+558438797696565318,King Snek,14,i see no issue
+558439053930921994,Eliazar,22,l can smell that image
+558439077276287016,PokestarFan,3,lol
+558439090824151040,PokestarFan,15,want an update?
+558439173510529025,PokestarFan,0,
+558439178090709007,Eliazar,26,it smells like bad burning
+558439184755326977,PokestarFan,14,and i provided
+558439205680840714,Eliazar,21,normally burning good
+558439230020517898,Eliazar,24,but 'tis akin to burning
+558439235976298519,Eliazar,7,but bad
+558439282163843072,PokestarFan,4,what
+558439298370633744,PokestarFan,19,burning hard drive?
+558439384949719060,Eliazar,27,what's a burning hard drive
+558439445506818048,PokestarFan,4,wait
+558439456336511007,PokestarFan,20,then what is burning
+558439652017700865,Eliazar,22,idk how my brain works
+558439691670781952,PokestarFan,2,oh
+558439694975762433,PokestarFan,2,ok
+558439698108776454,PokestarFan,4,then
+558439701887975424,PokestarFan,4,welp
+558439704115019776,PokestarFan,3,oof
+558439707172929540,PokestarFan,2,ok
+558440307692404746,Eliazar,81,also before <@266683905300496387> starts spreading lies l do not have synæsthesia
+558440360087650335,PokestarFan,11,what's that
+558440371785302019,PokestarFan,8,dyslexia
+558440380262121523,PokestarFan,10,but worse?
+558440484431724544,PokestarFan,139,```NLthe production of a sense impression relating to one sense or part of the body by stimulation of another sense or part of the body.NL```
+558440520754528267,PokestarFan,0,
+558440658856312844,PokestarFan,3,ahh
+558440672387006465,PokestarFan,26,wikipedia makes more sense
+558440680758968341,PokestarFan,188,```NLSynesthesia is a perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to automatic_ involuntary experiences in a second sensory or cognitive pathwayNL```
+558440720172711946,Eliazar,26,king snek thinks l have it
+558440746555015180,PokestarFan,62,basically if you hear something then you might taste something
+558440761629081616,PokestarFan,24,even if there is nothing
+558440780239339536,Eliazar,36,or was it schizophrenia that he said
+558440790158999595,PokestarFan,2,oh
+558440794000850988,PokestarFan,3,lol
+558440811281383434,PokestarFan,22,that seems more liekly
+558440817996464133,PokestarFan,6,likely
+558440844231704579,PokestarFan,36,because the synth thing is very rare
+558440849122525270,PokestarFan,7,i think
+558440863278039042,Eliazar,50,but l have niether because those are fkr crazy ppl
+558440874065920009,PokestarFan,25,but there r meds for that
+558440875366023168,Eliazar,3,for
+558440895507071008,PokestarFan,3,lol
+558440930479439892,Eliazar,41,<@266683905300496387> CEASE LIE BUTTERING
+558440981968453632,PokestarFan,3,umm
+558440992009879572,PokestarFan,4,what
+558441005687242773,PokestarFan,7,is that
+558441014319382569,Eliazar,12,butterinf no
+558441015317364777,PokestarFan,14,lie buttering?
+558441029955747871,Eliazar,9,apreadig0
+558441035491966976,PokestarFan,12,u mean lying
+558441043813597214,PokestarFan,3,uhh
+558441044224507946,Eliazar,9,spreading
+558441058984263694,PokestarFan,18,do u have dyslexia
+558441070795423802,Eliazar,16,l said spreading
+558441082162249748,PokestarFan,2,ok
+558441088403374080,Eliazar,7,ofc not
+558441109823684619,PokestarFan,8,how then
+558441115242463244,PokestarFan,9,did u ype
+558441120045203476,PokestarFan,4,type
+558441124990156810,PokestarFan,11,`apreadig0`
+558441134225883136,Eliazar,33,l haven't any crazy person things
+558441224013611033,PokestarFan,4,well
+558441236596391948,PokestarFan,8,dyslexia
+558441249418248194,PokestarFan,20,is not for crazy ppl
+558441535557861376,PokestarFan,13,weeeeeeeeeeee
+558441538867298326,PokestarFan,0,
+558444937780133918,oliviayellowcat,27,your discord bot is an app?
+558445931599626271,King Snek,129,<@!358359026083430410> schizophrenia for your auditory hallucinations and synesthesia for how you seem to be able to taste colors
+558446135971283025,Eliazar,38,naw daz just from being slepp deprived
+558446163053903890,Eliazar,7,l think
+558446206599299072,King Snek,39,you sleep for ~16 hours per day_ right?
+558446308554309632,Eliazar,14,supposed to :(
+558446357254242306,Eliazar,11,but has 2-8
+558446390049636356,PokestarFan,3,lol
+558446401189838869,PokestarFan,14,it's not a bot
+558446413089079298,Eliazar,18,because uncan work
+558446451370491915,PokestarFan,30,it's a data collection program
+558446466700673026,PokestarFan,24,i just called the folder
+558446474917314560,PokestarFan,3,App
+558446504520450088,King Snek,55,hallucinations only start after 48-72 hours of no sleep
+558446553174376455,PokestarFan,4,damm
+558446556148400139,PokestarFan,0,
+558446572602654720,King Snek,45,OR <4 hours of sleep for at least a good week
+558446652130590753,King Snek,37,i still see no issue with your folder
+558446750583750659,PokestarFan,3,lol
+558446777683017728,PokestarFan,34,it's achieving levels of craziness
+558446788261183519,PokestarFan,14,that shouldn't
+558446826513235990,Eliazar,13,i <3 u 2 xoxo
+558446854082265089,King Snek,3,ffs
+558446946294038545,PokestarFan,3,fun
+558446949150490635,PokestarFan,33,https://www.petakillsanimals.com/
+558446956834455553,Eliazar,25,from a comico l looked at
+558447004251062292,oliviayellowcat,16,we know peta bad
+558447028103938068,PokestarFan,3,lol
+558447044797136896,oliviayellowcat,52,they did an autism connection dooming them eternally
+558447072945111040,oliviayellowcat,3,yee
+558447093912698891,King Snek,23,meat-autism connection?
+558447104972816384,PokestarFan,2,oh
+558447114451943434,PokestarFan,9,seriously
+558447118222622747,PokestarFan,3,lol
+558447132621668352,King Snek,7,really?
+558447133146218499,PokestarFan,18,that's more stupid
+558447142209847326,PokestarFan,13,than vaccines
+558447143933837331,King Snek,14,they did that?
+558447201135624192,Eliazar,116,and l don't think it counts as hallucinations if you just see and hear things from nightmares that try to attack you
+558447210711220294,oliviayellowcat,37,milk-autism and YES THEY ACTUALLY DID
+558447219024461825,PokestarFan,2,ok
+558447225148014592,PokestarFan,7,im done
+558447228939796480,oliviayellowcat,23,PUBLISHED ADVERSISMENTS
+558447229338255372,PokestarFan,3,wtf
+558447236703322115,PokestarFan,10,this world
+558447241614852116,PokestarFan,6,is too
+558447247122235407,PokestarFan,6,stupid
+558447256433328139,PokestarFan,13,for my liking
+558447261542121473,PokestarFan,3,wtf
+558447278126268416,PokestarFan,22,which idiot wrote that
+558447295251742730,PokestarFan,7,im done
+558447314323374098,PokestarFan,15,i've had enough
+558447337916071978,PokestarFan,36,i can see why people have depression
+558447342349713410,King Snek,61,ill go take myself out of this world seeya in a different one
+558447403133304848,PokestarFan,80,the world is a FUCKING PIECE OF SHIT WORLD WITH SHOOTERS AND PEDOPHILES AND PETA
+558447412407042049,PokestarFan,8,LIKE WTF
+558447418555760640,PokestarFan,5,WORLD
+558447428232151091,PokestarFan,11,GOD WAKE UP
+558447445479260161,PokestarFan,20,AND DO A THANOS SNAP
+558447448033329152,PokestarFan,3,FFS
+558447462189367296,PokestarFan,15,IM SICK OF THIS
+558447510738436147,Eliazar,3,red
+558447512726274048,PokestarFan,18,commit self-isekai
+558447545056100372,PokestarFan,14,i wish i could
+558447560482881546,PokestarFan,22,but it's not garunteed
+558447568049405953,oliviayellowcat,1,\
+558447657983541269,Eliazar,2,\?
+558447675788230675,PokestarFan,4,like
+558447699188383744,Eliazar,3,\\?
+558447738421772288,Eliazar,7,why \\?
+558447767740088346,Eliazar,21,<@366986062599290883>
+558447773616439296,PokestarFan,4,well
+558447797536423967,PokestarFan,20,nothing good happens
+558447808328237097,PokestarFan,17,everything is bad
+558447839072616449,PokestarFan,30,why does life **suck** so much
+558447845271797803,oliviayellowcat,26,o accdent tocuhed keytboad
+558447852880396329,King Snek,116,FATHER_ WHY HAVE YOU FORSAKEN ME_ IN YOUR EYES FORSAKEN ME_ IN YOUR THOUGHTS FORSAKEN ME_ IN YOUR HEART FORSAKEN ME_
+558447885008764938,oliviayellowcat,19,hahahahah goddiness
+558447891639697409,Eliazar,11,that's blue
+558447897331499012,PokestarFan,35,im having like a existensial crisis
+558447902276714507,PokestarFan,8,but like
+558447909797101598,PokestarFan,10,not really
+558447941237604372,Eliazar,17,the world is bad?
+558447949378748419,PokestarFan,13,it's like one
+558447952415293440,iTecX,20,i have an answer 4 u
+558447959256072210,King Snek,28,its the onset of depression!
+558447963639250945,oliviayellowcat,25,you sound like a freshman
+558447963869806592,Eliazar,25,why care about tbe world?
+558447974288457751,PokestarFan,3,wow
+558447979300913172,PokestarFan,3,idk
+558447987597246479,oliviayellowcat,15,cause kittetens
+558447992680611850,PokestarFan,13,im just tired
+558447998586322965,PokestarFan,6,of bad
+558448001648164885,PokestarFan,3,bad
+558448005196283905,PokestarFan,3,bad
+558448016898654220,iTecX,33,would you like to be enlightened?
+558448018869714947,PokestarFan,16,kittens are good
+558448033784922133,oliviayellowcat,10,pls no die
+558448037475778570,PokestarFan,22,but no kittens forever
+558448051656720394,PokestarFan,19,im not going to die
+558448057478545440,oliviayellowcat,11,we love you
+558448076952698880,King Snek,95,usually it happens sooner than 14-15_ but that just means its probably not going to get too bad
+558448083806191628,PokestarFan,41,i just wished something good would happen
+558448086565781514,oliviayellowcat,26,you have suportive friends
+558448086733553666,Eliazar,9,wait what
+558448122964213760,oliviayellowcat,22,you have good friend!!
+558448132497735702,oliviayellowcat,13,thats good!!!
+558448136385986560,PokestarFan,6,i know
+558448141700038678,PokestarFan,8,but like
+558448164311531551,PokestarFan,25,there is no reason for me
+558448173618692096,PokestarFan,16,to leave my home
+558448188407808002,iTecX,33,would you like to be enlightened?
+558448191591415843,iTecX,33,would you like to be enlightened?
+558448193797357589,iTecX,33,would you like to be enlightened?
+558448195873538078,iTecX,33,would you like to be enlightened?
+558448196372922471,PokestarFan,28,the fucked-up world makes me
+558448202819436554,PokestarFan,10,want to be
+558448209458888704,PokestarFan,8,a hermit
+558448209681448970,King Snek,14,get into music
+558448215184113665,oliviayellowcat,67,you win prise for awesome code and cool memes youve been sharing!!!
+558448255831244810,King Snek,31,music that shares your feelings
+558448267776491533,oliviayellowcat,49,we love you and were glad you interactuct with us
+558448282800488449,PokestarFan,84,ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh my head hurts im going to stop thinking
+558448286009131018,PokestarFan,2,ok
+558448300995510275,oliviayellowcat,27,but do what makes you hppen
+558448305403723806,Eliazar,61,<@199605025914224641> don't care about the f\*\*\*ed up world
+558448310634151946,PokestarFan,23,i did too much thinking
+558448311271424000,oliviayellowcat,6,bhappy
+558448327268630528,PokestarFan,4,well
+558448346378010654,King Snek,67,generally_ heavy metal seems to have the best emotion in the lyrics
+558448356582490122,PokestarFan,36,im going to go study for my geo test
+558448386966028288,PokestarFan,38,i don't like heavy metal that much tho
+558448392108507156,King Snek,17,geo doesnt matter
+558448399775432710,PokestarFan,11,ok bye guys
+558448407912644620,King Snek,11,get into it
+558448423406141451,PokestarFan,3,lol
+558448425385852928,iTecX,32,https://i.imgur.com/wVU7M7N.gifv
+558448445439082506,iTecX,17,enlightenment ^^^
+558448514519269376,Eliazar,5,AHHHH
+558448654134935593,oliviayellowcat,34,ok just remebre we all love you :)
+558448656018309120,Eliazar,77,mebe you just gotta do that cool floaty thing people do <@199605025914224641>
+558448744442494989,King Snek,28,https://youtu.be/suG-c_i2fBQ
+558448773609816070,Eliazar,45,idk what it is but doglover said that l do it
+558448822452486144,iTecX,11,get in bath
+558448844300353556,iTecX,16,turn it real hot
+558448872972746753,oliviayellowcat,14,ouch that hurt
+558448878962343956,Eliazar,15,nono not floaty
+558448903867858947,oliviayellowcat,26,take bath with guinea pigs
+558448908875989003,iTecX,26,stay in bath until not hot
+558448923191148584,Eliazar,35,and l can't stand high temperatures
+558448931223109653,iTecX,18,repeat until happy
+558448945118969867,King Snek,52,i use hot water as a form of less damaging self harm
+558448956657631243,oliviayellowcat,50,put guinea pigs in bath and they screambble on you
+558448972893519873,King Snek,7,tis fun
+558448985455722527,oliviayellowcat,16,dont hurt urself
+558449004720160819,Eliazar,28,if l take a bath 'tis unwarm
+558449010399248395,iTecX,6,i mean
+558449013209432104,King Snek,25,it took me months to stop
+558449029814550551,iTecX,11,not BOILING
+558449040342384661,King Snek,14,i no longer do
+558449042086952972,iTecX,8,but like
+558449045295726605,oliviayellowcat,57,unless it cause eating scabs thats fun but a bit painfukl
+558449048994971648,iTecX,4,warm
+558449054883905617,oliviayellowcat,4,yaya
+558449065810067477,oliviayellowcat,9,progress!
+558449088828538881,oliviayellowcat,9,eat scabs
+558449100039651339,Eliazar,40,no warm gimme lightheadedness and faints
+558449131819892740,King Snek,42,usually the scabs melted off in the shower
+558449159187857408,Eliazar,19,cold water bath gud
+558449164107776021,oliviayellowcat,17,mmmm melted scabs
+558449201676288012,iTecX,24,cold bath makes me tense
+558449257523314690,oliviayellowcat,16,i gotta go sleep
+558449263588147201,Eliazar,13,how to tense?
+558449331880067072,oliviayellowcat,89,y'all remeber to go the guidence counsler and dont hurt urself and everyone lloves you :D
+558449395826425866,King Snek,47,i would not like to be shoved into a psych ward
+558449397780971558,Eliazar,11,pain bad :(
+558449430156541952,Eliazar,19,ooh psych wards fun
+558449432773918731,iTecX,20,guidance people nice
+558449452466044928,King Snek,42,so i do not go to court mandated reporters
+558449465116065822,Eliazar,33,gettin' analysed by professuonals
+558449493599584288,Eliazar,19,smelling antiseptic
+558449524171866146,Moongirl,56,well_ that is assuming you know who the guidance ppl are
+558449547051794443,iTecX,4,well
+558449554832228372,iTecX,6,i mean
+558449575090847774,iTecX,22,the bsge ones are nice
+558449586348228609,Eliazar,30,cold beds with infinite jell-o
+558449603276439572,Eliazar,3,mmm
+558449665826357258,iTecX,40,replace jello with crumb cake and *sure*
+558449708016861234,Eliazar,71,and you can see the blo odf rom you rar msf low ing thr oug hth ewi res
+558449779982598157,iTecX,24,or homemade ginger snaps
+558449797934219269,iTecX,16,those r tatstyyy
+558449811880148992,King Snek,21,whyd ya scramble that
+558449822806310922,Eliazar,65,sorry the words were all three letters and they had to keep going
+558449863713488906,iTecX,9,of course
+558449878124986379,iTecX,11,arsha logic
+558449896416477184,King Snek,46,blood from your arms flowing through the wires
+558449919497732096,Eliazar,2,ye
+558449924711120896,King Snek,13,d e c o d e d
+558449951923896341,Eliazar,16,n the saltwatery
+558449956470390784,iTecX,7,anyways
+558449963554570240,iTecX,5,aoyan
+558449983557206026,Eliazar,20,with medicines juice
+558449984174030869,iTecX,22,get a nice early sleep
+558449998539522048,iTecX,7,tonight
+558450032492281867,King Snek,22,ya see_ thats not easy
+558450052603969536,iTecX,3,why
+558450067086770206,iTecX,7,i do it
+558450067326107648,King Snek,27,i cant fall asleep before 1
+558450068370358302,Eliazar,21,antiseptic gud smells
+558450087781466172,King Snek,18,intense depression
+558450151165788180,King Snek,38,some nights im unable to sleep until 4
+558450175631163652,iTecX,46,according to my 100% not cuckoo health teacher
+558450213975490593,Eliazar,55,oh l hsually don't want to close my eyes because scarzy
+558450219516166164,iTecX,29,"you sleep when you're tired"
+558450224591274024,Eliazar,5,scary
+558450226038571036,Moongirl,24,wait what about nikkolos
+558450268543385610,Moongirl,22,<@!323980004285349888>
+558450309823987713,iTecX,37,she sed "you sleep when you're tired"
+558450326672244748,King Snek,34,i'm tired after 2-5 hours of sleep
+558450342728171520,King Snek,16,still cant sleep
+558450383077376010,iTecX,31,UR SUPPOSED TO SLEEP AT LEAST 8
+558450400697516034,iTecX,9,i sleep 8
+558450409249832971,Eliazar,4,lies
+558450409786703903,King Snek,37,normal brain rules do not work for me
+558450427470020608,iTecX,4,then
+558450430888116225,iTecX,2,ur
+558450438500909066,Moongirl,96,btw for those who dont know she's not even qualified to be a health teacher shes a music teacher
+558450451008323605,Eliazar,44,at least 14 is necessary for proper function
+558450454389063722,iTecX,5,gonna
+558450462685134851,iTecX,10,dieeeeeeee
+558450483614974003,iTecX,15,i function fine
+558450494947983363,King Snek,15,yes please lmao
+558450516535803914,Eliazar,10,l don't :(
+558450533132795904,Eliazar,14,always tiredom
+558450575537340416,Eliazar,24,last year always tiredom
+558450597955764243,King Snek,71,thats cause you dont have the caloric intake to support 16 waking hours
+558450611285131264,Eliazar,22,next year more tiredom
+558450662451445782,King Snek,49,so your body puts you to sleep to conserve energy
+558450674375983104,King Snek,8,eat more
+558450691937402891,King Snek,12,youre a twig
+558450696995995658,Eliazar,19,l eat all the mores
+558450709951938564,iTecX,23,image of me functioning
+558450769981079562,iTecX,26,in FULL TRANSCENDENCE MODE
+558450798468792332,Eliazar,16,l eat much foods
+558450914009022505,iTecX,3,fud
+558451087837888513,iTecX,80,wait so <@!366986062599290883> what bits of the program for replit do u wanna do
+558451139377627146,Eliazar,153,breakfast semich mebe lunch semich lunch foodtruck food and dinner something today l had fish with soupy and l had potato chips and cashews and ice cream
+558451189688041498,iTecX,41,imma workin on the underlying game engine
+558451219509805056,Eliazar,36,and all my calories come from oragne
+558451282969362443,iTecX,11,theres like
+558451296693256232,iTecX,14,game mechanics
+558451305413214241,iTecX,9,and stuff
+558451317131968542,iTecX,10,subclasses
+558451353265897472,iTecX,16,whatcha gonna do
+558451379077644298,iTecX,24,amalia wants to betatest
+558451398874759189,iTecX,17,and advise on art
+558766012149793012,PokestarFan,3,fun
+558768428912082985,PokestarFan,530,```NL[2019-03-22 17:45:30_966] {msgs.py:125} | ERROR : Message with id 558768246120120382 could not formattedNLTraceback (most recent call last):NL  File "msgs.py"_ line 123_ in on_messageNL    format_msg(message)NL  File "msgs.py"_ line 106_ in format_msgNL    chmkdir(author_dir)NL  File "msgs.py"_ line 47_ in chmkdirNL    multmkdir(name)NL  File "msgs.py"_ line 40_ in multmkdirNL    os.mkdir(s)NLOSError: [WinError 123] The filename_ directory name_ or volume label syntax is incorrect: 'Authors\\Why Are You Reading My Username?\\'NL```
+558768433915887626,PokestarFan,3,fun
+558772898538455109,PokestarFan,126,this might be helpful to some people: https://stackoverflow.com/questions/5552555/unicodedecodeerror-invalid-continuation-byte
+558777933540622349,PokestarFan,92,test https://cdn.discordapp.com/attachments/514550094805073921/558756126712135691/image0.png
+558777960417460225,PokestarFan,9,it worked
+558781183593414656,PokestarFan,3,lol
+558781287129808908,PokestarFan,43,the tabs tho `                            `
+558781298551029761,PokestarFan,3,lol
+558781318079578123,PokestarFan,28,discord formats extra spaces
+558781326061207581,PokestarFan,3,` `
+558781330066898954,PokestarFan,2,``
+558781355735908362,PokestarFan,13,`           `
+558781386740465694,PokestarFan,6,&nbsp;
+558781394780946484,PokestarFan,4,nope
+558823141573525534,PokestarFan,3,wow
+558823150901657613,PokestarFan,14,my program has
+558823166391091240,PokestarFan,8,captured
+558823183625617434,PokestarFan,9,data from
+558823205671010315,PokestarFan,24,5956 different usernames
