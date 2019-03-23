@@ -59,3 +59,6 @@ ID,Server,Channel,Content Length,Content
 559063368816787457,MINECRAFT,support,131,<@530877543197179904> Forge acts like any other Minecraft version_ you can use it for as many profiles in the launcher as you want.
 559063425305804821,MINECRAFT,support,49,<@!386549654826909706> You need Level 5 for that.
 559065785373294642,MINECRAFT,support,163,<@530877543197179904> If you are having issues understanding how the regular launcher works_ I would recommend using a third party launcher like Twitch or MultiMC.
+559070427977220127,MINECRAFT,support,46,<@272513006460469260> Don't set _JAVA_OPTIONS!
+559070485032206337,MINECRAFT,support,34,Not for Memory assuignment_ never.
+559070571413897227,MINECRAFT,support,91,<@272513006460469260> JVM Arguments in the launcher_ or as part of the server startup file.

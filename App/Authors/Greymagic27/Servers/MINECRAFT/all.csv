@@ -19,3 +19,7 @@ ID,Channel,Content Length,Content
 559056846304968707,support,99,<@320423459333210113> http://hopper.minecraft.net/help/pixel-format-not-accelerated/support/#dxdiag
 559063417705594880,support,78,<@!386549654826909706> Your nickname? You need to be L5+ to be able to do that
 559065376491831306,support,613,<@414054901971419139> Let's run a check for anything that would block your download: HiJackThis is a program that will show us a basic overview of programs running on your computer. While it does sound scary_ it does not give us any personal or sensitive information.NLNLDownload: https://sourceforge.net/projects/hjt/files/2.0.5%20beta/HijackThis.exe/downloadNLRun HijackThis as Administrator_ choose "I accept"_ then "Do a system scan and save a log file". After a while a text file will open. Copy everything_ put the log on https://paste.ubuntu.com and give us the link.NL(May be barking up the wrong tree though)
+559070133704982558,support,39,Restart your PC yaiton. Just to be safe
+559070366954422290,support,28,Don't set your _JAVA_OPTIONS
+559070393286262784,support,23,Don't set _JAVA_OPTIONS
+559070437741428751,support,57,It will break minecraft. Just set the RAM on the launcher
