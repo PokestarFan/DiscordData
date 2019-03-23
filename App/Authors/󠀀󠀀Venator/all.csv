@@ -194,3 +194,7 @@ ID,Server,Channel,Content Length,Content
 559088695547002901,MINECRAFT,off-topic,51,<@313767966028333057> did you get fired from mojang
 559089807909978153,MINECRAFT,off-topic,55,<@332360114793349125> he lost his Minecraft staff role?
 559092190710726677,MINECRAFT,off-topic,8,?t magic
+559094187048304664,MINECRAFT,bot-commands,10,_forceskip
+559094214491897916,MINECRAFT,bot-commands,5,_skip
+559094240773144596,MINECRAFT,bot-commands,5,_help
+559094373279596545,MINECRAFT,bot-commands,26,do _play (enter song name)
