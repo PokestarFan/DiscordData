@@ -1,0 +1,7 @@
+ID,Content Length,Content
+559002999792336917,30,someone knows about c# winform
+559003023347548162,17,i have a question
+559003066687553546,4,what
+559003136770179114,7,yeah???
+559003151936520193,3,wtf
+559003239215923200,122,```csharpNLthis.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));NL```NLcrashes the application when i debug
