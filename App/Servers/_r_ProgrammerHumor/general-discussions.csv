@@ -217,3 +217,5 @@ ID,Author,Content Length,Content
 559042809202606100,emccue,48,and you should do as little "faking" as possible
 559043704959139853,emccue,114,and there should be at least a warning on the PR if it drops at all so it can be discussed with your code reviewer
 559044572026503169,emccue,35,but that should all be a good start
+559044609972371466,MemoryError,4,damn
+559045143681040394,Londa,53,Yep that should be the process that must be followed.
