@@ -110,3 +110,4 @@ ID,Channel,Content Length,Content
 558803336380416003,minecraft,65,Bedrock players don't get that kind of cool accessibility_ Medlek
 558803802980089868,minecraft,10,WinKey + R
 558837279695831040,technical-java,98,Both are essentially the same thing. One's 1.12-style and the other's 1.13-style (arguably better)
+559062105123455006,technical-java,334,You can specify their trades in each one's NBT_ Grubeis. I think that's called `Offers`_ this example *should* summon a villager that trades a stick for a diamond. I'll test it in a sec:NLNL```/summon villager ~ ~ ~ {Offers:{Recipes:[{maxUses:2147000000_buy:{id:"minecraft:stick"_Count:1b}_sell:{id:"minecraft:diamond"_Count:1b"}}]}}```
