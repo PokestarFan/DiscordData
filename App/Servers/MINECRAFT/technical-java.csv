@@ -530,3 +530,4 @@ ID,Author,Content Length,Content
 558871000226201613,connoredmo,32,ok server is being set to 1.12.2
 558871008740769803,connoredmo,2,ok
 558871012263985172,1hn,2,ok
+559002237859397634,twynics,204,Hey_ does anybody know how I could modify the packets I send so that the second and third hit I land on someone is delayed? So for example: Hit 1: Not delayed Hit 2: Delayed by 30ms Hit 3: Delayed by 70ms
