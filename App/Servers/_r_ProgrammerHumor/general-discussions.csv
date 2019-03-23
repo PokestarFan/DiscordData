@@ -219,3 +219,6 @@ ID,Author,Content Length,Content
 559044572026503169,emccue,35,but that should all be a good start
 559044609972371466,MemoryError,4,damn
 559045143681040394,Londa,53,Yep that should be the process that must be followed.
+559045307305033739,Londa,84,But my existing app doesn't have any code coverage or any unit tests for most parts.
+559045451014471681,Londa,72,They just keep pushing Jira expect delivery on them as soon as possible.
+559045704014757911,emccue,115,well_ it sounds like you need to bite the bullet on that and start putting your head in the weeds and writing tests
