@@ -7,3 +7,6 @@ ID,Channel,Content Length,Content
 559002605263519783,minecraft,5,!kill
 559002630249250816,minecraft,8,!survive
 559002673999773706,minecraft,8,!survive
+559101138138431518,bot-commands,15,!loremipsum 40L
+559101162868047884,bot-commands,11,LOREM IPSUM
+559101300646740009,bot-commands,3,$r8
