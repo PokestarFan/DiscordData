@@ -29,7 +29,8 @@ def _setup(name='PokestarBot', dir=None):
     fh.setFormatter(logging.Formatter(fmt=file_format))
     log.addHandler(fh)
 
-    os.chdir("..")
+    if dir is not None:
+        os.chdir("..")
     return log
 
 
