@@ -359,3 +359,5 @@ ID,Author,Channel,Content Length,Content
 559002036721680394,awsyoos,general-discussions,77,does anyone know like a simple ai program i can copy paste and run in python?
 559003222510010400,Redditcord,reddit-feed,0,
 559006758576717826,Redditcord,reddit-feed,0,
+559008320208371714,awsyoos,bot-spam,158,;compile pythonNL```pythonNLfrom flask import FlaskNLapp = Flask(__name__)NLNL@app.route('/')NLdef hello():NL    return "this is how you make a website in flask"NL```
+559008327435288596,Compiler,bot-spam,0,

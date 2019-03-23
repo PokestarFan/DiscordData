@@ -21,3 +21,5 @@ ID,Author,Content Length,Content
 558781382852214784,Patrola,5,!ping
 558781383204536351,EBotTest,5,Ping?
 558781391869837332,Patrola,8,!purge 2
+559008320208371714,awsyoos,158,;compile pythonNL```pythonNLfrom flask import FlaskNLapp = Flask(__name__)NLNL@app.route('/')NLdef hello():NL    return "this is how you make a website in flask"NL```
+559008327435288596,Compiler,0,
