@@ -1104,3 +1104,28 @@ ID,Author,Content Length,Content
 559046342874365956,ihdal play,2,hi
 559053314835218443,dawangk,4,/adv
 559053316546625537,DiscordRPG,328,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 9 HP.NL+ Dealt 9 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 146/200 HP left.NL+ The enemy Ulgrth has 102/185 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+559053429524135936,dawangk,18,/use health potion
+559053431155851313,DiscordRPG,54,dawangk used a Health Potion and got 50HP. (196/200HP)
+559053436302393344,dawangk,4,/adv
+559053439347326987,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 9 HP.NL+ Dealt 9 HP DamageNL- Pet Rock took 5 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 187/200 HP left.NL+ The enemy Ulgrth has 93/185 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+559053472989708299,dawangk,4,/adv
+559053476148019240,DiscordRPG,42,Recovering dawangk's stamina in 5 seconds.
+559053496679399434,dawangk,5,/chop
+559053498625556513,DiscordRPG,77,🌲 dawangk went to chop some wood and got 2 Regular logs_ 1 XP and 1 skill XP.
+559053505856274432,dawangk,7,/forage
+559053508423450634,DiscordRPG,62,🌸 dawangk went foraging and got 3 Lemons_ 2 XP and 1 skill XP.
+559053519211069476,dawangk,5,/mine
+559053522067390486,DiscordRPG,62,⛏ dawangk found 2 Rock Salt_ 2 XP and 1 skill XP while mining.
+559053553143119878,dawangk,4,/inv
+559053554913116162,DiscordRPG,227,```diffNL!===== [dawangk's Inventory (Page 1/1)] =====!NL+ 1_276 Gold.NL+ 3 x Health PotionsNL+ 1 x Small DaggerNL+ 2 x Iron OresNL+ 2 x CoalNL+ 10 x LogsNL+ 4 x Rock SaltNL+ 12 x LemonsNL!============================================!```
+559053570083913758,dawangk,4,/adv
+559053571774218251,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 9 HP.NL+ Dealt 9 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 178/200 HP left.NL+ The enemy Ulgrth has 84/185 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+559053622676029460,DiscordRPG,33,Query timed out after 15 seconds.
+559053953153630230,dawangk,19,/gbsell jt4e1oqn 10
+559053955280142337,DiscordRPG,62,dawangk executed trade `jt4e1oqn` (10 Lemons at 140 gold each)
+559054022175096852,dawangk,18,/gbsell jt4e1oqn 2
+559054023596965889,DiscordRPG,42,Recovering dawangk's stamina in 9 seconds.
+559054058275602433,dawangk,18,/gbsell jt4e1oqn 2
+559054061316341780,DiscordRPG,61,dawangk executed trade `jt4e1oqn` (2 Lemons at 140 gold each)
+559054085618139166,dawangk,4,/adv
+559054088730312704,DiscordRPG,327,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 9 HP.NL+ Dealt 8 HP DamageNL- Pet Rock took 5 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ dawangk has 169/200 HP left.NL+ The enemy Ulgrth has 76/185 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
