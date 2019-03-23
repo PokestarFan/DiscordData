@@ -38,3 +38,4 @@ ID,Server,Channel,Content Length,Content
 558993372996698112,MINECRAFT,bedrock-store-feedback,294,<@353574730005086209> better suited channel: <#305834249913892864> and it is possible with 3rd-party tools. Direct NBT access is denied because of the potential lock-ups that could happen on devices where making backups isn't easy … and once again <#305834249913892864>  is where for the topic.
 558993975760125962,MINECRAFT,dedicated-server-feedback,32,!feedback  <@556841076753825802>
 558995109212061703,MINECRAFT,technical-bedrock,59,at least the (red) bricks texture does not look as bad now.
+559038242830417939,MINECRAFT,technical-bedrock,247,<@386517175999004673> If the NAT is still "too strict" while above the "DMZ" style_ set your router's DNS server settings to use Google's Public DNS servers. Some devices can allow you to do so on the device itself if you cannot change the router.

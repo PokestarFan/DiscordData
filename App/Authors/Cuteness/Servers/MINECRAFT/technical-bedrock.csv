@@ -32,3 +32,4 @@ ID,Content Length,Content
 558769680152657968,125,If you wanted to test for just *any* data value of a block name (like just test for any wool_ no matter what color)_ use `-1`
 558769780484603925,70,<@298966770382012427> Did the font go "small" while you typed it? Oof.
 558995109212061703,59,at least the (red) bricks texture does not look as bad now.
+559038242830417939,247,<@386517175999004673> If the NAT is still "too strict" while above the "DMZ" style_ set your router's DNS server settings to use Google's Public DNS servers. Some devices can allow you to do so on the device itself if you cannot change the router.
