@@ -31,3 +31,4 @@ ID,Content Length,Content
 558769399650189344,67,And cobblestone has a name of `cobblestone` and a data value of `0`
 558769680152657968,125,If you wanted to test for just *any* data value of a block name (like just test for any wool_ no matter what color)_ use `-1`
 558769780484603925,70,<@298966770382012427> Did the font go "small" while you typed it? Oof.
+558995109212061703,59,at least the (red) bricks texture does not look as bad now.
