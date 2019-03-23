@@ -5047,3 +5047,4 @@ ID,Author,Channel,Content Length,Content
 559073460790362131,Asuto,tech,462,```xqueryNLlet $output :=NL  element POLITWEETSNL  {NL    for $p in doc("pol.xml")/POLITICIANS/POLITICIANNL    returnNL      element POLITICIANNL      {NL        attribute id {data($p/@id)}_NL        $p/*_NL        element TWEETSNL        {NL          for $t in doc("tweets.xml")/TWEETS/TWEETNL          where data($p/@id) = $t/USERIDNL          returnNL            element TWEET NL            {NL              $t/*[not(name()="USERID")]NL            }NL        }NL      }NL    }NL```
 559073482898538506,Ahao,games,94,I'm still on the fence wether if I should just pirate Sekiro <:NotLikeMiya:356796220762750976>
 559073485293355009,Chihiro Fujisaki,general,42,but have you asked her why she chose that?
+559073930359603211,Ahao,anime,21,You know looking back
