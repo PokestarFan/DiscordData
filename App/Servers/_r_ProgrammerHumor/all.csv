@@ -438,3 +438,5 @@ ID,Author,Channel,Content Length,Content
 559045307305033739,Londa,general-discussions,84,But my existing app doesn't have any code coverage or any unit tests for most parts.
 559045451014471681,Londa,general-discussions,72,They just keep pushing Jira expect delivery on them as soon as possible.
 559045704014757911,emccue,general-discussions,115,well_ it sounds like you need to bite the bullet on that and start putting your head in the weeds and writing tests
+559046044894232585,Londa,general-discussions,68,Yep that could be done but it's on low priority as per planning goes
+559046103144726528,emccue,general-discussions,33,yeah but its high priority to you
