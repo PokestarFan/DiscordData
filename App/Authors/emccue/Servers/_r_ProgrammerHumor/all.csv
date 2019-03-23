@@ -68,3 +68,4 @@ ID,Channel,Content Length,Content
 558867981711704064,general-discussions,47,but if you are keeping some messages in a queue
 558868150750543893,general-discussions,131,`messageQueue` works as a name since having the word queue implies both the direction data flows and the idea of possible plurality
 559041057438957578,general-discussions,101,`For example wrong path gone in prod_ thing run QA but Not on prod_ skipping some basic sanity check`
+559042809202606100,general-discussions,48,and you should do as little "faking" as possible
