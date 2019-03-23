@@ -16,3 +16,6 @@ ID,Channel,Content Length,Content
 559007408454893568,technical-bedrock,45,now its saying that the /fill part is a error
 559007810260566016,technical-bedrock,13,oh I know why
 559008005975441410,technical-bedrock,18,nvm I lied idk why
+559008481542275073,technical-bedrock,75,execute @a [scores={Wood1=100..}]  /fill -21 3 67 -31 3 51 stripped_oak_log
+559008509124149288,technical-bedrock,19,why is fill a error
+559008592779542529,technical-bedrock,15,"/"is the error
