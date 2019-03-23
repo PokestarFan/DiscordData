@@ -14,3 +14,6 @@ ID,Channel,Content Length,Content
 559031122605113375,bot-commands,4,$q 2
 559031159380770835,bot-commands,5,$r 11
 559031286648274944,bot-commands,8,$seek 40
+559031549543186442,bot-commands,5,$skip
+559031618355068948,bot-commands,10,$forceskip
+559031838988042247,bot-commands,2,$q

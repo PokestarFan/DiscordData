@@ -172,3 +172,5 @@ ID,Server,Channel,Content Length,Content
 559011845931794445,MINECRAFT,minecraft,25,You find cats in villages
 559031333154848771,MINECRAFT,bot-commands,27,$play play by Tokyo machine
 559031425685258278,MINECRAFT,bot-commands,5,$next
+559031569419862017,MINECRAFT,bot-commands,5,$skip
+559031650881634310,MINECRAFT,bot-commands,5,$skip
