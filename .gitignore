@@ -112,3 +112,4 @@ login.py
 .idea/*
 *.idea*
 Backup/*
+App/Authors/con/*
