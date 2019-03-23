@@ -40,3 +40,4 @@ ID,Server,Channel,Content Length,Content
 558995109212061703,MINECRAFT,technical-bedrock,59,at least the (red) bricks texture does not look as bad now.
 559038242830417939,MINECRAFT,technical-bedrock,247,<@386517175999004673> If the NAT is still "too strict" while above the "DMZ" style_ set your router's DNS server settings to use Google's Public DNS servers. Some devices can allow you to do so on the device itself if you cannot change the router.
 559039191976116234,MINECRAFT,beta-n-bugs,136,<@205441572941070339> Protection is mutually exclusive in Java Edition. It is just allowed via. other methods_ including "dangerous" NBT
+559040567884120084,MINECRAFT,technical-bedrock,68,Try power cycling the modem_ any routers_ and all devices connected.
