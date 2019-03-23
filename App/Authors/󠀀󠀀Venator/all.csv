@@ -198,3 +198,6 @@ ID,Server,Channel,Content Length,Content
 559094214491897916,MINECRAFT,bot-commands,5,_skip
 559094240773144596,MINECRAFT,bot-commands,5,_help
 559094373279596545,MINECRAFT,bot-commands,26,do _play (enter song name)
+559096695305011211,MINECRAFT,off-topic,0,
+559096755191283751,MINECRAFT,off-topic,2,no
+559096803472048129,MINECRAFT,bot-commands,2,$q

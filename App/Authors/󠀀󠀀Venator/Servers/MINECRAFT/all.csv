@@ -198,3 +198,6 @@ ID,Channel,Content Length,Content
 559094214491897916,bot-commands,5,_skip
 559094240773144596,bot-commands,5,_help
 559094373279596545,bot-commands,26,do _play (enter song name)
+559096695305011211,off-topic,0,
+559096755191283751,off-topic,2,no
+559096803472048129,bot-commands,2,$q
