@@ -547,3 +547,7 @@ ID,Author,Content Length,Content
 559051295227510794,Notorious RS,91,its not screen tearing_ it feels like im in the 50s despite my actual fps showing otherwise
 559061022229397505,Grubeis,46,How do I change the trades with the villagers?
 559062105123455006,Sprinkles,334,You can specify their trades in each one's NBT_ Grubeis. I think that's called `Offers`_ this example *should* summon a villager that trades a stick for a diamond. I'll test it in a sec:NLNL```/summon villager ~ ~ ~ {Offers:{Recipes:[{maxUses:2147000000_buy:{id:"minecraft:stick"_Count:1b}_sell:{id:"minecraft:diamond"_Count:1b"}}]}}```
+559062723690889232,Grubeis,46,<@!209861974102638592>  It didn't seem to work
+559062873796509711,Sprinkles,127,I'm gonna test it! 😅 I might need to look at their NBT_ I was basing this off of the information from the article on villagers.
+559062940452388911,Grubeis,47,<@!209861974102638592>  Thanks for the help btw
+559062982705807380,Sprinkles,11,No problem.
