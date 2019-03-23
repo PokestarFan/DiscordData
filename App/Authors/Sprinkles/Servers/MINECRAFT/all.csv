@@ -113,3 +113,6 @@ ID,Channel,Content Length,Content
 559062105123455006,technical-java,334,You can specify their trades in each one's NBT_ Grubeis. I think that's called `Offers`_ this example *should* summon a villager that trades a stick for a diamond. I'll test it in a sec:NLNL```/summon villager ~ ~ ~ {Offers:{Recipes:[{maxUses:2147000000_buy:{id:"minecraft:stick"_Count:1b}_sell:{id:"minecraft:diamond"_Count:1b"}}]}}```
 559062873796509711,technical-java,127,I'm gonna test it! 😅 I might need to look at their NBT_ I was basing this off of the information from the article on villagers.
 559062982705807380,technical-java,11,No problem.
+559063238290178048,technical-java,60,I had an extra quotation mark... `...Count:1b"`*`<--[HERE]`*
+559063283492192258,technical-java,15,I'm such a dork
+559063427079864341,technical-java,61,I don't think so_ no. Not without modifying the game somehow.

@@ -186,3 +186,8 @@ ID,Server,Channel,Content Length,Content
 559062829186023434,MINECRAFT,minecraft,38,https://minecraft.gamepedia.com/ocelot
 559063058224513034,MINECRAFT,minecraft,4,Holy
 559063144773713956,MINECRAFT,bot-commands,9,$repeat s
+559063231805521939,MINECRAFT,bot-commands,5,$help
+559063283412369418,MINECRAFT,bot-commands,10,$help help
+559063388844589058,MINECRAFT,bot-commands,9,Dang it..
+559063417647005714,MINECRAFT,bot-commands,12,$repeat none
+559063459887841314,MINECRAFT,bot-commands,3,Lol
