@@ -1,3 +1,6 @@
 ID,Channel,Content Length,Content
 559002036721680394,general-discussions,77,does anyone know like a simple ai program i can copy paste and run in python?
 559008320208371714,bot-spam,158,;compile pythonNL```pythonNLfrom flask import FlaskNLapp = Flask(__name__)NLNL@app.route('/')NLdef hello():NL    return "this is how you make a website in flask"NL```
+559009201347887104,bot-spam,214,;compile cNL```cNL#include <stdio.h>NLNLint main(void){NL    int day = 1;NL    float money = 0.1;NL    while(day <= 31){NL        printf("Day: %d\t Money: %0.1f"_ day_ money);NL        day++;NL        money *= 2;NL    }NL}NL```
+559009404184166435,bot-spam,216,;compile cNL```cNL#include <stdio.h>NLNLint main(void){NL    int day = 1;NL    float money = 0.1;NL    while(day <= 31){NL        printf("Day: %d\t Money: %0.1f\n"_ day_ money);NL        day++;NL        money *= 2;NL    }NL}NL```
+559009441387642891,bot-spam,16,that looks nicer

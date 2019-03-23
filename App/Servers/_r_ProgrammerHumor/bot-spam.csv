@@ -23,3 +23,8 @@ ID,Author,Content Length,Content
 558781391869837332,Patrola,8,!purge 2
 559008320208371714,awsyoos,158,;compile pythonNL```pythonNLfrom flask import FlaskNLapp = Flask(__name__)NLNL@app.route('/')NLdef hello():NL    return "this is how you make a website in flask"NL```
 559008327435288596,Compiler,0,
+559009201347887104,awsyoos,214,;compile cNL```cNL#include <stdio.h>NLNLint main(void){NL    int day = 1;NL    float money = 0.1;NL    while(day <= 31){NL        printf("Day: %d\t Money: %0.1f"_ day_ money);NL        day++;NL        money *= 2;NL    }NL}NL```
+559009211909144578,Compiler,0,
+559009404184166435,awsyoos,216,;compile cNL```cNL#include <stdio.h>NLNLint main(void){NL    int day = 1;NL    float money = 0.1;NL    while(day <= 31){NL        printf("Day: %d\t Money: %0.1f\n"_ day_ money);NL        day++;NL        money *= 2;NL    }NL}NL```
+559009410546925569,Compiler,0,
+559009441387642891,awsyoos,16,that looks nicer
