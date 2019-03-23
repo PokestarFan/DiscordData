@@ -1,3 +1,4 @@
 ID,Content Length,Content
 559063460126916608,28,<:wakaru:530062795807391754>
 559063484277719064,34,yes. i definitely udnerstand this.
+559073460790362131,462,```xqueryNLlet $output :=NL  element POLITWEETSNL  {NL    for $p in doc("pol.xml")/POLITICIANS/POLITICIANNL    returnNL      element POLITICIANNL      {NL        attribute id {data($p/@id)}_NL        $p/*_NL        element TWEETSNL        {NL          for $t in doc("tweets.xml")/TWEETS/TWEETNL          where data($p/@id) = $t/USERIDNL          returnNL            element TWEET NL            {NL              $t/*[not(name()="USERID")]NL            }NL        }NL      }NL    }NL```
