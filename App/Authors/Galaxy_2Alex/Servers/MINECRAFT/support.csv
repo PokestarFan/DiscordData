@@ -65,3 +65,5 @@ ID,Content Length,Content
 559070915938353172,71,<@272513006460469260> That will run _any_ Java program with 4GB or RAM.
 559070961455071252,41,<@272513006460469260> No_ just delete it.
 559071083605786635,147,<@272513006460469260> It will mess up a lot of other things. Do it in the launcher with JVM arguments_ or as part of the server starting .bat file.
+559078145479934014,59,<@320423459333210113> You may need to upgrade to Windows 10
+559078184793145365,46,<@554774280173256714> Contact the server host.
