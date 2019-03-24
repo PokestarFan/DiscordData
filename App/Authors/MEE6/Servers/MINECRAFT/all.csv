@@ -333,8 +333,8 @@ ID,Channel,Content Length,Content
 558810019303260162,minecraft,62,Hey <@!385626248849915920>_ you just advanced to **level 1** !
 558810091340562437,bot-commands,0,
 558812068707565569,off-topic,62,Hey <@!538539791394799617>_ you just advanced to **level 3** !
-558812735186665482,minecraft,1650,:exclamation: :exclamation:NLNL**1: :sunglasses: Be cool_ kind_ and civil!**NL     - It's okay to have opinions and to express them plainly_ but try to be nice about it. If an Admin/Moderator asks you to do something_ please do so. We are here to help.NLNL**2. :unamused: Do not @ping or direct message [DM] the Minecraft Staff with unsolicited messages.**NL     - They are people too! Please treat them as such!  Besides_ repeated distraction will only delay the next update.NL     - Helen_ MonsieurV3rt_ Moesh_ Matt and TheRaddestBro have bravely opted out of this rule. NLNL**3. :thumbsdown: The following is 100% prohibited:**NL     a - harassment/abuse of other membersNL     b - racism_ sexism_ sexually explicit or otherwise offensive content_ politics/religionNL     c - links and/or discussion related to pirated or otherwise illegal contentNL     d - sharing personal or confidential information about another userNL     e - spam_ self promotion_ advertising other communities/services via direct message or chatNL      f - using @ everyone or @ hereNL     g - public squabbling - please resolve your issues privatelyNL     h - excessive use of special characters in nicknameNLNL**:scissors: Conduct deemed non compliant with these rules will be removed and action will be taken at the admin/moderators discretion.**NLNL*If you feel as though you've witnessed conduct that violates these guidelines_ please send a direct message to an available admin or moderator. If none are online to respond_ or the situation requires immediate intervention_ you can reach us via @ Admin or @ Moderators. Avoid engaging in an arguement over violations.*
-558812794150060050,minecraft,1650,:exclamation: :exclamation:NLNL**1: :sunglasses: Be cool_ kind_ and civil!**NL     - It's okay to have opinions and to express them plainly_ but try to be nice about it. If an Admin/Moderator asks you to do something_ please do so. We are here to help.NLNL**2. :unamused: Do not @ping or direct message [DM] the Minecraft Staff with unsolicited messages.**NL     - They are people too! Please treat them as such!  Besides_ repeated distraction will only delay the next update.NL     - Helen_ MonsieurV3rt_ Moesh_ Matt and TheRaddestBro have bravely opted out of this rule. NLNL**3. :thumbsdown: The following is 100% prohibited:**NL     a - harassment/abuse of other membersNL     b - racism_ sexism_ sexually explicit or otherwise offensive content_ politics/religionNL     c - links and/or discussion related to pirated or otherwise illegal contentNL     d - sharing personal or confidential information about another userNL     e - spam_ self promotion_ advertising other communities/services via direct message or chatNL      f - using @ everyone or @ hereNL     g - public squabbling - please resolve your issues privatelyNL     h - excessive use of special characters in nicknameNLNL**:scissors: Conduct deemed non compliant with these rules will be removed and action will be taken at the admin/moderators discretion.**NLNL*If you feel as though you've witnessed conduct that violates these guidelines_ please send a direct message to an available admin or moderator. If none are online to respond_ or the situation requires immediate intervention_ you can reach us via @ Admin or @ Moderators. Avoid engaging in an arguement over violations.*
+558812735186665482,minecraft,1650,:exclamation: :exclamation:
+558812794150060050,minecraft,1650,:exclamation: :exclamation:
 558812968335310848,minecraft,62,Hey <@!269864932164632576>_ you just advanced to **level 3** !
 558813292764594197,off-topic,62,Hey <@!386389376155910154>_ you just advanced to **level 1** !
 558813305750421539,minecraft,62,Hey <@!292394712202084352>_ you just advanced to **level 3** !
@@ -555,7 +555,7 @@ ID,Channel,Content Length,Content
 558991906416361477,minecraft,62,Hey <@!360443609545179137>_ you just advanced to **level 1** !
 558992526191624203,bot-commands,0,
 558993150983536641,bot-commands,0,
-558993976942919699,dedicated-server-feedback,257,:exclamation: suggestions for improving the game_ adding features_ adjusting gameplay parameters must be posted to https://feedback.minecraft.net and upvoted in order to be considered actionable by the development team.NLNLas always_ search before you post!
+558993976942919699,dedicated-server-feedback,257,:exclamation: suggestions for improving the game_ adding features_ adjusting gameplay parameters must be posted to https://feedback.minecraft.net and upvoted in order to be considered actionable by the development team.
 558994517513076736,minecraft,62,Hey <@!485841966127644692>_ you just advanced to **level 1** !
 558994519757160459,minecraft,62,Hey <@!358266646311206922>_ you just advanced to **level 7** !
 558995852937658369,bot-commands,0,
@@ -606,7 +606,7 @@ ID,Channel,Content Length,Content
 559013037755990029,bot-commands,0,
 559013039731376129,bot-commands,0,
 559013040616505392,bot-commands,0,
-559013093536038912,bot-commands,161,**/r/MCPECreate Locations**NLNL -Redstone flat: -1000 30NLNL  -Old spawn: 540 16NLNL  -New spawn: -136 -217NLNL[*ping @ Admin to request additions to this list*]
+559013093536038912,bot-commands,161,**/r/MCPECreate Locations**
 559013123307208704,minecraft,62,Hey <@!508769989591957515>_ you just advanced to **level 1** !
 559016936332328971,bot-commands,0,
 559018611457392650,builds,63,Hey <@!364247883463131136>_ you just advanced to **level 13** !
@@ -697,7 +697,7 @@ ID,Channel,Content Length,Content
 559065579307139072,minecraft,62,Hey <@!473559241253453825>_ you just advanced to **level 1** !
 559065699109175309,minecraft,62,Hey <@!311967598768291840>_ you just advanced to **level 5** !
 559065817522634752,minecraft,62,Hey <@!546807397528764435>_ you just advanced to **level 2** !
-559067006914134026,bot-commands,734,Here is a list of addons that will contribute greatly to your minecraft enjoyment on our realms and elsewhere!NLNLCoordinates:NLNLhttp://mcpedl.com/coordinates-unlocker-addon/NLNLhttp://mcpedl.com/rpg-hud-pack/NLNLhttp://mcpedl.com/nextlevel/NLNLhttp://mcpedl.com/map-coordinates-addon/NLNLhttps://cdn.discordapp.com/attachments/302099229755834370/315512399404859397/NextNextLevel.mcpackNLNLNLGUI Optimization: NLNLhttp://mcpedl.com/outlined-gui-resource-pack/  < must go on below coords_ may reduce lagNLNLNLShaders:NLNLhttp://ryfol.weebly.com/sspe.htmlNLNLhttp://ryfol.weebly.com/ss10.htmlNLNLNLSeasons:NLNLhttp://mcpedl.com/seasons-addon/NLNLNLIf you'd like to suggest more addons for this list_ ping an admin with your suggestion!
+559067006914134026,bot-commands,734,Here is a list of addons that will contribute greatly to your minecraft enjoyment on our realms and elsewhere!
 559067873956593684,support,62,Hey <@!414054901971419139>_ you just advanced to **level 4** !
 559068768018628623,support,62,Hey <@!530877543197179904>_ you just advanced to **level 4** !
 559070096606101505,support,62,Hey <@!188739632257695744>_ you just advanced to **level 3** !
