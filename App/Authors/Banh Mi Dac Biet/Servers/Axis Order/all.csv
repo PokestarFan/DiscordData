@@ -1,2 +1,4 @@
 ID,Channel,Content Length,Content
 560599230318772224,apex_legends,141,Higher FPS just means a smoother experience for the player which can increase those. It only gives the benefit of being able to react better.
+560600893565698059,apex_legends,145,Apex’s issue is due to their server tickrate. It tries to give you a high tick rate but falls to 30% of its max due to inefficient data transfer.
+560601015838048262,apex_legends,105,It’s not FPS dependent but rather the server not knowing how to handle different loads and ping properly.

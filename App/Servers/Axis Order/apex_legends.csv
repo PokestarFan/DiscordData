@@ -1,2 +1,6 @@
 ID,Author,Content Length,Content
 560599230318772224,Banh Mi Dac Biet,141,Higher FPS just means a smoother experience for the player which can increase those. It only gives the benefit of being able to react better.
+560600086980198402,Hanky,176,pubg_ csgo_ cod and battlefield has had some issues with this for a while and it's impossible to remove_ pubg was especially a problem with this because of the spaghetti coding
+560600369164451880,Zel,241,Hi.  Most games work on a system that means the code that runs the game and determines damage is separated from the code that renders the game on your screen.  It makes multi-threading the game easier and makes it run smoother.  Just saying.
+560600893565698059,Banh Mi Dac Biet,145,Apex’s issue is due to their server tickrate. It tries to give you a high tick rate but falls to 30% of its max due to inefficient data transfer.
+560601015838048262,Banh Mi Dac Biet,105,It’s not FPS dependent but rather the server not knowing how to handle different loads and ping properly.
