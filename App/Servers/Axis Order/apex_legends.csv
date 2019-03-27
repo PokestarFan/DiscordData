@@ -4,3 +4,4 @@ ID,Author,Content Length,Content
 560600369164451880,Zel,241,Hi.  Most games work on a system that means the code that runs the game and determines damage is separated from the code that renders the game on your screen.  It makes multi-threading the game easier and makes it run smoother.  Just saying.
 560600893565698059,Banh Mi Dac Biet,145,Apex’s issue is due to their server tickrate. It tries to give you a high tick rate but falls to 30% of its max due to inefficient data transfer.
 560601015838048262,Banh Mi Dac Biet,105,It’s not FPS dependent but rather the server not knowing how to handle different loads and ping properly.
+560602702153777162,Hanky,43,https://www.youtube.com/watch?v=Jz2U5CnkO8M
