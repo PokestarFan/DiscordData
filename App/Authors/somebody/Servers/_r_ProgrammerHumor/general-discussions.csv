@@ -7,3 +7,10 @@ ID,Content Length,Content
 558810159472967682,91,firstly everything would be super slow if you imported hundreds if not thousands of classes
 558810268403105815,75,secondly you probably didn't want anything from the child namespaces anyway
 558810361478774784,128,it might be a thing you want in a scripting language_ but definitely not java (btw_ scripting languages don't allow this either)
+560285398161424386,104,> The compiler will produce warnings for basically everything_ and assigning in if statements is illegal
+560285439685033996,26,a lot of languages do this
+560285483783946258,39,> assigning in if statements is illegal
+560285595813937153,1,😦
+560285598129193001,2,ok
+560286183196852235,83,🤔 hmm. does this count as criticism? i'm just pointing out that these exist already
+560286770126782474,57,anyway... yeah <@!345639698678677508> mind explaining #3?
