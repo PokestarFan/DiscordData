@@ -602,3 +602,5 @@ ID,Author,Channel,Content Length,Content
 560626253082918935,SnakePin,general-discussions,31,Cause it seemed similar to glfw
 560626340404002827,SnakePin,general-discussions,24,Yes it's a good game btw
 560626678640934912,AwkwardPsyche,general-discussions,44,I need to get my friends to play that again.
+560627417832488960,somebody,programming,66,<@326422614073671681> why would the parser care about the contents
+560627597294174219,somebody,programming,132,if you mean the lexer outputting `BINARY_LITERAL` instead of the parser figuring which one it is then that's done very_ _very_ often
