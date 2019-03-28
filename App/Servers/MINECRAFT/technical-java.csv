@@ -748,3 +748,14 @@ ID,Author,Content Length,Content
 560638813613850642,Sprinkles,40,<@340933245971464192> It's only integers
 560638868647575563,foxotic,65,<@!209861974102638592> possible in 1.14 with CustomModelData ^^ ?
 560638973244866591,Cooslur,16,i figured it out
+560638988881231872,Sprinkles,91,CustomModelData only remodels items. It can't remodel blocks (to my knowledge) or entities.
+560639043084484609,foxotic,4,rats
+560639065888653312,{ᏝᏬᏒᏦᏕ},52,i guess the person wants to make a java version mod?
+560639086113718292,foxotic,42,So no armor remodels coming to 1.14 either
+560639250240897044,foxotic,147,Lorks I was looking into making a vanilla custom mob like this behavior pack_ was wondering if there was something in the API to call for a new one
+560639276111495178,Sprinkles,193,In a way_ you could use CustomModelData to remodel an item_ then place that on an armor stand's head that constantly teleports to an existing entity. But I'm sure that's not what you meant haha
+560639332587798559,foxotic,33,yeah ive tried that_ bad idea lol
+560639349989834753,foxotic,24,too much lag on a server
+560639375872884752,FPSKoda4,301,Can i get some redstone help? I can screenshare i tried watching a video on how to make a leaver lock but it  was soo confusing and trying to hit you with all the information at once it's hard for me to keep up or trying to see how i can do it in this situation NLMuch help would be greatly appreciated
+560639397800837130,foxotic,44,the armorstand doesnt precise location do it
+560639406575190030,Cooslur,48,i figured it all out_ so thank you for your time
