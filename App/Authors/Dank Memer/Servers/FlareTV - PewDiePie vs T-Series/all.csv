@@ -6411,3 +6411,7 @@ ID,Channel,Content Length,Content
 560950454628909056,commands,0,
 560950583444504596,commands,83,try running the command again_ but this time actually mention someone to steal from
 560950613450424330,commands,66,You were caught! You paid the person you stole from **500** coins.
+560950732224725019,commands,66,You were caught! You paid the person you stole from **500** coins.
+560950738281299979,commands,20,500 coins withdrawn.
+560950754865578005,commands,66,You were caught! You paid the person you stole from **500** coins.
+560950798662762526,commands,0,
