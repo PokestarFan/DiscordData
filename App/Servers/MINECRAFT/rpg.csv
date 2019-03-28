@@ -1827,3 +1827,59 @@ ID,Author,Content Length,Content
 560955175632896054,DiscordRPG,48,pjhom_ please tell me what you'd like to assign.
 560955205705924629,pjhom,16,/assign strength
 560955207198965784,DiscordRPG,40,Recovering pjhom's stamina in 2 seconds.
+560955252606631948,pjhom,16,/assign strength
+560955254385016832,DiscordRPG,48,pjhom_ please tell me what you'd like to assign.
+560955283875168273,pjhom,6,/stats
+560955284730806273,DiscordRPG,395,```diffNL!======== [pjhom's Stats] ========!NL+ Health: 40/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!=================================!```
+560955317849030656,pjhom,18,/assign strength 5
+560955319422025795,DiscordRPG,62,pjhom assigned 5 attribute points to their Strength attribute.
+560955327676416000,Highnatzu,4,/adv
+560955329370914830,DiscordRPG,333,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 5 HP.NL+ Dealt 15 HP DamageNL- Pet Rock took 3 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 348/450 HP left.NL+ The enemy Zarth has 94/135 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955345602871320,Peyton,4,/adv
+560955347112689674,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 28/50 HP leftNL+ Peyton has 36/50 HP left.NL+ The enemy Oglurth has 18/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955366796558356,Highnatzu,7,/search
+560955368230879252,DiscordRPG,37,You search the location_ Highnatzu...
+560955370714169354,pjhom,11,/adventur 1
+560955380155416576,Highnatzu,7,/forage
+560955381795389462,DiscordRPG,64,🎋 Highnatzu went foraging and got 6 Lemons_ 2 XP and 2 skill XP.
+560955389672292383,Highnatzu,5,/fish
+560955391484231698,DiscordRPG,56,🎣 Highnatzu caught a Tropical Fish_ 2 XP and 1 skill XP.
+560955398505496616,Highnatzu,5,/chop
+560955399881228341,DiscordRPG,79,🌲 Highnatzu went to chop some wood and got 5 Regular logs_ 2 XP and 1 skill XP.
+560955405774356492,Highnatzu,5,/mine
+560955407967846404,DiscordRPG,64,⛏ Highnatzu found 5 Iron Ores_ 2 XP and 2 skill XP while mining.
+560955413932146725,pjhom,7,/forage
+560955415815389205,DiscordRPG,60,🌾 pjhom went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+560955434928701475,Peyton,4,/adv
+560955436518604820,DiscordRPG,339,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 2NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 27/50 HP leftNL+ Peyton has 34/50 HP left.NL+ The enemy Oglurth has 14/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955451127103508,pjhom,7,/forage
+560955452322480139,DiscordRPG,47,You're too tired to do that pjhom (291 seconds)
+560955478331621432,pjhom,12,/adventure 1
+560955479761747993,DiscordRPG,32,pjhom abandoned their adventure.
+560955481447727118,Peyton,7,/forage
+560955483477770240,DiscordRPG,61,☘ Peyton went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+560955503585263626,pjhom,12,/adventure 2
+560955504957063168,DiscordRPG,35,You need to rest_ pjhom (8 seconds)
+560955530290659329,pjhom,6,/stats
+560955531628380181,DiscordRPG,395,```diffNL!======== [pjhom's Stats] ========!NL+ Health: 40/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (1/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!=================================!```
+560955578902511616,pjhom,12,/adventure 2
+560955580420849692,DiscordRPG,315,```diffNL!========[ pjhom's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ pjhom has 38/50 HP left.NL+ The enemy Ogre has 38/40 HP left.NL!======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955594895261710,Peyton,10,/use lemon
+560955596506136606,DiscordRPG,43,Peyton used a Lemon and got 16HP. (50/50HP)
+560955607100686336,Peyton,4,/adv
+560955608866619392,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 26/50 HP leftNL+ Peyton has 47/50 HP left.NL+ The enemy Oglurth has 12/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955628789432320,pjhom,12,/adventure 2
+560955630081277969,DiscordRPG,40,Recovering pjhom's stamina in 2 seconds.
+560955653628100608,Peyton,7,/search
+560955654601179165,DiscordRPG,34,You search the location_ Peyton...
+560955662163509265,pjhom,12,/adventure 2
+560955663635972099,DiscordRPG,315,```diffNL!========[ pjhom's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ pjhom has 36/50 HP left.NL+ The enemy Ogre has 35/40 HP left.NL!======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955686612107276,pjhom,12,/adventure 2
+560955687782318081,DiscordRPG,40,Recovering pjhom's stamina in 8 seconds.
+560955707508129818,Peyton,9,/sell log
+560955709496229899,DiscordRPG,34,Peyton sold a Log and got 30 gold.
+560955732829274180,Peyton,4,/adv
+560955734527836181,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 2NL- Lost 3 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 25/50 HP leftNL+ Peyton has 44/50 HP left.NL+ The enemy Oglurth has 10/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955751183679488,pjhom,7,/attack
+560955813183881227,pjhom,12,/adventure 2
+560955814605750304,DiscordRPG,315,```diffNL!========[ pjhom's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ pjhom has 34/50 HP left.NL+ The enemy Ogre has 31/40 HP left.NL!======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.

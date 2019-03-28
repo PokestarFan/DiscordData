@@ -101,3 +101,5 @@ ID,Server,Channel,Content Length,Content
 560949359513042945,Egg_ Inc,co-op-recruitment,102,mikemike (graviton-project)NLEggs: 1.14qNLRate: 26.4B/s (95.1T/hr)NLTime Remaining: 5d4h18mNL19/50 Members
 560949956903698434,Egg_ Inc,glitching-codes,95,someglitch (graviton-project)NLEggs: 0NLRate: 0/s (0/hr)NLTime Remaining: 1467d22h57mNL1/50 Members
 560950743809654794,Egg_ Inc,bot-commands,88,You will have produced approximately 4.437q eggs by the time the given time period ends.
+560955301386256463,Egg_ Inc,bot-commands,404,```e!contract [egg laying rate(stats)] [internal hatchery rate(stats)] [time left in contract(contract page)] [farm population(stats)] <your current eggs produced(contract top layers)>(or 0) <internal hatchery calm upgrades>(or 20) <maximum hab capacity>(or 189*10^7) <maximum shipping rate>(or 311462*10^6*17)NL<> means optionalNLExample: e!contract 316.804b 6440 12d11h10m35s 168m 342t 20 1.89b 5.295t```
+560955449940377624,Egg_ Inc,bot-commands,89,You will have produced approximately 29.435q eggs by the time the given time period ends.
