@@ -88,3 +88,8 @@ ID,Server,Channel,Content Length,Content
 560634698511024159,/r/ProgrammerHumor,programming,3,nah
 560634806703226890,/r/ProgrammerHumor,programming,29,regex: `[\p{L}][\p{L}\p{N}]+`
 560634860117426176,/r/ProgrammerHumor,programming,51,would you look at that_ an identifier parsing regex
+560635819241504778,/r/ProgrammerHumor,programming,2,no
+560635863143546880,/r/ProgrammerHumor,programming,53,most languages don't even support unicode identifiers
+560635891538722821,/r/ProgrammerHumor,programming,35,but those that do... yes. of course
+560635951152627712,/r/ProgrammerHumor,programming,83,most languages have a regex engine powerful enough to handle that already anyway...
+560635971993862154,/r/ProgrammerHumor,programming,27,why not take advantage of i
