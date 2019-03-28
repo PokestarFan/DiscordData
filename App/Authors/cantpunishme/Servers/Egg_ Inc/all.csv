@@ -14,3 +14,12 @@ ID,Channel,Content Length,Content
 560625674877009930,general,72,i mean_ it seems to me like they'd be able to restart the contract again
 560625713250828292,general,61,if it got saved incorrectly in such a way that the PE is lost
 560625763766763520,general,6,Indeed
+560626816444923944,general,99,yes_ the check is basically .... for (c in completed_contracts) { if (c.laid > c.goal) pe += c.pe }
+560626939573043220,general,76,it's not clear to me why completing it "too fast" would go around that logic
+560626958476640293,general,37,we'd need to look at the guy's backup
+560627016970403871,general,3,yes
+560627048826011678,general,4,sure
+560627127133929482,general,4,yeah
+560627139624435716,general,16,i oversimplified
+560627183815753738,general,63,but the target is defined as the number of eggs for that target
+560627226438139936,general,51,rather than as the index of the target_ or whatever

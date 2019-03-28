@@ -110,3 +110,22 @@ ID,Author,Content Length,Content
 560625713250828292,cantpunishme,61,if it got saved incorrectly in such a way that the PE is lost
 560625763766763520,cantpunishme,6,Indeed
 560626585443631104,lamCube,272,I was referring to the fact that_ as far as I recall_  the dynamic balance check of PEs was added to the game because cheaters where multiplying PEs_ so that the developer had to introduce the sanity check that the number of PE was to be derived by the completed contracts
+560626732932136961,lamCube,52,So_ now_ when contracts change_ the PE number change
+560626816444923944,cantpunishme,99,yes_ the check is basically .... for (c in completed_contracts) { if (c.laid > c.goal) pe += c.pe }
+560626823139164160,lamCube,41,Perhaps_ if people were not abusing it...
+560626939573043220,cantpunishme,76,it's not clear to me why completing it "too fast" would go around that logic
+560626958476640293,cantpunishme,37,we'd need to look at the guy's backup
+560627000591777814,Lordfreya,70,If I have 55 PE_ that means I completed all legacy contracts_ correct?
+560627016970403871,cantpunishme,3,yes
+560627017289170955,lamCube,52,it's not c.laid_ otherwise you cannot complete coops
+560627036029321216,Lordfreya,44,Don’t want to restart an old one for nothing
+560627048826011678,cantpunishme,4,sure
+560627060637171712,Lordfreya,10,Thank you!
+560627114274062346,lamCube,27,it's 'c.max_reached_target'
+560627127133929482,cantpunishme,4,yeah
+560627139624435716,cantpunishme,16,i oversimplified
+560627176194572298,ᴸᴰᴿঊǾoℱ℠,100,I may be acting like a kid <@319900140854837248> but I am not one just desperate for contract help 👌
+560627183815753738,cantpunishme,63,but the target is defined as the number of eggs for that target
+560627184583049226,Tiln,93,Haiku recognizer```   but the target is NLdefined as the number of NL  eggs for that target ```
+560627226438139936,cantpunishme,51,rather than as the index of the target_ or whatever
+560627264266567704,lamCube,66,Seriously_ I was thinking about it today_ and I checked the data 😃
