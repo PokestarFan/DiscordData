@@ -1375,3 +1375,116 @@ ID,Author,Content Length,Content
 560620242406211594,DiscordRPG,35,You search the location_ dawangk...
 560620685395886082,dawangk,4,/adv
 560620686553514016,DiscordRPG,42,Recovering dawangk's stamina in 5 seconds.
+560620717671186433,dawangk,4,/adv
+560620720611393546,DiscordRPG,340,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 3NL- Lost 10 HP.NL+ Dealt 13 HP DamageNL+ Hulp dealt 5 HP damage.NL- Hulp took 5 HP Damage.NL+ Hulp has 95/187 HP leftNL+ dawangk has 144/350 HP left.NL+ The enemy Leirgth was slain by dawangk!NL+ Rewards: 45 Gold and 27 XP.NL+ Hulp got 3 XP.NL!========================================!```
+560621181636706324,CostBirch243786,26,https://discord.gg/9p8pPS7
+560622147509288987,dawangk,4,/adv
+560622149463703582,DiscordRPG,347,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL- Lost 8 HP.NL+ Dealt 11 HP DamageNL+ Hulp dealt 7 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 91/187 HP leftNL+ dawangk has 136/350 HP left.NL+ The enemy Syrp has 117/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560622165238611979,dawangk,6,/forag
+560622175405604896,dawangk,5,/chop
+560622177498562571,DiscordRPG,222,🌳 dawangk went to chop some wood and got 4 Regular logs_ 2 XP and 1 skill XP.NLdawangk Gained 1 levels! They've been awarded with 5 attribute points_ and_ along with their max HP increasing by 50_ they've been fully healed!
+560622181562843176,dawangk,7,/forage
+560622183219724288,DiscordRPG,94,🌰 dawangk went foraging and got 4 Lemons_ 2 XP and 2 skill XP.NLdawangk Leveled up in Foraging!
+560622218334175243,dawangk,5,/mine
+560622220171542548,DiscordRPG,62,⛏ dawangk found 4 Zinc Ores_ 2 XP and 2 skill XP while mining.
+560622254925414412,dawangk,5,/fish
+560622256464723968,DiscordRPG,48,🎣 dawangk caught a Octopus_ 2 XP and 2 skill XP.
+560622282658283520,dawangk,11,/attributes
+560622283732025345,DiscordRPG,289,```diffNL!===== [dawangk's Attributes] =====!NL+ Criticals: 2 (+0%)NL+ Defense: 0 (-0 dmg)NL+ Gold Boost: 8 (+0%)NL+ Lumber Boost: 0 (+0)NL+ Mine Boost: 5NL+ Reaping: 0NL+ Salvaging: 0NL+ Scavenging: 0NL+ Strength: 10 (+1 dmg)NL+ Taming: 0NL+ XP Boost: 10 (+1%)NL!==================================!```
+560622369664925716,dawangk,17,/assign defense 5
+560622371241721856,DiscordRPG,63,dawangk assigned 5 attribute points to their Defense attribute.
+560622377612869633,dawangk,4,/adv
+560622379093590032,DiscordRPG,346,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 6NL- Lost 5 HP.NL+ Dealt 16 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 3 HP Damage.NL+ Hulp has 88/187 HP leftNL+ dawangk has 395/400 HP left.NL+ The enemy Syrp has 95/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560622400266305557,dawangk,4,/inv
+560622401772060685,DiscordRPG,339,```diffNL!===== [dawangk's Inventory (Page 1/2)] =====!NL+ 28_116 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 51 x RocksNL+ 31 x Iron OresNL+ 12 x CoalNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 83 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL!============================================!```
+560622444893962246,dawangk,14,/gbsearch coal
+560622447804678146,DiscordRPG,438,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 5_000 Coal (800G each) {ID. jtqcimgq} [1_253 bought] >NL< 10_000 Coal (777G each) {ID. jtprbqfs} [6 bought] >NL< 600_000 Coal (201G each) {ID. jtm2gfyw} [6 bought] >NL< 5_000 Coal (700G each) {ID. jtl88frr} [228 bought] >NL< 3_200 Coal (200G each) {ID. jti17zfw} [0 bought] >NL< 20_000 Coal (501G each) {ID. jsrcp6x2} [176 bought] >NL#===============================================#```
+560622474610475008,DiscordRPG,33,Query timed out after 15 seconds.
+560622514641043461,dawangk,19,/gbsell jtqcimgq 12
+560622515987415043,DiscordRPG,60,dawangk executed trade `jtqcimgq` (12 Coal at 800 gold each)
+560622566880968704,dawangk,14,/gbsearch rock
+560622570362372107,DiscordRPG,167,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 20_000 Rocks (10G each) {ID. jtjx0snl} [12_010 bought] >NL#===============================================#```
+560622627295592458,dawangk,19,/gbsell jtjx0snl 51
+560622629661310986,DiscordRPG,60,dawangk executed trade `jtjx0snl` (51 Rocks at 10 gold each)
+560622695998554123,dawangk,20,/gbsearch iron ingot
+560622700608094218,DiscordRPG,29,No trades were found_ dawangk
+560622709378383874,DiscordRPG,33,Query timed out after 60 seconds.
+560622711869800468,dawangk,4,/adv
+560622713539133450,DiscordRPG,346,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 6NL- Lost 5 HP.NL+ Dealt 16 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 3 HP Damage.NL+ Hulp has 85/187 HP leftNL+ dawangk has 390/400 HP left.NL+ The enemy Syrp has 73/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560622735924133918,dawangk,4,/inv
+560622737039687683,DiscordRPG,356,```diffNL!===== [dawangk's Inventory (Page 1/2)] =====!NL+ 38_226 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 31 x Iron OresNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 83 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL+ 1 x Butterfly NetNL+ 14 x Erinotite OresNL!============================================!```
+560622776910872586,dawangk,18,/gbsearch iron ore
+560622778307313695,DiscordRPG,47,You're too tired to do that dawangk (6 seconds)
+560622806996353027,DiscordRPG,33,Query timed out after 15 seconds.
+560622812843212821,dawangk,18,/gbsearch iron ore
+560622815527829514,DiscordRPG,415,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 10_000 Iron Ores (140G each) {ID. jtr2143s} [354 bought] >NL< 100 Iron Ores (113G each) {ID. jtqse8pi} [6 bought] >NL< 20_000 Iron Ores (110G each) {ID. jte8ikui} [5_779 bought] >NL< 20_000 Iron Ores (108G each) {ID. jt70fbfw} [18_004 bought] >NL< 30_000 Iron Ores (106G each) {ID. jqn0d8sp} [3_856 bought] >NL#===============================================#```
+560622829192871961,DiscordRPG,33,Query timed out after 60 seconds.
+560622875283947520,dawangk,19,/gbsell jtr2143s 31
+560622876760342528,DiscordRPG,65,dawangk executed trade `jtr2143s` (31 Iron Ores at 140 gold each)
+560622918858702848,dawangk,4,/inv
+560622920381104128,DiscordRPG,353,```diffNL!===== [dawangk's Inventory (Page 1/2)] =====!NL+ 42_566 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 83 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL+ 1 x Butterfly NetNL+ 14 x Erinotite OresNL+ 88 x LemonsNL!============================================!```
+560622964240941061,dawangk,15,/gbsearch lemon
+560622967231348786,DiscordRPG,286,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 500_000 Lemons (131G each) {ID. jt1gyip1} [68_412 bought] >NL< 500_000 Lemons (120G each) {ID. jsybpdjy} [11_462 bought] >NL< 600 Lemons (30G each) {ID. jsw9cnde} [546 bought] >NL#===============================================#```
+560623004502065182,DiscordRPG,33,Query timed out after 15 seconds.
+560623018485743626,dawangk,19,/gbsell jt1gyip1 88
+560623019962138626,DiscordRPG,62,dawangk executed trade `jt1gyip1` (88 Lemons at 131 gold each)
+560623068142108685,dawangk,4,/inv
+560623070340186152,DiscordRPG,356,```diffNL!===== [dawangk's Inventory (Page 1/1)] =====!NL+ 54_094 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 83 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL+ 1 x Butterfly NetNL+ 14 x Erinotite OresNL+ 16 x Zinc OresNL!============================================!```
+560623073133592576,dawangk,4,/adv
+560623074588884993,DiscordRPG,346,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 6 HP.NL+ Dealt 15 HP DamageNL+ Hulp dealt 5 HP damage.NL- Hulp took 3 HP Damage.NL+ Hulp has 82/187 HP leftNL+ dawangk has 384/400 HP left.NL+ The enemy Syrp has 53/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560623076845551626,DiscordRPG,33,Query timed out after 60 seconds.
+560623091504381954,dawangk,6,/items
+560623093060730903,DiscordRPG,575,```diffNL!=====[ Items (Page 1/51) ]=====!NL+ Health Potion - 5 Gold {Lvl. 1}NL+ Greater Health Potion - 10 Gold {Lvl. 5}NL+ Grapes - 15 Gold {Lvl. 5}NL+ Mushroom - 30 Gold {Lvl. 8}NL+ Cherry - 40 Gold {Lvl. 6}NL+ Healing Nectar - 40 Gold {Lvl. 3}NL+ Even Greater Health Potion - 50 Gold {Lvl. 8}NL+ Carrot - 60 Gold {Lvl. 5}NL- Apple - 80 Gold {Lvl. 10}NL- Banana - 90 Gold {Lvl. 10}NL- Enhancing Stone - 100 Gold {Lvl. 10}NL+ Iron Sword - 100 Gold {Lvl. 2}NL+ Wheat - 100 Gold {Lvl. 5}NL+ Milk - 200 Gold {Lvl. 1}NL+ Freshwater Fish - 200 Gold {Lvl. 4}NL!===============================!```
+560623139823026209,DiscordRPG,33,Query timed out after 15 seconds.
+560623216012558337,dawangk,23,Adventurer's Chestplate
+560623227970256904,dawangk,29,/item Adventurer's Chestplate
+560623228482224139,DiscordRPG,33,Query timed out after 60 seconds.
+560623229127884813,DiscordRPG,0,
+560623247612313610,Sebseb2222,4,/adv
+560623250338480128,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 6NL- Lost 2 HP.NL+ Dealt 6 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 74/100 HP left.NL+ The enemy Zulp has 16/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560623263194152991,dawangk,28,/buy Adventurer's Chestplate
+560623265752547328,DiscordRPG,57,dawangk bought a Adventurer's Chestplate for 10_000 gold.
+560623287684694017,dawangk,23,/buy Adventurer's boots
+560623289127665674,DiscordRPG,37,You need to rest_ dawangk (4 seconds)
+560623309708984320,Sebseb2222,7,/forage
+560623311441231912,DiscordRPG,65,💐 Sebseb2222 went foraging and got 3 Lemons_ 1 XP and 1 skill XP.
+560623316587642883,Sebseb2222,7,/search
+560623318089203712,DiscordRPG,38,You search the location_ Sebseb2222...
+560623327794823181,dawangk,23,/buy Adventurer's boots
+560623329560625152,DiscordRPG,52,dawangk bought a Adventurer's Boots for 10_000 gold.
+560623379477037090,dawangk,23,/buy Adventurer's Boots
+560623381175861248,DiscordRPG,52,dawangk bought a Adventurer's Boots for 10_000 gold.
+560623402399039498,dawangk,23,/use Adventurer's Boots
+560623404051333140,DiscordRPG,38,dawangk equipped a Adventurer's Boots.
+560623410418548736,DiscordRPG,33,Query timed out after 60 seconds.
+560623478449897493,dawangk,4,/adv
+560623480404574208,DiscordRPG,346,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 8 HP.NL+ Dealt 12 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 78/187 HP leftNL+ dawangk has 376/400 HP left.NL+ The enemy Syrp has 35/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560623499975065610,dawangk,4,/inv
+560623501321699359,DiscordRPG,364,```diffNL!===== [dawangk's Inventory (Page 1/2)] =====!NL+ 24_094 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 1 x Adventurer's BootsNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 83 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL+ 1 x Butterfly NetNL+ 14 x Erinotite OresNL!============================================!```
+560623573304344596,dawangk,28,/gbsearch Adventurer's Boots
+560623576454135847,DiscordRPG,29,No trades were found_ dawangk
+560623596704104469,DiscordRPG,33,Query timed out after 15 seconds.
+560623603960381452,dawangk,24,/sell Adventurer's Boots
+560623605722120192,DiscordRPG,45,Sorry_ dawangk_ but you can't sell that item.
+560623640585043971,dawangk,6,/stats
+560623642241794049,DiscordRPG,458,```diffNL!======== [dawangk's Stats] ========!NL+ Health: 376/400HP.NL+ Inventory is in /invNL+ Weapon: Iron BattleaxeNL+ Ring: None | Helmet: NoneNL+ Chestplate: Adventurer's Chestplate | Boots: Adventurer's BootsNL+ Necklace: NoneNL+ Fishing Rod: Fishing Rod | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 8 | (1_407/1_800 XP)NL+ 24_094 GoldNL+ Slain 2 times. Killed 76 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!===================================!```
+560623693303119883,dawangk,25,/buy Adventurer's helment
+560623694863532042,DiscordRPG,38,dawangk tried to buy an unknown item!.
+560623729495769088,dawangk,24,/buy Adventurer's helmet
+560623730728894518,DiscordRPG,47,You're too tired to do that dawangk (1 seconds)
+560623745656422431,dawangk,24,/buy Adventurer's helmet
+560623748298965020,DiscordRPG,53,dawangk bought a Adventurer's Helmet for 10_000 gold.
+560623770235043850,dawangk,4,/adv
+560623771661238281,DiscordRPG,346,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 6 HP.NL+ Dealt 15 HP DamageNL+ Hulp dealt 5 HP damage.NL- Hulp took 3 HP Damage.NL+ Hulp has 75/187 HP leftNL+ dawangk has 370/400 HP left.NL+ The enemy Syrp has 15/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560623777596178451,dawangk,5,/item
+560623779215048714,DiscordRPG,32,Please specify an item_ dawangk.
+560623800878628904,dawangk,6,/stats
+560623802124468225,DiscordRPG,473,```diffNL!======== [dawangk's Stats] ========!NL+ Health: 370/400HP.NL+ Inventory is in /invNL+ Weapon: Iron BattleaxeNL+ Ring: None | Helmet: Adventurer's HelmetNL+ Chestplate: Adventurer's Chestplate | Boots: Adventurer's BootsNL+ Necklace: NoneNL+ Fishing Rod: Fishing Rod | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 8 | (1_407/1_800 XP)NL+ 14_094 GoldNL+ Slain 2 times. Killed 76 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!===================================!```
+560623935457198091,dawangk,4,/adv
+560623937893957632,DiscordRPG,336,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL- Lost 8 HP.NL+ Dealt 11 HP DamageNL+ Hulp dealt 7 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 71/187 HP leftNL+ dawangk has 362/400 HP left.NL+ The enemy Syrp was slain by dawangk!NL+ Rewards: 38 Gold and 22 XP.NL+ Hulp got 2 XP.NL!========================================!```
+560623962950729728,dawangk,5,/mine
+560623964788097025,DiscordRPG,58,⛏ dawangk found 4 Rocks_ 2 XP and 2 skill XP while mining.
+560623973461655580,dawangk,5,/chop
+560623974896369691,DiscordRPG,77,🌳 dawangk went to chop some wood and got 4 Regular logs_ 2 XP and 2 skill XP.
+560623978872307713,dawangk,7,/forage
+560623980806012945,DiscordRPG,62,🌷 dawangk went foraging and got 5 Lemons_ 2 XP and 1 skill XP.
