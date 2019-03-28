@@ -576,3 +576,17 @@ ID,Author,Channel,Content Length,Content
 560624893515792394,SnakePin,general-discussions,7,Use get
 560624984431788062,SnakePin,general-discussions,27,<:Kappa:539192281916375040>
 560625038479458305,AwkwardPsyche,general-discussions,82,Looks like something's not getting passed over that was part of a dynamic element.
+560625090169929739,Anti,programming,124,I decided not to tokenize all of the characters and digits in identifiers and numeric literals 'cause I kinda don't have to?
+560625133534838804,Zombie_Pigdragon,off-topic,68,oofNLNext time you see them just say cornn flaek and see what happens
+560625148944711700,Anti,programming,106,And going out of my way to do that makes a lot more work to put those things back together properly later.
+560625159304773632,SnakePin,general-discussions,10,Then debug
+560625169677287424,Anti,programming,34,A side effect is I get to do this:
+560625187469656074,Anti,programming,47,```NL0xafe_starts_with_a_number :int = 0xafe;```
+560625224731590656,SnakePin,general-discussions,28,Wireshark or developer tools
+560625237847310336,Anti,programming,19,Tokenizer's output:
+560625277525426196,Anti,programming,468,```NLLine:                        Token:                   Token Type:NL00001    0xafe_starts_with_a_number                  ALPHANUMERICNL00001                             :                   TYPE_MARKERNL00001                           int                  ALPHANUMERICNL00001                             =                    ASSIGNMENTNL00001                         0xafe           HEXADECIMAL_LITERALNL00001                             ;                   END_OF_LINE```
+560625284949475330,AwkwardPsyche,general-discussions,22,Thanks_ RubberDuckPin.
+560625345435402241,SnakePin,general-discussions,10,No problem
+560625402247380995,SnakePin,general-discussions,44,I am something of a software engineer myself
+560625456005775362,SnakePin,general-discussions,30,<:thinkies:493429957121540109>
+560625481519464448,AwkwardPsyche,general-discussions,10,*sage nod*

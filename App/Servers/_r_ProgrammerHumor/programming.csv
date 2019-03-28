@@ -124,3 +124,9 @@ ID,Author,Content Length,Content
 560621397781643274,somebody,92,<@194861788926443520> not the best for working across multiple devices - cloud9 is a thing 😛
 560621511812317215,somebody,59,<@205069548595052544> i started a kinda large project at 16
 560624853645000715,Anti,60,I've been doodling around with making my own compiler today.
+560625090169929739,Anti,124,I decided not to tokenize all of the characters and digits in identifiers and numeric literals 'cause I kinda don't have to?
+560625148944711700,Anti,106,And going out of my way to do that makes a lot more work to put those things back together properly later.
+560625169677287424,Anti,34,A side effect is I get to do this:
+560625187469656074,Anti,47,```NL0xafe_starts_with_a_number :int = 0xafe;```
+560625237847310336,Anti,19,Tokenizer's output:
+560625277525426196,Anti,468,```NLLine:                        Token:                   Token Type:NL00001    0xafe_starts_with_a_number                  ALPHANUMERICNL00001                             :                   TYPE_MARKERNL00001                           int                  ALPHANUMERICNL00001                             =                    ASSIGNMENTNL00001                         0xafe           HEXADECIMAL_LITERALNL00001                             ;                   END_OF_LINE```
