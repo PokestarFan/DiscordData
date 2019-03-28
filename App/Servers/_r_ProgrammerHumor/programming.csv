@@ -134,3 +134,6 @@ ID,Author,Content Length,Content
 560625744573759489,Anti,80,'Cause the lexer already ensures those will be put together and tagged properly.
 560627417832488960,somebody,66,<@326422614073671681> why would the parser care about the contents
 560627597294174219,somebody,132,if you mean the lexer outputting `BINARY_LITERAL` instead of the parser figuring which one it is then that's done very_ _very_ often
+560627958860218388,Zombie_Pigdragon,88,The way I (badly) did it was a Token struct with an enum for type and a string for value
+560628209029349396,somebody,3,uhh
+560628235445207086,somebody,40,isn't that the conventional way to do it

@@ -604,3 +604,6 @@ ID,Author,Channel,Content Length,Content
 560626678640934912,AwkwardPsyche,general-discussions,44,I need to get my friends to play that again.
 560627417832488960,somebody,programming,66,<@326422614073671681> why would the parser care about the contents
 560627597294174219,somebody,programming,132,if you mean the lexer outputting `BINARY_LITERAL` instead of the parser figuring which one it is then that's done very_ _very_ often
+560627958860218388,Zombie_Pigdragon,programming,88,The way I (badly) did it was a Token struct with an enum for type and a string for value
+560628209029349396,somebody,programming,3,uhh
+560628235445207086,somebody,programming,40,isn't that the conventional way to do it

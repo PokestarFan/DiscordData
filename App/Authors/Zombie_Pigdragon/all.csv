@@ -1,3 +1,4 @@
 ID,Server,Channel,Content Length,Content
 558765533692952610,/r/ProgrammerHumor,media,6,nodeOS
 560625133534838804,/r/ProgrammerHumor,off-topic,68,oofNLNext time you see them just say cornn flaek and see what happens
+560627958860218388,/r/ProgrammerHumor,programming,88,The way I (badly) did it was a Token struct with an enum for type and a string for value
