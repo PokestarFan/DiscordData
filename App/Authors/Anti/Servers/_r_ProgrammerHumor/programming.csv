@@ -12,3 +12,12 @@ ID,Content Length,Content
 560628546104721428,39,```NLnumber = 1-9NLnumber = 1-9 number```
 560628553712926735,16,that kinda thing
 560628620008357891,63,the parser would need to check that the token fits the terminal
+560628758306881622,20,the production rules
+560628782440906752,24,for how to build numbers
+560628950120792073,35,i think that's what i was thinking/
+560628987722858496,44,since i'm not splitting up numbers per digit
+560629037878476800,44,i just define the production rule like this:
+560629144233181185,84,```NLnumber = BINARY_LITERALNLnumber = HEXADECIMAL_LITERALNLnumber = DECIMAL_LITERAL```
+560629187031859211,82,and give the parser some way to understand that i'm talking about token type there
+560629264974610442,66,Consider the case where I tokenized all of the digits in a number.
+560629312265519122,80,The parser would have to realize all of the digits were part of a single number.

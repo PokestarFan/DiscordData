@@ -53,3 +53,8 @@ ID,Server,Channel,Content Length,Content
 560628325261901824,/r/ProgrammerHumor,programming,39,well some people use subclass of `Node`
 560628378672300033,/r/ProgrammerHumor,programming,26,<@326422614073671681> hmm?
 560628537028116481,/r/ProgrammerHumor,programming,56,<@242066553183404032> it pays off right from the start 😛
+560628709594497025,/r/ProgrammerHumor,programming,4,hmm?
+560628864800260098,/r/ProgrammerHumor,programming,53,yeah normally you'd just have a terminal for `NUMBER`
+560628898304491521,/r/ProgrammerHumor,programming,38,the parser does _not_ need to know how
+560629175355179038,/r/ProgrammerHumor,programming,108,then wdym "The parser would care if it were looking to make sure that the token matched the production rule"
+560629211027734528,/r/ProgrammerHumor,programming,1,😐

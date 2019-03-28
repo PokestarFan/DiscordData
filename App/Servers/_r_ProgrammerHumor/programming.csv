@@ -144,3 +144,17 @@ ID,Author,Content Length,Content
 560628546104721428,Anti,39,```NLnumber = 1-9NLnumber = 1-9 number```
 560628553712926735,Anti,16,that kinda thing
 560628620008357891,Anti,63,the parser would need to check that the token fits the terminal
+560628709594497025,somebody,4,hmm?
+560628758306881622,Anti,20,the production rules
+560628782440906752,Anti,24,for how to build numbers
+560628864800260098,somebody,53,yeah normally you'd just have a terminal for `NUMBER`
+560628898304491521,somebody,38,the parser does _not_ need to know how
+560628950120792073,Anti,35,i think that's what i was thinking/
+560628987722858496,Anti,44,since i'm not splitting up numbers per digit
+560629037878476800,Anti,44,i just define the production rule like this:
+560629144233181185,Anti,84,```NLnumber = BINARY_LITERALNLnumber = HEXADECIMAL_LITERALNLnumber = DECIMAL_LITERAL```
+560629175355179038,somebody,108,then wdym "The parser would care if it were looking to make sure that the token matched the production rule"
+560629187031859211,Anti,82,and give the parser some way to understand that i'm talking about token type there
+560629211027734528,somebody,1,😐
+560629264974610442,Anti,66,Consider the case where I tokenized all of the digits in a number.
+560629312265519122,Anti,80,The parser would have to realize all of the digits were part of a single number.
