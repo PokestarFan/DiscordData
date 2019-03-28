@@ -71,3 +71,4 @@ ID,Channel,Content Length,Content
 560637353241346048,bot-commands,155,No valid co-op specified. Co-ops ids can be found with e!currentcontractids. Please go to <#455512567004004353> if you are not already there and try again.
 560637454344781835,role-submissions,181,Quail has approved the submission by pernicious which increased their role from Eggs to Kilofarmer.NLQuail took approximately 149.523 seconds to take care of pernicious's submission.
 560637941567717426,bot-commands,53,e!e!contract does not have a help if it is a command.
+560638315607490560,co-op-recruitment,125,Please specify a co-op name and a contract id. Please go to <#455512567004004353> if you are not already there and try again.

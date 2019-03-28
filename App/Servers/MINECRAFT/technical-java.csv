@@ -736,3 +736,7 @@ ID,Author,Content Length,Content
 560637989139513344,Cooslur,28,and forge wont load them too
 560638141455925260,whoms,96,You are doing something wrong then. Are you mods a .jar file and in `%appdata%\.minecraft\mods`?
 560638169549242368,Cooslur,3,yes
+560638215845838868,Sprinkles,157,Running optifine with forge should be pretty straightforward; you install the forge modloader_ then drop the optifine mod file in the appropriate mods folder
+560638307244048384,Cooslur,6,i did.
+560638332175122432,Cooslur,0,
+560638354606129154,Cooslur,23,these are the only mods

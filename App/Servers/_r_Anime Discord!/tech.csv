@@ -41,3 +41,6 @@ ID,Author,Content Length,Content
 559073460790362131,Asuto,462,```xqueryNLlet $output :=NL  element POLITWEETSNL  {NL    for $p in doc("pol.xml")/POLITICIANS/POLITICIANNL    returnNL      element POLITICIANNL      {NL        attribute id {data($p/@id)}_NL        $p/*_NL        element TWEETSNL        {NL          for $t in doc("tweets.xml")/TWEETS/TWEETNL          where data($p/@id) = $t/USERIDNL          returnNL            element TWEET NL            {NL              $t/*[not(name()="USERID")]NL            }NL        }NL      }NL    }NL```
 559104818984255498,saltyDAN,74,anyone here have experience building their own custom mechanical keyboard?
 560632262547472403,Mob,1,9
+560638183298039838,Mantis Toboggan MD,52,I meant it helps to have them while building your pc
+560638354287493130,Mantis Toboggan MD,29,Sorry if that was unclear lol
+560638451381174282,Mantis Toboggan MD,77,I just built mine recently and it would've taken me forever if I did it alone
