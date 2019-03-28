@@ -137,3 +137,5 @@ ID,Server,Channel,Content Length,Content
 560651709509009418,MINECRAFT,support,148,<@195294392079220738> https://bugs.mojang.com/browse/MC-146778 / https://bugs.mojang.com/browse/MC-146788 / https://bugs.mojang.com/browse/MC-146799
 560651787045044224,MINECRAFT,support,55,<@304757722786562048> Mojang still locks accounts_ yes.
 560651989856550914,MINECRAFT,support,55,Does it crash or stop responding? <@277571347016712192>
+560652121884852227,MINECRAFT,support,166,<@304757722786562048> You can't avoid Alts being locked_ they are illegal and against the ToS. Mojang locks accounts once they find out about them being used as alts.
+560652253950771210,MINECRAFT,support,116,Please paste the crashlog to https://paste.ubuntu.com click `Paste!` and send the link in here <@277571347016712192>
