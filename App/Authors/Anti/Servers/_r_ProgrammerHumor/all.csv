@@ -26,3 +26,6 @@ ID,Channel,Content Length,Content
 560629793889058846,programming,45,In the case where 999 got tokenized to 9 9 9.
 560629971949715467,programming,118,Then it'd need to look at the contents of the tokens rather than just being happy that they're numeric literal tokens.
 560630103969890305,programming,21,I'm doing the latter.
+560630518572646411,programming,185,The interesting bit was I wound up in a situation where I can start identifiers with numbers_ which is only interesting because I don't recall seeing any serious languages ever do that.
+560630532661313536,programming,17,But it's trivial.
+560630618539687949,programming,44,So I'm wondering why that isn't more common.

@@ -62,3 +62,6 @@ ID,Channel,Content Length,Content
 560629651391905843,programming,69,"I tokenized all of the digits in a number." - together or separately
 560629791053840384,programming,142,what i'm saying is the parser _doesn't need to know_ what the lexer does. it's a lot easier if you just assume the lexer is behaving correctly
 560630151319388188,programming,10,of course?
+560630638986788878,programming,98,"I don't recall seeing any serious languages ever do that." - of course... it's hard to understand
+560630657789853707,programming,17,it's confusing...
+560630768183934986,programming,31,well actually... lisp does that
