@@ -692,3 +692,8 @@ ID,Author,Channel,Content Length,Content
 560633648232005644,Anti,programming,79,i'd think any compiler that understood unicode would have no problem with emoji
 560633685963964436,Anti,programming,65,it'd be more effort to stop strange characters than to allow them
 560633750442999809,Anti,programming,57,tho i generally approve of disallowing emoji in variables
+560633780017299461,Anti,programming,19,that's just too far
+560633808089645066,somebody,programming,75,"it'd be more effort to stop strange characters than to allow them" - no...
+560633844793868311,somebody,programming,25,they only allow _letters_
+560633876490485761,somebody,programming,11,and numbers
+560633987916103710,somebody,programming,69,and that's possible because there's a thing called unicode categories

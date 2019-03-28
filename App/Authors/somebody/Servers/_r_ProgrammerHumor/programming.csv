@@ -57,3 +57,7 @@ ID,Content Length,Content
 560633007753527305,132,"I don't think it really makes things worse." - ok_ sure_ but that's not what the people who manage most programming languages think
 560633372288876556,19,"enormous freedom"?
 560633457886363657,41,yeah that's not a thing in most languages
+560633808089645066,75,"it'd be more effort to stop strange characters than to allow them" - no...
+560633844793868311,25,they only allow _letters_
+560633876490485761,11,and numbers
+560633987916103710,69,and that's possible because there's a thing called unicode categories
