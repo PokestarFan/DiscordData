@@ -8,3 +8,7 @@ ID,Content Length,Content
 560625277525426196,468,```NLLine:                        Token:                   Token Type:NL00001    0xafe_starts_with_a_number                  ALPHANUMERICNL00001                             :                   TYPE_MARKERNL00001                           int                  ALPHANUMERICNL00001                             =                    ASSIGNMENTNL00001                         0xafe           HEXADECIMAL_LITERALNL00001                             ;                   END_OF_LINE```
 560625674063183872,205,My thinking is I can define numbers in the grammar in such a way that the parser looks for BINARY_LITERAL_ HEXADECIMAL_LITERAL_ or DECIMAL_LITERAL tokens instead of caring about the contents of the tokens.
 560625744573759489,80,'Cause the lexer already ensures those will be put together and tagged properly.
+560628306182144001,97,The parser would care if it were looking to make sure that the token matched the production rule.
+560628546104721428,39,```NLnumber = 1-9NLnumber = 1-9 number```
+560628553712926735,16,that kinda thing
+560628620008357891,63,the parser would need to check that the token fits the terminal

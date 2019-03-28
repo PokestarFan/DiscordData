@@ -137,3 +137,10 @@ ID,Author,Content Length,Content
 560627958860218388,Zombie_Pigdragon,88,The way I (badly) did it was a Token struct with an enum for type and a string for value
 560628209029349396,somebody,3,uhh
 560628235445207086,somebody,40,isn't that the conventional way to do it
+560628306182144001,Anti,97,The parser would care if it were looking to make sure that the token matched the production rule.
+560628325261901824,somebody,39,well some people use subclass of `Node`
+560628378672300033,somebody,26,<@326422614073671681> hmm?
+560628537028116481,somebody,56,<@242066553183404032> it pays off right from the start 😛
+560628546104721428,Anti,39,```NLnumber = 1-9NLnumber = 1-9 number```
+560628553712926735,Anti,16,that kinda thing
+560628620008357891,Anti,63,the parser would need to check that the token fits the terminal
