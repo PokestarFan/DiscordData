@@ -58,3 +58,4 @@ ID,Server,Channel,Content Length,Content
 560628898304491521,/r/ProgrammerHumor,programming,38,the parser does _not_ need to know how
 560629175355179038,/r/ProgrammerHumor,programming,108,then wdym "The parser would care if it were looking to make sure that the token matched the production rule"
 560629211027734528,/r/ProgrammerHumor,programming,1,😐
+560629481702686721,/r/ProgrammerHumor,programming,183,```NLnumber = BINARY_LITERAL {% Token(BINARY_LITERAL_ item) %}NL  | HEXADECIMAL_LITERAL {% Token(HEXADECIMAL_LITERAL_ item) %}NL  | DECIMAL_LITERAL {% Token(DECIMAL_LITERAL_ item) %}NL```
