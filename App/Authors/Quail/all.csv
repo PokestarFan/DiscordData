@@ -43,3 +43,4 @@ ID,Server,Channel,Content Length,Content
 560633349610274836,Egg_ Inc,contract-talk,257,So it is up to each player to keep track of which contracts they have completed_ and to be vigilant when contracts are released. We will document re-releases_ and the push notifications the dev sends inform which ones are legacies_ but each player must read
 560633695694880789,Egg_ Inc,general,207,It's the best answer I can come up with for there being an extra PE to take away. Like the game has found a way to correct this error - though so far PE removal only corresponds to specific contracts etc etc
 560637452231114753,Egg_ Inc,role-submissions,1,4
+560640449816297502,Egg_ Inc,bot-commands,99,<@!453725117004906496> Use the command `e!currentcontractids` in this channel to get the correct ID
