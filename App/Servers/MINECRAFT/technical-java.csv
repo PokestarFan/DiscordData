@@ -740,3 +740,11 @@ ID,Author,Content Length,Content
 560638307244048384,Cooslur,6,i did.
 560638332175122432,Cooslur,0,
 560638354606129154,Cooslur,23,these are the only mods
+560638587746517002,Sprinkles,138,~~autotip lmao~~NLYeah_ I don't see any reason for why it couldn't be working. Maybe the Optifine site's FAQ has some troubleshooting tips?
+560638617937117185,foxotic,295,Hey java peeps_ im pretty new with learning about DATA packs and BEHAVIOR packs -- This guy made a custom mob with a BEHAVIOR Pack; How possible is it to do this in java? The entity does not override an exisiting one. it has its own AI and spawner egg.NLhttps://mcpedl.com/spyro-the-dragon-addon/
+560638743325966337,CraftyGamer_,76,Does CustomModelData only work for digits_ or can it work with letters_ too?
+560638765954236435,Cooslur,43,autotip was in there when i installed forge
+560638771540918272,Sprinkles,110,Behavior pack isn't a data pack. Behavior packs might be able to create unique entities_ but data packs can't.
+560638813613850642,Sprinkles,40,<@340933245971464192> It's only integers
+560638868647575563,foxotic,65,<@!209861974102638592> possible in 1.14 with CustomModelData ^^ ?
+560638973244866591,Cooslur,16,i figured it out

@@ -141,3 +141,6 @@ ID,Channel,Content Length,Content
 559100114648694794,minecraft,43,In Java context_ texture packs are outdated
 560600182195093504,technical-java,105,Don't ask me_ heh. I don't know when it started_ but when I purchases the game back in 2015 I had a code.
 560638215845838868,technical-java,157,Running optifine with forge should be pretty straightforward; you install the forge modloader_ then drop the optifine mod file in the appropriate mods folder
+560638587746517002,technical-java,138,~~autotip lmao~~NLYeah_ I don't see any reason for why it couldn't be working. Maybe the Optifine site's FAQ has some troubleshooting tips?
+560638771540918272,technical-java,110,Behavior pack isn't a data pack. Behavior packs might be able to create unique entities_ but data packs can't.
+560638813613850642,technical-java,40,<@340933245971464192> It's only integers
