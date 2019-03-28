@@ -1598,3 +1598,12 @@ ID,Author,Content Length,Content
 560635343884386314,DiscordRPG,352,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL- Lost 12 HP.NL+ Dealt 11 HP DamageNL+ Hulp dealt 5 HP damage.NL- Hulp took 6 HP Damage.NL+ Hulp has 130/187 HP leftNL+ dawangk has 379/400 HP left.NL+ The enemy Leirgth has 144/200 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
 560635384808210455,dawangk,5,/chop
 560635386431406090,DiscordRPG,43,Recovering dawangk's stamina in 52 seconds.
+560635684763729950,Highnatzu,4,/adv
+560635686399770624,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 1NL- Lost 10 HP.NL+ Dealt 10 HP DamageNL- Pet Rock took 5 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 197/400 HP left.NL+ The enemy Lurght has 67/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560635722323722250,Highnatzu,6,/stats
+560635723716362251,DiscordRPG,496,```diffNL!======== [Highnatzu's Stats] ========!NL+ Health: 197/400HP.NL+ Inventory is in /invNL+ Weapon: Iron BattleaxeNL+ Ring: None | Helmet: Adventurer's HelmetNL+ Chestplate: Adventurer's Chestplate | Boots: Adventurer's BootsNL+ Necklace: NoneNL+ Fishing Rod: Fishing Rod | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 8 | (1_463/1_800 XP)NL+ 2_770 GoldNL+ Slain 0 times. Killed 57 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL+ Guild: Blood BathNL!=====================================!```
+560635749645680640,Highnatzu,5,/mine
+560635750983401504,DiscordRPG,64,⛏ Highnatzu found 5 Iron Ores_ 2 XP and 2 skill XP while mining.
+560635777214709763,dawangk,4,/adv
+560635778213085194,Highnatzu,7,/search
+560635778770665484,DiscordRPG,351,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 5NL- Lost 9 HP.NL+ Dealt 15 HP DamageNL+ Hulp dealt 7 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 126/187 HP leftNL+ dawangk has 370/400 HP left.NL+ The enemy Leirgth has 122/200 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
