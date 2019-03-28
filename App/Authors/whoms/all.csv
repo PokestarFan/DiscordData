@@ -122,3 +122,5 @@ ID,Server,Channel,Content Length,Content
 560641466712588304,MINECRAFT,technical-java,63,When you download it_ run the server once per doubleclick on it
 560641565182132224,MINECRAFT,technical-java,99,It will create the EULA file_ change `Eula=false` to `Eula=true` and then start it from a start.bat
 560641801111863298,MINECRAFT,technical-java,25,Doubleclick the paper.jar
+560643689475735552,MINECRAFT,technical-java,68,You need a .bat file_ but you need to open it without the bat first.
+560643843570008105,MINECRAFT,technical-java,107,Please follow this tutorial https://minecraft.gamepedia.com/Tutorials/Setting_up_a_server_ I need to go now
