@@ -689,3 +689,6 @@ ID,Author,Channel,Content Length,Content
 560633372288876556,somebody,programming,19,"enormous freedom"?
 560633423140487198,Anti,programming,5,emoji
 560633457886363657,somebody,programming,41,yeah that's not a thing in most languages
+560633648232005644,Anti,programming,79,i'd think any compiler that understood unicode would have no problem with emoji
+560633685963964436,Anti,programming,65,it'd be more effort to stop strange characters than to allow them
+560633750442999809,Anti,programming,57,tho i generally approve of disallowing emoji in variables

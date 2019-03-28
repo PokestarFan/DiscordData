@@ -59,3 +59,6 @@ ID,Channel,Content Length,Content
 560633254110298122,programming,62,We've hit diminishing returns for how much worse they can get.
 560633355373379605,programming,67,I'd rather not be opinionated about how good devs can use the tool.
 560633423140487198,programming,5,emoji
+560633648232005644,programming,79,i'd think any compiler that understood unicode would have no problem with emoji
+560633685963964436,programming,65,it'd be more effort to stop strange characters than to allow them
+560633750442999809,programming,57,tho i generally approve of disallowing emoji in variables
