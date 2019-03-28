@@ -1757,3 +1757,46 @@ ID,Author,Content Length,Content
 560654480010641418,DiscordRPG,328,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 14 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 130/400 HP left.NL+ The enemy Zulp was slain by Highnatzu!NL+ Rewards: 17 Gold and 18 XP.NL+ Pet Rock got 0 XP.NL!==========================================!```
 560948644317233194,Sebseb2222,4,/adv
 560948646401671168,DiscordRPG,331,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 86/150 HP left.NL+ The enemy Ogre has 9/40 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949125521080326,Peyton,7,/forage
+560949127589003274,DiscordRPG,61,🍃 Peyton went foraging and got 2 Lemons_ 1 XP and 1 skill XP.
+560949145909854238,Sebseb2222,10,/use lemon
+560949147759542362,DiscordRPG,48,Sebseb2222 used a Lemon and got 25HP. (95/150HP)
+560949189928812544,Sebseb2222,7,/forage
+560949191367458825,DiscordRPG,46,Recovering Sebseb2222's stamina in 71 seconds.
+560949233709088770,Sebseb2222,4,/adv
+560949234673647626,Peyton,10,/use lemon
+560949235516702761,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 4NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 92/150 HP left.NL+ The enemy Zulp has 70/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949236477198367,DiscordRPG,43,Peyton used a Lemon and got 13HP. (50/50HP)
+560949259827019779,Peyton,4,/adv
+560949261554941985,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 43/50 HP leftNL+ Peyton has 48/50 HP left.NL+ The enemy Oglurth has 27/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949297168777294,Sebseb2222,4,/adv
+560949299035504660,DiscordRPG,349,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 4NL+ Critical hit!NL- Lost 3 HP.NL+ Dealt 10 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 89/150 HP left.NL+ The enemy Zulp has 60/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949313296007178,Sebseb2222,6,/stats
+560949314654830602,DiscordRPG,413,```diffNL!======== [Sebseb2222's Stats] ========!NL+ Health: 89/150HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: NoneNL+ Level 3 | (288/300 XP)NL+ 346 GoldNL+ Slain 1 times. Killed 29 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!======================================!```
+560949343209652244,Peyton,4,/adv
+560949344749092890,DiscordRPG,339,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 2NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 42/50 HP leftNL+ Peyton has 46/50 HP left.NL+ The enemy Oglurth has 23/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949459530285069,Sebseb2222,4,/adv
+560949461124382722,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 85/150 HP left.NL+ The enemy Zulp has 57/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949578036412425,Sebseb2222,4,/adv
+560949579697356810,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 81/150 HP left.NL+ The enemy Zulp has 54/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949601402880020,Sebseb2222,7,/forage
+560949603122413569,DiscordRPG,65,🌸 Sebseb2222 went foraging and got 4 Lemons_ 1 XP and 2 skill XP.
+560949623607394316,Sebseb2222,5,/mine
+560949625356419083,DiscordRPG,65,⛏ Sebseb2222 found 3 Rock Salt_ 2 XP and 1 skill XP while mining.
+560949632704970763,Sebseb2222,4,/adv
+560949634542075925,DiscordRPG,45,Recovering Sebseb2222's stamina in 1 seconds.
+560949646940307491,Sebseb2222,6,/stats
+560949648487874575,DiscordRPG,413,```diffNL!======== [Sebseb2222's Stats] ========!NL+ Health: 81/150HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: NoneNL+ Level 3 | (291/300 XP)NL+ 346 GoldNL+ Slain 1 times. Killed 29 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!======================================!```
+560949654255173652,Sebseb2222,4,/adv
+560949655823712304,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 79/150 HP left.NL+ The enemy Zulp has 49/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949686513434702,Peyton,4,/adv
+560949688350670861,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 41/50 HP leftNL+ Peyton has 44/50 HP left.NL+ The enemy Oglurth has 20/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949724681732116,Peyton,7,/seatch
+560949724803497984,Sebseb2222,4,/adv
+560949727341051964,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 2NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 75/150 HP left.NL+ The enemy Zulp has 46/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949752615665664,Peyton,7,/search
+560949753974620190,DiscordRPG,43,Recovering Peyton's stamina in 259 seconds.
+560949771427119122,Peyton,4,/adv
+560949773155172372,DiscordRPG,339,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 4NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 8 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 40/50 HP leftNL+ Peyton has 42/50 HP left.NL+ The enemy Oglurth has 12/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560949795498491911,Sebseb2222,4,/adv
+560949797885050882,DiscordRPG,332,```diffNL!========[ Sebseb2222's Adventure ]========!NL% Rolled a 5NL- Lost 3 HP.NL+ Dealt 5 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Sebseb2222 has 72/150 HP left.NL+ The enemy Zulp has 41/80 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
