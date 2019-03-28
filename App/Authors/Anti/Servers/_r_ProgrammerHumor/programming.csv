@@ -24,3 +24,5 @@ ID,Content Length,Content
 560629409372045334,118,Meaning it'd have to check the contents of the tokens to make sure they matched the terminals in the production rules.
 560629758489001984,60,I'm not sure why you're having a hard time understanding me.
 560629793889058846,45,In the case where 999 got tokenized to 9 9 9.
+560629971949715467,118,Then it'd need to look at the contents of the tokens rather than just being happy that they're numeric literal tokens.
+560630103969890305,21,I'm doing the latter.

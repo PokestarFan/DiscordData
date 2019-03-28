@@ -164,3 +164,6 @@ ID,Author,Content Length,Content
 560629758489001984,Anti,60,I'm not sure why you're having a hard time understanding me.
 560629791053840384,somebody,142,what i'm saying is the parser _doesn't need to know_ what the lexer does. it's a lot easier if you just assume the lexer is behaving correctly
 560629793889058846,Anti,45,In the case where 999 got tokenized to 9 9 9.
+560629971949715467,Anti,118,Then it'd need to look at the contents of the tokens rather than just being happy that they're numeric literal tokens.
+560630103969890305,Anti,21,I'm doing the latter.
+560630151319388188,somebody,10,of course?
