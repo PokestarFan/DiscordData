@@ -1,0 +1,3 @@
+ID,Server,Channel,Content Length,Content
+560624853645000715,/r/ProgrammerHumor,programming,60,I've been doodling around with making my own compiler today.
+560625090169929739,/r/ProgrammerHumor,programming,124,I decided not to tokenize all of the characters and digits in identifiers and numeric literals 'cause I kinda don't have to?

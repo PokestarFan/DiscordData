@@ -701,3 +701,24 @@ ID,Channel,Content Length,Content
 560623964788097025,rpg,58,⛏ dawangk found 4 Rocks_ 2 XP and 2 skill XP while mining.
 560623974896369691,rpg,77,🌳 dawangk went to chop some wood and got 4 Regular logs_ 2 XP and 2 skill XP.
 560623980806012945,rpg,62,🌷 dawangk went foraging and got 5 Lemons_ 2 XP and 1 skill XP.
+560623997256204289,rpg,32,🎣 dawangk didn't catch anything.
+560624011113922590,rpg,35,You search the location_ dawangk...
+560624020517814293,rpg,354,```diffNL!===== [dawangk's Inventory (Page 1/2)] =====!NL+ 14_132 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 1 x Adventurer's BootsNL+ 4 x RocksNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 88 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL+ 1 x Butterfly NetNL!============================================!```
+560624052356513792,rpg,503,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Logs (62G each) {ID. jtrv7bdl} [0 bought] >NL< 50_000 Logs (60G each) {ID. jtr6pjxw} [2_649 bought] >NL< 20_000 Logs (55G each) {ID. jtjb2kya} [12_933 bought] >NL< 12_670 Logs (53G each) {ID. jtikz3z7} [2_973 bought] >NL< 200_000 Logs (52G each) {ID. jte8k7vw} [1 bought] >NL< 30_000 Logs (33G each) {ID. jtd4v033} [2_008 bought] >NL< 250_000 Logs (51G each) {ID. jsvf17x9} [6_684 bought] >NL#===============================================#```
+560624090126483457,rpg,33,Query timed out after 15 seconds.
+560624098963881985,rpg,59,dawangk executed trade `jtrv7bdl` (88 Logs at 62 gold each)
+560624131238789145,rpg,42,Recovering dawangk's stamina in 6 seconds.
+560624151123984386,rpg,37,You need to rest_ dawangk (1 seconds)
+560624168639660072,rpg,504,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Logs (62G each) {ID. jtrv7bdl} [88 bought] >NL< 50_000 Logs (60G each) {ID. jtr6pjxw} [2_649 bought] >NL< 20_000 Logs (55G each) {ID. jtjb2kya} [12_933 bought] >NL< 12_670 Logs (53G each) {ID. jtikz3z7} [2_973 bought] >NL< 200_000 Logs (52G each) {ID. jte8k7vw} [1 bought] >NL< 30_000 Logs (33G each) {ID. jtd4v033} [2_008 bought] >NL< 250_000 Logs (51G each) {ID. jsvf17x9} [6_684 bought] >NL#===============================================#```
+560624200000208912,rpg,348,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 8 HP.NL+ Dealt 12 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 67/187 HP leftNL+ dawangk has 354/400 HP left.NL+ The enemy Zarth has 117/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560624260352311316,rpg,67,dawangk used a Health Potion and healed their pet 50HP. (117/187HP)
+560624274931580980,rpg,348,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL- Lost 8 HP.NL+ Dealt 11 HP DamageNL+ Hulp dealt 7 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 113/187 HP leftNL+ dawangk has 346/400 HP left.NL+ The enemy Zarth has 99/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560624313519046676,rpg,33,Query timed out after 60 seconds.
+560624429936279563,rpg,33,Query timed out after 60 seconds.
+560624956740730890,rpg,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 7 HP.NL+ Dealt 15 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 232/400 HP left.NL+ The enemy Lurght has 115/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560625008347447306,rpg,37,You search the location_ Highnatzu...
+560625018976075813,rpg,64,⛏ Highnatzu found 5 Iron Ores_ 1 XP and 2 skill XP while mining.
+560625023988269066,rpg,79,🌲 Highnatzu went to chop some wood and got 5 Regular logs_ 2 XP and 1 skill XP.
+560625026177695744,rpg,64,🍂 Highnatzu went foraging and got 5 Lemons_ 2 XP and 1 skill XP.
+560625030309085205,rpg,48,🎣 Highnatzu caught a Snail_ 2 XP and 1 skill XP.
+560625031236026408,rpg,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 7 HP.NL+ Dealt 15 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 225/400 HP left.NL+ The enemy Lurght has 100/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.

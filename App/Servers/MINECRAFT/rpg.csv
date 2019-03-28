@@ -1488,3 +1488,44 @@ ID,Author,Content Length,Content
 560623974896369691,DiscordRPG,77,🌳 dawangk went to chop some wood and got 4 Regular logs_ 2 XP and 2 skill XP.
 560623978872307713,dawangk,7,/forage
 560623980806012945,DiscordRPG,62,🌷 dawangk went foraging and got 5 Lemons_ 2 XP and 1 skill XP.
+560623995687403536,dawangk,5,/fish
+560623997256204289,DiscordRPG,32,🎣 dawangk didn't catch anything.
+560624009780133900,dawangk,7,/search
+560624011113922590,DiscordRPG,35,You search the location_ dawangk...
+560624019439747082,dawangk,4,/inv
+560624020517814293,DiscordRPG,354,```diffNL!===== [dawangk's Inventory (Page 1/2)] =====!NL+ 14_132 Gold.NL+ 58 x Health PotionsNL+ 1 x Small DaggerNL+ 1 x Adventurer's BootsNL+ 4 x RocksNL+ 7 x Freshwater FishNL+ 4 x Tropical FishNL+ 3 x CrabsNL+ 88 x LogsNL+ 5 x OctopiNL+ 3 x TurtleNL+ 3 x BlowfishNL+ 5 x SnailsNL+ 31 x Rock SaltNL+ 1 x Butterfly NetNL!============================================!```
+560624049458249748,dawangk,13,/gbsearch log
+560624052356513792,DiscordRPG,503,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Logs (62G each) {ID. jtrv7bdl} [0 bought] >NL< 50_000 Logs (60G each) {ID. jtr6pjxw} [2_649 bought] >NL< 20_000 Logs (55G each) {ID. jtjb2kya} [12_933 bought] >NL< 12_670 Logs (53G each) {ID. jtikz3z7} [2_973 bought] >NL< 200_000 Logs (52G each) {ID. jte8k7vw} [1 bought] >NL< 30_000 Logs (33G each) {ID. jtd4v033} [2_008 bought] >NL< 250_000 Logs (51G each) {ID. jsvf17x9} [6_684 bought] >NL#===============================================#```
+560624090126483457,DiscordRPG,33,Query timed out after 15 seconds.
+560624097445543947,dawangk,19,/gbsell jtrv7bdl 88
+560624098963881985,DiscordRPG,59,dawangk executed trade `jtrv7bdl` (88 Logs at 62 gold each)
+560624129380843522,dawangk,13,/gbsearch log
+560624131238789145,DiscordRPG,42,Recovering dawangk's stamina in 6 seconds.
+560624149853110282,dawangk,13,/gbsearch log
+560624151123984386,DiscordRPG,37,You need to rest_ dawangk (1 seconds)
+560624165145673731,dawangk,13,/gbsearch log
+560624168639660072,DiscordRPG,504,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 100_000 Logs (62G each) {ID. jtrv7bdl} [88 bought] >NL< 50_000 Logs (60G each) {ID. jtr6pjxw} [2_649 bought] >NL< 20_000 Logs (55G each) {ID. jtjb2kya} [12_933 bought] >NL< 12_670 Logs (53G each) {ID. jtikz3z7} [2_973 bought] >NL< 200_000 Logs (52G each) {ID. jte8k7vw} [1 bought] >NL< 30_000 Logs (33G each) {ID. jtd4v033} [2_008 bought] >NL< 250_000 Logs (51G each) {ID. jsvf17x9} [6_684 bought] >NL#===============================================#```
+560624198444122113,dawangk,4,/adv
+560624200000208912,DiscordRPG,348,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL- Lost 8 HP.NL+ Dealt 12 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 67/187 HP leftNL+ dawangk has 354/400 HP left.NL+ The enemy Zarth has 117/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560624258800418834,dawangk,6,/pheal
+560624260352311316,DiscordRPG,67,dawangk used a Health Potion and healed their pet 50HP. (117/187HP)
+560624273329225743,dawangk,4,/adv
+560624274931580980,DiscordRPG,348,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 1NL- Lost 8 HP.NL+ Dealt 11 HP DamageNL+ Hulp dealt 7 HP damage.NL- Hulp took 4 HP Damage.NL+ Hulp has 113/187 HP leftNL+ dawangk has 346/400 HP left.NL+ The enemy Zarth has 99/135 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560624313519046676,DiscordRPG,33,Query timed out after 60 seconds.
+560624429936279563,DiscordRPG,33,Query timed out after 60 seconds.
+560624945315577856,DEAD CROWS,2,hi
+560624955105214464,Highnatzu,4,/adv
+560624956740730890,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 7 HP.NL+ Dealt 15 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 232/400 HP left.NL+ The enemy Lurght has 115/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560625007009595412,Highnatzu,7,/search
+560625008347447306,DiscordRPG,37,You search the location_ Highnatzu...
+560625017247760425,Highnatzu,5,/mine
+560625018976075813,DiscordRPG,64,⛏ Highnatzu found 5 Iron Ores_ 1 XP and 2 skill XP while mining.
+560625022486708244,Highnatzu,5,/chop
+560625023988269066,DiscordRPG,79,🌲 Highnatzu went to chop some wood and got 5 Regular logs_ 2 XP and 1 skill XP.
+560625024214499338,DEAD CROWS,22,can i play with u guys
+560625024264962067,Highnatzu,7,/forage
+560625026177695744,DiscordRPG,64,🍂 Highnatzu went foraging and got 5 Lemons_ 2 XP and 1 skill XP.
+560625028496883733,Highnatzu,5,/fish
+560625029914820638,Highnatzu,4,/adv
+560625030309085205,DiscordRPG,48,🎣 Highnatzu caught a Snail_ 2 XP and 1 skill XP.
+560625031236026408,DiscordRPG,335,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 6NL- Lost 7 HP.NL+ Dealt 15 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 225/400 HP left.NL+ The enemy Lurght has 100/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
