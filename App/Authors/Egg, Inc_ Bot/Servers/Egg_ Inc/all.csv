@@ -88,3 +88,4 @@ ID,Channel,Content Length,Content
 560646734192050196,bot-commands,49,e!e!calc does not have a help if it is a command.
 560646763845779466,bot-commands,248,```e!help Displays this commandNLe!calc calculates earnings bonusNLe!contract calculates how well you are doing for your contractNLe!coop shows a co-op code's infoNLe!coopad shows less of a co-op code's infoNLe!help [command] for help on that command```
 560646790618284228,bot-commands,199,```e!calc <Soul Eggs> <Prophecy Eggs> <Soul Food Research Level> <Prophecy Bonus Research Level>NLorNLe!calc <Soul Eggs> <Prophecy Eggs>NL<> Means optional (yes that does mean everything is optional)```
+560647609744752640,bot-commands,88,You will have produced approximately 1.115q eggs by the time the given time period ends.

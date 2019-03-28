@@ -91,3 +91,5 @@ ID,Author,Content Length,Content
 560646763845779466,Egg_ Inc. Bot,248,```e!help Displays this commandNLe!calc calculates earnings bonusNLe!contract calculates how well you are doing for your contractNLe!coop shows a co-op code's infoNLe!coopad shows less of a co-op code's infoNLe!help [command] for help on that command```
 560646790269894657,Dyasher,6,e!calc
 560646790618284228,Egg_ Inc. Bot,199,```e!calc <Soul Eggs> <Prophecy Eggs> <Soul Food Research Level> <Prophecy Bonus Research Level>NLorNLe!calc <Soul Eggs> <Prophecy Eggs>NL<> Means optional (yes that does mean everything is optional)```
+560647608616353802,Dyasher,54,e!contract 102.179b 5540 3d 105m 72t 20 1.26b  590.62b
+560647609744752640,Egg_ Inc. Bot,88,You will have produced approximately 1.115q eggs by the time the given time period ends.
