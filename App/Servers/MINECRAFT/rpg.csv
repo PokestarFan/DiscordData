@@ -1719,3 +1719,17 @@ ID,Author,Content Length,Content
 560650774107914250,Highnatzu,7,/searcg
 560650791577321514,Highnatzu,7,/search
 560650792999059456,DiscordRPG,37,You search the location_ Highnatzu...
+560650804936310785,Highnatzu,5,/mine
+560650806752182273,DiscordRPG,64,⛏ Highnatzu found 5 Iron Ores_ 2 XP and 1 skill XP while mining.
+560650815828787200,Highnatzu,4,/adv
+560650821751275530,DiscordRPG,346,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 4NL+ Critical hit!NL- Lost 8 HP.NL+ Dealt 26 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 146/400 HP left.NL+ The enemy Lurght was slain by Highnatzu!NL+ Rewards: 34 Gold and 26 XP.NL+ Pet Rock got 0 XP.NL!==========================================!```
+560650838037495808,Highnatzu,7,/forage
+560650839392256025,DiscordRPG,64,🌺 Highnatzu went foraging and got 5 Lemons_ 2 XP and 1 skill XP.
+560650855649378304,Highnatzu,5,/fish
+560650857037692929,DiscordRPG,89,🎣 Highnatzu caught a Tropical Fish_ 2 XP and 1 skill XP.NLHighnatzu Leveled up in Fishing!
+560650877766074368,Highnatzu,5,/chop
+560650879045468181,DiscordRPG,79,🌲 Highnatzu went to chop some wood and got 5 Regular logs_ 2 XP and 1 skill XP.
+560651009517551665,timtomothy,15,/gbsearch lemon
+560651012554096660,DiscordRPG,286,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 500_000 Lemons (131G each) {ID. jt1gyip1} [68_537 bought] >NL< 500_000 Lemons (120G each) {ID. jsybpdjy} [11_462 bought] >NL< 600 Lemons (30G each) {ID. jsw9cnde} [546 bought] >NL#===============================================#```
+560651145647751189,timtomothy,18,/gbsell jt1gyip1 6
+560651147069882378,DiscordRPG,64,timtomothy executed trade `jt1gyip1` (6 Lemons at 131 gold each)
