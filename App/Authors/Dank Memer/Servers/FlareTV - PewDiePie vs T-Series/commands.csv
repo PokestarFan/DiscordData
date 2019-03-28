@@ -5798,3 +5798,11 @@ ID,Content Length,Content
 560641601421049886,0,
 560641690566787082,0,
 560641732002316289,0,
+560641798104678432,183,You need at least **60 hours of work** in any job before you can work as a **Teacher**. You currently only have **0** hours.NLYou can see more work information by using `pls work info`
+560641829695914014,0,
+560641877393670174,274,<@416481679662645261> Congratulations_ you are now working as a **Fast Food Cook**!NLYou're required to work at least **1** times a day via `pls work`_ or you'll be fired.NLYou start now_ and your salary (the amount of coins you get per hour of work) is **90 coins per hour**.
+560641899401052170,177,**Work for Fast Food Cook** - Retype - Retype the following phrase below;NLType `W﻿o﻿u﻿l﻿d﻿ ﻿y﻿o﻿u﻿ ﻿l﻿i﻿k﻿e﻿ ﻿t﻿h﻿a﻿t﻿ ﻿w﻿i﻿t﻿h﻿ ﻿a﻿ ﻿s﻿i﻿d﻿e﻿ ﻿o﻿f﻿ ﻿f﻿o﻿o﻿t﻿ ﻿l﻿e﻿t﻿t﻿u﻿c﻿e﻿?﻿`
+560641945165234176,197,<@416481679662645261> You lost the mini-game because you didn't type the phrase correctly.NLNLHere are the mistakes you made:NL```diffNL+ pls workNL- Would you like that with a side of foot lettuce?NL```
+560641945471287306,170,**BOSS** Poor effort BiPolar Bear_ I expected better from you. I'm only going to give you `45` coins for that hour of work. I don't want to see this mistake happen again.
+560641946037649430,72,You need to wait **59 minutes and 49 seconds** until you can work again!
+560641956221288468,0,
