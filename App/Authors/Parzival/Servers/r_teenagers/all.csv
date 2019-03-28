@@ -12,3 +12,4 @@ ID,Channel,Content Length,Content
 560644374682271774,music,49,!play https://www.youtube.com/watch?v=eLa1S_gj9lM
 560645236565475328,music,97,!play https://www.youtube.com/watch?v=U2YNuB8TW8U&list=PL-ggnRACtDQ81igj_JRVURnyTN413m8dw&index=2
 560645394468700160,music,11,!remove all
+560649135917891598,music,6,!pause
