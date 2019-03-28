@@ -85,3 +85,6 @@ ID,Server,Channel,Content Length,Content
 560633844793868311,/r/ProgrammerHumor,programming,25,they only allow _letters_
 560633876490485761,/r/ProgrammerHumor,programming,11,and numbers
 560633987916103710,/r/ProgrammerHumor,programming,69,and that's possible because there's a thing called unicode categories
+560634698511024159,/r/ProgrammerHumor,programming,3,nah
+560634806703226890,/r/ProgrammerHumor,programming,29,regex: `[\p{L}][\p{L}\p{N}]+`
+560634860117426176,/r/ProgrammerHumor,programming,51,would you look at that_ an identifier parsing regex

@@ -61,3 +61,12 @@ ID,Channel,Content Length,Content
 560634485452963869,commands,13,pls gamble 50
 560634511273099274,commands,7,pls beg
 560634529589755934,commands,10,pls search
+560634582928719902,commands,11,pls deposit
+560634607452684288,commands,15,pls deposit all
+560634674100043822,commands,13,pls subscribe
+560634764458197005,commands,7,pls bal
+560634784167231499,commands,16,pls withdraw all
+560634819189538816,commands,14,pls gamble a;;
+560634840194613249,commands,14,pls gamble all
+560634857831661608,commands,7,pls beg
+560634884926734337,commands,14,pls gamble all

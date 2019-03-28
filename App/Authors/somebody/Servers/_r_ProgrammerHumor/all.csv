@@ -85,3 +85,6 @@ ID,Channel,Content Length,Content
 560633844793868311,programming,25,they only allow _letters_
 560633876490485761,programming,11,and numbers
 560633987916103710,programming,69,and that's possible because there's a thing called unicode categories
+560634698511024159,programming,3,nah
+560634806703226890,programming,29,regex: `[\p{L}][\p{L}\p{N}]+`
+560634860117426176,programming,51,would you look at that_ an identifier parsing regex
