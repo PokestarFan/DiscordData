@@ -789,3 +789,8 @@ ID,Author,Content Length,Content
 560641248298532864,FPSKoda4,17,So uh... Nothing?
 560641337897123851,Cooslur,14,the rest works
 560641356100272132,Cooslur,10,also what?
+560641377474576395,BigFatKat,57,<@318113640333049856> working on it gotta run paper first
+560641425604083713,whoms,2,Ye
+560641466712588304,whoms,63,When you download it_ run the server once per doubleclick on it
+560641565182132224,whoms,99,It will create the EULA file_ change `Eula=false` to `Eula=true` and then start it from a start.bat
+560641700326801439,BigFatKat,168,```C:\Users\minig\Desktop\mc>java -jar paper-1610 (1).jarNLError: Unable to access jarfile paper-1610NLNLC:\Users\minig\Desktop\mc>pauseNLPress any key to continue . . .```

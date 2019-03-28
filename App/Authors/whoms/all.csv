@@ -118,3 +118,6 @@ ID,Server,Channel,Content Length,Content
 560639423788613632,MINECRAFT,support,64,and: https://twitter.com/MojangStatus/status/1110674379560677377
 560639709399744543,MINECRAFT,support,46,Maybe it was a world which was opened in 1.11?
 560640251543158785,MINECRAFT,support,579,If you need further help with your Realm_ you need to contact customer support. This is community support and I am not associated with Mojang or Microsoft.NLNLInclude your Xbox Gamertag and your Realms name - Describe your issue and ask for a reset of your Realm. NLNLhttps://help.mojang.com/customer/portal/emails/newNLNLNote that customer support is about 1 month behind in replying right now_ if you loose Realms playtime because of this_ ask Mojang about a compensation for your lost time on the realm. https://help.mojang.com/customer/portal/articles/359446-when-will-i-hear-back-
+560641425604083713,MINECRAFT,technical-java,2,Ye
+560641466712588304,MINECRAFT,technical-java,63,When you download it_ run the server once per doubleclick on it
+560641565182132224,MINECRAFT,technical-java,99,It will create the EULA file_ change `Eula=false` to `Eula=true` and then start it from a start.bat
