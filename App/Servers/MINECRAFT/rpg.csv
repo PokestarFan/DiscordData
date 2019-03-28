@@ -1644,3 +1644,10 @@ ID,Author,Content Length,Content
 560636409002590228,Momora,16,/assign health 5
 560636410151960596,DiscordRPG,46,You're too tired to do that Momora (6 seconds)
 560636426316677120,Momora,7,Shut up
+560637067437146123,dawangk,4,/adv
+560637069349879808,DiscordRPG,367,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 2NL+ Critical hit!NL- Lost 11 HP.NL+ Dealt 24 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 5 HP Damage.NL+ Hulp has 101/187 HP leftNL+ dawangk has 320/400 HP left.NL+ The enemy Leirgth has 16/200 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560637092896571443,dawangk,7,//pheal
+560637100534267904,dawangk,6,/pheal
+560637102056931339,DiscordRPG,67,dawangk used a Health Potion and healed their pet 50HP. (151/187HP)
+560637110932209664,dawangk,5,/heal
+560637112324456458,DiscordRPG,54,dawangk used a Health Potion and got 50HP. (370/400HP)
