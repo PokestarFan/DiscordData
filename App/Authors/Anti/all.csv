@@ -29,3 +29,7 @@ ID,Server,Channel,Content Length,Content
 560630518572646411,/r/ProgrammerHumor,programming,185,The interesting bit was I wound up in a situation where I can start identifiers with numbers_ which is only interesting because I don't recall seeing any serious languages ever do that.
 560630532661313536,/r/ProgrammerHumor,programming,17,But it's trivial.
 560630618539687949,/r/ProgrammerHumor,programming,44,So I'm wondering why that isn't more common.
+560630941073276929,/r/ProgrammerHumor,programming,5,Well.
+560631096358993930,/r/ProgrammerHumor,programming,67,If someone makes a variable like 0x1af6gfe43_ that's his own fault.
+560631123722633216,/r/ProgrammerHumor,programming,40,Just like using single letter variables.
+560631169050214401,/r/ProgrammerHumor,programming,63,Or variables whose names have nothing to do with their purpose.
