@@ -1634,3 +1634,13 @@ ID,Author,Content Length,Content
 560635966943920129,DiscordRPG,334,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 3NL- Lost 9 HP.NL+ Dealt 12 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 179/400 HP left.NL+ The enemy Lurght has 44/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
 560635983528198145,dawangk,4,/adv
 560635985965088768,DiscordRPG,351,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 10 HP.NL+ Dealt 14 HP DamageNL+ Hulp dealt 5 HP damage.NL- Hulp took 5 HP Damage.NL+ Hulp has 111/187 HP leftNL+ dawangk has 340/400 HP left.NL+ The enemy Leirgth has 66/200 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560636237963329547,dawangk,4,/adv
+560636240102162443,DiscordRPG,350,```diffNL!========[ dawangk's Adventure ]========!NL% Rolled a 4NL- Lost 9 HP.NL+ Dealt 14 HP DamageNL+ Hulp dealt 6 HP damage.NL- Hulp took 5 HP Damage.NL+ Hulp has 106/187 HP leftNL+ dawangk has 331/400 HP left.NL+ The enemy Leirgth has 46/200 HP left.NL!========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560636323082403881,Momora,12,/adventure 1
+560636324172791820,DiscordRPG,36,Momora_ please get your stats first.
+560636335732293647,Momora,6,/stats
+560636336978264065,DiscordRPG,527,```diffNL!======== [Momora's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!==================================!```
+560636390094798858,Momora,15,/assign power 5
+560636409002590228,Momora,16,/assign health 5
+560636410151960596,DiscordRPG,46,You're too tired to do that Momora (6 seconds)
+560636426316677120,Momora,7,Shut up
