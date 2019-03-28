@@ -1021,3 +1021,10 @@ ID,Author,Channel,Content Length,Content
 560646442310696960,🐢🐊,memes,1,☢
 560646465706524692,hatsune miku,offtopic,7,Hi sass
 560646467115548673,Pokécord,safari-zone,0,
+560646733839859732,Dyasher,bot-commands,13,e!help e!calc
+560646734192050196,Egg_ Inc. Bot,bot-commands,49,e!e!calc does not have a help if it is a command.
+560646735303802902,Pokécord,safari-zone,0,
+560646763565023232,Dyasher,bot-commands,6,e!help
+560646763845779466,Egg_ Inc. Bot,bot-commands,248,```e!help Displays this commandNLe!calc calculates earnings bonusNLe!contract calculates how well you are doing for your contractNLe!coop shows a co-op code's infoNLe!coopad shows less of a co-op code's infoNLe!help [command] for help on that command```
+560646790269894657,Dyasher,bot-commands,6,e!calc
+560646790618284228,Egg_ Inc. Bot,bot-commands,199,```e!calc <Soul Eggs> <Prophecy Eggs> <Soul Food Research Level> <Prophecy Bonus Research Level>NLorNLe!calc <Soul Eggs> <Prophecy Eggs>NL<> Means optional (yes that does mean everything is optional)```
