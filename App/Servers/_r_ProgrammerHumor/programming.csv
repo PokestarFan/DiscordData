@@ -178,3 +178,15 @@ ID,Author,Content Length,Content
 560631123722633216,Anti,40,Just like using single letter variables.
 560631169050214401,Anti,63,Or variables whose names have nothing to do with their purpose.
 560631237266636830,somebody,3,...
+560631292186591242,somebody,53,when would naming a variable like that ever be useful
+560631307693195292,Anti,9,It's not.
+560631317255946249,Anti,16,That's my point.
+560631324113895454,somebody,7,exactly
+560631369730883594,somebody,56,which means it _shouldn't be allowed_ in the first place
+560631384083791909,Anti,3,Uh.
+560631386906689554,Anti,3,No.
+560631405990772746,Anti,29,That was an exaggerated case.
+560631417097420801,somebody,62,programming languages aren't designed to make your life harder
+560631484097232896,Anti,43,But I might want something like 2hard2code.
+560631542888792105,somebody,31,don't really need numbers there
+560631544281300993,Anti,39,In that case it's not confusing at all.
