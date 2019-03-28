@@ -1703,3 +1703,8 @@ ID,Author,Content Length,Content
 560647729085415445,DiscordRPG,79,🌳 Highnatzu went to chop some wood and got 5 Regular logs_ 1 XP and 1 skill XP.
 560647746894299136,Highnatzu,4,/adv
 560647749155029002,DiscordRPG,334,```diffNL!========[ Highnatzu's Adventure ]========!NL% Rolled a 5NL- Lost 8 HP.NL+ Dealt 14 HP DamageNL- Pet Rock took 4 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ Highnatzu has 162/400 HP left.NL+ The enemy Lurght has 18/185 HP left.NL!==========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560650356372275200,timtomothy,4,/inv
+560650357542486016,DiscordRPG,209,```diffNL!===== [timtomothy's Inventory (Page 1/1)] =====!NL+ 945 Gold.NL+ 1 x Small DaggerNL+ 6 x RocksNL+ 2 x Iron OresNL+ 2 x LogsNL+ 2 x Rock SaltNL+ 4 x LemonsNL!===============================================!```
+560650394645168149,timtomothy,6,/stats
+560650395995734016,DiscordRPG,411,```diffNL!======== [timtomothy's Stats] ========!NL+ Health: 30/100HP.NL+ Inventory is in /invNL+ Weapon: Iron SwordNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 2 | (78/150 XP)NL+ 945 GoldNL+ Slain 0 times. Killed 13 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!======================================!```
+560650427180384257,DiscordRPG,33,Query timed out after 15 seconds.
