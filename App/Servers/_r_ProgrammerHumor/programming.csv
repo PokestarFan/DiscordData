@@ -238,3 +238,8 @@ ID,Author,Content Length,Content
 560635891538722821,somebody,35,but those that do... yes. of course
 560635951152627712,somebody,83,most languages have a regex engine powerful enough to handle that already anyway...
 560635971993862154,somebody,27,why not take advantage of i
+560954752565903404,emccue,37,its fascinating the power of defaults
+560954801463099393,emccue,47,scala case classes have the worst toString ever
+560954840210210843,emccue,25,but people never touch it
+560954921818521600,emccue,27,`Thing(1_ 3_ apples_ 3_ 5)`
+560954941179428865,emccue,24,real clear_ thanks scala

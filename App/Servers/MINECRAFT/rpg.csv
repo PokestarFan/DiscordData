@@ -1817,3 +1817,13 @@ ID,Author,Content Length,Content
 560952028503736397,DiscordRPG,339,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 2NL+ Critical hit!NL- Lost 3 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 32/50 HP leftNL+ Peyton has 45/50 HP left.NL+ The enemy Oglurth has 30/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
 560953728731971586,Peyton,4,/adv
 560953733064949772,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 5NL- Lost 2 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 30/50 HP leftNL+ Peyton has 41/50 HP left.NL+ The enemy Oglurth has 23/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560954873584156697,Peyton,4,/adv
+560954874955825173,DiscordRPG,323,```diffNL!========[ Peyton's Adventure ]========!NL% Rolled a 3NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL+ Pet Rock has 29/50 HP leftNL+ Peyton has 39/50 HP left.NL+ The enemy Oglurth has 20/40 HP left.NL!=======================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560955096649826304,pjhom,12,/adventure 1
+560955098164101120,DiscordRPG,32,pjhom abandoned their adventure.
+560955112680325122,pjhom,6,/stats
+560955114446127114,DiscordRPG,395,```diffNL!======== [pjhom's Stats] ========!NL+ Health: 40/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!=================================!```
+560955174299107332,pjhom,7,/assign
+560955175632896054,DiscordRPG,48,pjhom_ please tell me what you'd like to assign.
+560955205705924629,pjhom,16,/assign strength
+560955207198965784,DiscordRPG,40,Recovering pjhom's stamina in 2 seconds.
