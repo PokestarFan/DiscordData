@@ -6,3 +6,5 @@ ID,Channel,Content Length,Content
 560625187469656074,programming,47,```NL0xafe_starts_with_a_number :int = 0xafe;```
 560625237847310336,programming,19,Tokenizer's output:
 560625277525426196,programming,468,```NLLine:                        Token:                   Token Type:NL00001    0xafe_starts_with_a_number                  ALPHANUMERICNL00001                             :                   TYPE_MARKERNL00001                           int                  ALPHANUMERICNL00001                             =                    ASSIGNMENTNL00001                         0xafe           HEXADECIMAL_LITERALNL00001                             ;                   END_OF_LINE```
+560625674063183872,programming,205,My thinking is I can define numbers in the grammar in such a way that the parser looks for BINARY_LITERAL_ HEXADECIMAL_LITERAL_ or DECIMAL_LITERAL tokens instead of caring about the contents of the tokens.
+560625744573759489,programming,80,'Cause the lexer already ensures those will be put together and tagged properly.

@@ -590,3 +590,9 @@ ID,Author,Channel,Content Length,Content
 560625402247380995,SnakePin,general-discussions,44,I am something of a software engineer myself
 560625456005775362,SnakePin,general-discussions,30,<:thinkies:493429957121540109>
 560625481519464448,AwkwardPsyche,general-discussions,10,*sage nod*
+560625593549586442,AwkwardPsyche,general-discussions,22,Also_ GRWL is awesome.
+560625674063183872,Anti,programming,205,My thinking is I can define numbers in the grammar in such a way that the parser looks for BINARY_LITERAL_ HEXADECIMAL_LITERAL_ or DECIMAL_LITERAL tokens instead of caring about the contents of the tokens.
+560625744573759489,Anti,programming,80,'Cause the lexer already ensures those will be put together and tagged properly.
+560625805814923264,MemoryError,off-topic,1,k
+560625816187437066,MemoryError,off-topic,13,i'll try that
+560625882809761824,SnakePin,general-discussions,12,What is GRWL
