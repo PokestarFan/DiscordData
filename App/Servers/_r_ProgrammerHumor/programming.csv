@@ -251,3 +251,5 @@ ID,Author,Content Length,Content
 561009973140914207,emccue,61,so MyModel(None_ None_ None_ Some("")_ None_ false_ "REMOTE")
 561010020565909505,emccue,52,kinda a shitty representation when you want to debug
 561010139142815745,emccue,102,especially if your code is running a spark streaming job so you have to use Splunk to access your logs
+561010394500431872,modestas.ruksnaitis,47,Maybe one could write a macro to sort this out.
+561010598662373426,modestas.ruksnaitis,81,I'm kinda curious now though what kind of models have so many optional strings. 😛

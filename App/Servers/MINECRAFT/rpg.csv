@@ -2360,3 +2360,16 @@ ID,Author,Content Length,Content
 561010256432332801,Penturos,7,/assign
 561010258177163284,DiscordRPG,51,Penturos_ please tell me what you'd like to assign.
 561010295854858270,Penturos,17,How do I do this?
+561010377018834984,timtomothy,28,/assign <attribute> <points>
+561010378448961551,DiscordRPG,65,timtomothy tried to assign an invalid amount of attribute points.
+561010416033988609,timtomothy,9,like that
+561010454948872192,Penturos,26,What attributes are there?
+561010468672503824,timtomothy,4,/adv
+561010469922537485,DiscordRPG,341,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 6NL- Lost 5 HP.NL+ Dealt 10 HP DamageNL- nuggethead took 3 HP Damage.NL+ nuggethead has 24/50 HP leftNL+ timtomothy has 95/150 HP left.NL+ The enemy Zarth has 118/135 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+561010495549865994,timtomothy,11,/attributes
+561010497055358976,DiscordRPG,293,```diffNL!===== [timtomothy's Attributes] =====!NL+ Criticals: 0 (+0%)NL+ Defense: 3 (-0 dmg)NL+ Gold Boost: 0 (+0%)NL+ Lumber Boost: 0 (+0)NL+ Mine Boost: 0NL+ Reaping: 0NL+ Salvaging: 0NL+ Scavenging: 0NL+ Strength: 7 (+0 dmg)NL+ Taming: 0NL+ XP Boost: 5 (+0%)NL!=====================================!```
+561010532006494236,timtomothy,5,those
+561010538675699723,Penturos,14,I'm so stupid!
+561010567209418782,timtomothy,2,xD
+561010582980001812,timtomothy,4,/adv
+561010584628363274,DiscordRPG,340,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 4NL- Lost 6 HP.NL+ Dealt 8 HP DamageNL- nuggethead took 3 HP Damage.NL+ nuggethead has 21/50 HP leftNL+ timtomothy has 89/150 HP left.NL+ The enemy Zarth has 110/135 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
