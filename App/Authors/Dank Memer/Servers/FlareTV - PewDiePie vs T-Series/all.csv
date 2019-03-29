@@ -6805,3 +6805,9 @@ ID,Channel,Content Length,Content
 560998708699987978,commands,42,**Tom Brady** has donated 42 coins to you!
 560998736688447494,commands,57,**BED** You found 49 coins_ do you often sleep like this?
 560998778002210826,commands,53,**Flo from Progressive** has donated 29 coins to you!
+560998794804854784,commands,0,
+560998857056452628,commands,100,Your argument should be either a number and no more than what you have in your wallet (68)_ or `max`
+560998889939927042,commands,22,**68** coins deposited
+560999086858174464,commands,0,
+560999106630123550,commands,20,500 coins withdrawn.
+560999190038315018,commands,66,You were caught! You paid the person you stole from **500** coins.
