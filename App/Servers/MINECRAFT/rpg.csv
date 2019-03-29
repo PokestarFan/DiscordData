@@ -2385,3 +2385,20 @@ ID,Author,Content Length,Content
 561010960937123850,DiscordRPG,64,Penturos assigned 1 attribute points to their Defense attribute.
 561011469509197836,timtomothy,4,/inv
 561011471119810560,DiscordRPG,257,```diffNL!===== [timtomothy's Inventory (Page 1/1)] =====!NL+ 5_597 Gold.NL+ 8 x Health PotionsNL+ 1 x Iron SwordNL+ 24 x RocksNL+ 16 x Iron OresNL+ 20 x LogsNL+ 11 x Rock SaltNL+ 11 x Erinotite OresNL+ 18 x LemonsNL!===============================================!```
+561011505274028032,Penturos,4,/adv
+561011506825920516,DiscordRPG,325,```diffNL!========[ Penturos's Adventure ]========!NL% Rolled a 5NL- Lost 1 HP.NL+ Dealt 4 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Penturos has 49/50 HP left.NL+ The enemy Kloid has 36/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+561011538241126430,timtomothy,15,/gbsearch lemon
+561011541495906316,DiscordRPG,286,```mdNL#===== [Global Trades {Buying} (Page 1/1)] =====#NL< 500_000 Lemons (131G each) {ID. jt1gyip1} [72_579 bought] >NL< 500_000 Lemons (120G each) {ID. jsybpdjy} [11_472 bought] >NL< 600 Lemons (30G each) {ID. jsw9cnde} [546 bought] >NL#===============================================#```
+561011543223959562,DiscordRPG,33,Query timed out after 15 seconds.
+561011597477150720,Penturos,6,/adv 2
+561011599264055307,DiscordRPG,325,```diffNL!========[ Penturos's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Penturos has 47/50 HP left.NL+ The enemy Kloid has 33/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+561011639638425601,timtomothy,19,/gbsell jt1gyip1 18
+561011641282461716,DiscordRPG,65,timtomothy executed trade `jt1gyip1` (18 Lemons at 131 gold each)
+561011688816771102,Penturos,6,/adv 2
+561011690209148951,DiscordRPG,325,```diffNL!========[ Penturos's Adventure ]========!NL% Rolled a 4NL- Lost 2 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 1 HP Damage.NL- Pet Rock has 0/0 HP leftNL+ Penturos has 45/50 HP left.NL+ The enemy Kloid has 30/40 HP left.NL!=========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+561011698023268352,timtomothy,4,/adv
+561011699562446849,DiscordRPG,338,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 4NL- Lost 6 HP.NL+ Dealt 8 HP DamageNL- nuggethead took 3 HP Damage.NL- nuggethead has 4/50 HP leftNL+ timtomothy has 59/150 HP left.NL+ The enemy Zarth has 71/135 HP left.NL!===========================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+561011730776326144,Penturos,6,/adv 2
+561011731837485066,DiscordRPG,48,You're too tired to do that Penturos (4 seconds)
+561011736623185920,timtomothy,5,/mine
+561011738359889970,DiscordRPG,65,⛏ timtomothy found 3 Iron Ores_ 2 XP and 1 skill XP while mining.
