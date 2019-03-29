@@ -67,3 +67,6 @@ ID,Content Length,Content
 561002708018921482,7,Logging
 561002829007814684,53,Understanding what data was in a class before a crash
 561009688313856012,57,its for real life data where I have 5-10 Optional strings
+561009973140914207,61,so MyModel(None_ None_ None_ Some("")_ None_ false_ "REMOTE")
+561010020565909505,52,kinda a shitty representation when you want to debug
+561010139142815745,102,especially if your code is running a spark streaming job so you have to use Splunk to access your logs

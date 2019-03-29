@@ -248,3 +248,6 @@ ID,Author,Content Length,Content
 561002829007814684,emccue,53,Understanding what data was in a class before a crash
 561009509582110723,modestas.ruksnaitis,135,Is it like for case classes with more fields than short term memory can hold so one needs to have a constant reference for their names?
 561009688313856012,emccue,57,its for real life data where I have 5-10 Optional strings
+561009973140914207,emccue,61,so MyModel(None_ None_ None_ Some("")_ None_ false_ "REMOTE")
+561010020565909505,emccue,52,kinda a shitty representation when you want to debug
+561010139142815745,emccue,102,especially if your code is running a spark streaming job so you have to use Splunk to access your logs

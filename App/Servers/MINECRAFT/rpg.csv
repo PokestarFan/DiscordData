@@ -2340,3 +2340,23 @@ ID,Author,Content Length,Content
 561009889644904449,timtomothy,6,/stats
 561009890693480469,DiscordRPG,427,```diffNL!======== [timtomothy's Stats] ========!NL+ Health: 100/150HP.NL+ Inventory is in /invNL+ Weapon: Iron MaceNL+ Ring: None | Helmet: Red VisorNL+ Chestplate: Leather Belt | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 3 | (233/300 XP)NL+ 5_597 GoldNL+ Slain 0 times. Killed 22 enemies and 1 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!======================================!```
 561009928102346752,Penturos,3,._.
+561009940257439775,Prairie_Adminツ,5,/kill
+561009960075657261,Penturos,6,/stats
+561009961396862979,DiscordRPG,531,```diffNL!======== [Penturos's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!====================================!```
+561010004132364289,Prairie_Adminツ,27,/kill <@551668208713859072>
+561010015767363620,Penturos,6,/rules
+561010017424244766,DiscordRPG,825,:one: Using any kind of automated means_ including macros in order to send commands to DiscordRPG is strictly forbidden and doing so will result in you getting your character reset_ and/or a ban from the bot.NLCopy-Pasting of the commands are however allowed.NL:two: Abusing any kind of glitch or bug is a bannable offense.NL:three: Any kind of blackmailing is strictly forbidden.NL:four: Your account - Your responsibilityNL:five: Don't spam the commands.NL:six: Using real money or other bot currencies to buy gold or items off of another player is prohibited_ as is scamming players for gold or items. If this happens contact a member of the staff in the offical server.NL:seven: Using alternate accounts for personal gain or to bypass a ban is strictly forbidden.NLBreaking __**any**__ of these will result in a ban from the bot.
+561010097854218241,timtomothy,5,/mine
+561010099007651874,DiscordRPG,61,⛏ timtomothy found 3 Rocks_ 1 XP and 1 skill XP while mining.
+561010116569202690,timtomothy,7,/forage
+561010118314164224,DiscordRPG,65,🌷 timtomothy went foraging and got 3 Lemons_ 2 XP and 1 skill XP.
+561010130619990027,timtomothy,5,/chop
+561010132402831362,DiscordRPG,80,🌳 timtomothy went to chop some wood and got 3 Regular logs_ 2 XP and 2 skill XP.
+561010149209407489,timtomothy,7,/search
+561010150471893004,DiscordRPG,52,You search the location_ and find a Log_ timtomothy.
+561010168704532480,timtomothy,4,/inv
+561010169861898242,DiscordRPG,257,```diffNL!===== [timtomothy's Inventory (Page 1/1)] =====!NL+ 5_597 Gold.NL+ 8 x Health PotionsNL+ 1 x Iron SwordNL+ 24 x RocksNL+ 16 x Iron OresNL+ 20 x LogsNL+ 11 x Rock SaltNL+ 11 x Erinotite OresNL+ 18 x LemonsNL!===============================================!```
+561010242712764417,DiscordRPG,33,Query timed out after 15 seconds.
+561010256432332801,Penturos,7,/assign
+561010258177163284,DiscordRPG,51,Penturos_ please tell me what you'd like to assign.
+561010295854858270,Penturos,17,How do I do this?
