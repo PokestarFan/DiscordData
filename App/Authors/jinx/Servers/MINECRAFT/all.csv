@@ -25,3 +25,8 @@ ID,Channel,Content Length,Content
 560984317556293632,off-topic,21,Looking for some help
 560985430686695444,technical-java,73,can I ask about VPS stuff in here? and server help or a different channel
 560985715589251086,technical-java,6,dangit
+560985833138683922,technical-java,3,yay
+560985943125786652,technical-java,72,Im pretty new to this and just trying to make a small server for friends
+560986002609537024,technical-java,77,but when im in putty and try to download java it says the commands dont exist
+560986021622317056,technical-java,36,I ran yum install java-1.8.0-openjdk
+560986031072215040,technical-java,39,and sudo yum install java-1.8.0-openjdk
