@@ -724,3 +724,5 @@ ID,Author,Channel,Content Length,Content
 560998508774162511,modestas.ruksnaitis,programming,282,Not a big deal_ IMHO. In my experience_ if I need to be stringifying a class I'd have worked with it enough to know what the fields are and just need to quickly see the values. Have any situations cropped up for you where it's important to learn the fields from the stringification?
 561002708018921482,emccue,programming,7,Logging
 561002829007814684,emccue,programming,53,Understanding what data was in a class before a crash
+561009509582110723,modestas.ruksnaitis,programming,135,Is it like for case classes with more fields than short term memory can hold so one needs to have a constant reference for their names?
+561009688313856012,emccue,programming,57,its for real life data where I have 5-10 Optional strings
