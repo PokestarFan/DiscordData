@@ -2078,3 +2078,22 @@ ID,Author,Content Length,Content
 560977570036973569,DiscordRPG,351,```diffNL!========[ ╲⎝⧹🍀 XTG72 🦁⧸⎠╱'s Adventure ]========!NL% Rolled a 2NL- Lost 5 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 3 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ ╲⎝⧹🍀 XTG72 🦁⧸⎠╱ has 37/50 HP left.NL+ The enemy Octocat has 34/55 HP left.NL!==================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
 560977649439342604,╲⎝⧹🍀 XTG72 🦁⧸⎠╱,4,/inv
 560977650986909707,DiscordRPG,167,```diffNL!===== [╲⎝⧹🍀 XTG72 🦁⧸⎠╱'s Inventory (Page 1/1)] =====!NL+ 35 Gold.NL+ 4 x Health PotionsNL+ 8 x LemonsNL!======================================================!```
+560977698294464513,╲⎝⧹🍀 XTG72 🦁⧸⎠╱,12,/adventure 2
+560977700043358266,DiscordRPG,351,```diffNL!========[ ╲⎝⧹🍀 XTG72 🦁⧸⎠╱'s Adventure ]========!NL% Rolled a 2NL- Lost 5 HP.NL+ Dealt 2 HP DamageNL- Pet Rock took 3 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ ╲⎝⧹🍀 XTG72 🦁⧸⎠╱ has 32/50 HP left.NL+ The enemy Octocat has 32/55 HP left.NL!==================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560977773687078913,QUniversals,12,/adventure 1
+560977774983118849,DiscordRPG,41,QUniversals_ please get your stats first.
+560977799826112512,timtomothy,4,/adv
+560977801579331585,DiscordRPG,354,```diffNL!========[ timtomothy's Adventure ]========!NL% Rolled a 5NL+ Critical hit!NL- Lost 2 HP.NL+ Dealt 18 HP DamageNL- nuggethead took 1 HP Damage.NL- nuggethead has 0/50 HP leftNL+ timtomothy has 113/150 HP left.NL+ The enemy Zerp was slain by timtomothy!NL+ Rewards: 10 Gold and 12 XP.NL+ nuggethead got 0 XP.NL!===========================================!```
+560977830289211416,timtomothy,6,/stats
+560977832134574080,DiscordRPG,422,```diffNL!======== [timtomothy's Stats] ========!NL+ Health: 113/150HP.NL+ Inventory is in /invNL+ Weapon: Iron MaceNL+ Ring: None | Helmet: NoneNL+ Chestplate: Leather Belt | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: PickaxeNL+ Axe: AxeNL+ Level 3 | (165/300 XP)NL+ 3_018 GoldNL+ Slain 0 times. Killed 19 enemies and 1 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!======================================!```
+560977839709618186,QUniversals,4,/adv
+560977841278156830,DiscordRPG,41,QUniversals_ please get your stats first.
+560977850468007936,╲⎝⧹🍀 XTG72 🦁⧸⎠╱,12,/adventure 2
+560977852225552394,DiscordRPG,351,```diffNL!========[ ╲⎝⧹🍀 XTG72 🦁⧸⎠╱'s Adventure ]========!NL% Rolled a 3NL- Lost 4 HP.NL+ Dealt 3 HP DamageNL- Pet Rock took 2 HP Damage.NL- Pet Rock has 0/50 HP leftNL+ ╲⎝⧹🍀 XTG72 🦁⧸⎠╱ has 28/50 HP left.NL+ The enemy Octocat has 29/55 HP left.NL!==================================================!```NLType `/adventure 1` to run_ or `/adventure 2` to continue.
+560977878607462422,timtomothy,5,/mine
+560977880482447380,DiscordRPG,70,⛏ timtomothy found 2 Erinotite Ores_ 1 XP and 1 skill XP while mining.
+560977881594069023,QUniversals,17,How do I do this?
+560977904440442909,timtomothy,7,/forage
+560977905979621391,DiscordRPG,65,🍀 timtomothy went foraging and got 3 Lemons_ 2 XP and 2 skill XP.
+560977963273682944,╲⎝⧹🍀 XTG72 🦁⧸⎠╱,6,/stats
+560977964657934336,DiscordRPG,419,```diffNL!======== [╲⎝⧹🍀 XTG72 🦁⧸⎠╱'s Stats] ========!NL+ Health: 28/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (26/50 XP)NL+ 35 GoldNL+ Slain 0 times. Killed 9 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!=============================================!```
