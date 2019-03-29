@@ -6312,3 +6312,8 @@ ID,Content Length,Content
 560983404049596417,0,
 560983978522312704,0,
 560984018498093066,74,**Handy dandy tip**: We've got over 260 commands_ have you tried them all?
+560984341614952458,0,
+560984471818469377,131,this is not a valid format!NLYou need to specify a hex (Example: `000000`) or RGB (Example: `100_ 100_ 100`) color for this command.
+560984497466638377,131,this is not a valid format!NLYou need to specify a hex (Example: `000000`) or RGB (Example: `100_ 100_ 100`) color for this command.
+560984662160441377,131,this is not a valid format!NLYou need to specify a hex (Example: `000000`) or RGB (Example: `100_ 100_ 100`) color for this command.
+560984691898056707,0,
