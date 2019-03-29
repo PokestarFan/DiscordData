@@ -6750,3 +6750,7 @@ ID,Channel,Content Length,Content
 560984662160441377,commands,131,this is not a valid format!NLYou need to specify a hex (Example: `000000`) or RGB (Example: `100_ 100_ 100`) color for this command.
 560984691898056707,commands,0,
 560984955878899723,commands,57,**GRASS** You found 64 coins_ luckily you didn't eat them
+560985145604177945,commands,131,this is not a valid format!NLYou need to specify a hex (Example: `000000`) or RGB (Example: `100_ 100_ 100`) color for this command.
+560985299736330282,commands,36,**Kim Jong Un**: you get **NOTHING**
+560985319508410399,commands,116,**DUMPSTER** You didn't find any coins.NLBut hey_ at least you found 1 <:bread:503922290791284736> **Day old Bread**!
+560985322234839060,commands,47,That item doesn't even exist what are you doing
