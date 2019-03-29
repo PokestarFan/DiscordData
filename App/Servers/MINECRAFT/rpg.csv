@@ -2097,3 +2097,9 @@ ID,Author,Content Length,Content
 560977905979621391,DiscordRPG,65,🍀 timtomothy went foraging and got 3 Lemons_ 2 XP and 2 skill XP.
 560977963273682944,╲⎝⧹🍀 XTG72 🦁⧸⎠╱,6,/stats
 560977964657934336,DiscordRPG,419,```diffNL!======== [╲⎝⧹🍀 XTG72 🦁⧸⎠╱'s Stats] ========!NL+ Health: 28/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (26/50 XP)NL+ 35 GoldNL+ Slain 0 times. Killed 9 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 0 points.NL!=============================================!```
+560978912260390913,Logan,6,/stats
+560978913459830795,DiscordRPG,525,```diffNL!======== [Logan's Stats] ========!NL% Welcome new player. Please use /assign <attribute> <points> to assign your 5 attribute points.NL% Be sure to read the rules too.NL+ Health: 50/50HP.NL+ Inventory is in /invNL+ Weapon: Small DaggerNL+ Ring: None | Helmet: NoneNL+ Chestplate: None | Boots: NoneNL+ Necklace: NoneNL+ Fishing Rod: None | Pickaxe: NoneNL+ Axe: NoneNL+ Level 1 | (0/50 XP)NL+ 0 GoldNL+ Slain 0 times. Killed 0 enemies and 0 players.NL+ Quest Points: 0NL+ Unassigned: 5 points.NL!=================================!```
+560979069643259923,Logan,24,/assign attribute points
+560979071010603009,DiscordRPG,60,Logan tried to assign an invalid amount of attribute points.
+560979140296048646,Logan,26,/assign 5 attribute points
+560979141390761995,DiscordRPG,60,Logan tried to assign an invalid amount of attribute points.
