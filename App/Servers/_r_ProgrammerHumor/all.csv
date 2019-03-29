@@ -731,3 +731,4 @@ ID,Author,Channel,Content Length,Content
 561010139142815745,emccue,programming,102,especially if your code is running a spark streaming job so you have to use Splunk to access your logs
 561010394500431872,modestas.ruksnaitis,programming,47,Maybe one could write a macro to sort this out.
 561010598662373426,modestas.ruksnaitis,programming,81,I'm kinda curious now though what kind of models have so many optional strings. 😛
+561010950384123924,emccue,programming,61,There is a feature of 2.13 which allows you to write a helper

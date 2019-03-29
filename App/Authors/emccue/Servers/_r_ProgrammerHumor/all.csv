@@ -119,3 +119,4 @@ ID,Channel,Content Length,Content
 561009973140914207,programming,61,so MyModel(None_ None_ None_ Some("")_ None_ false_ "REMOTE")
 561010020565909505,programming,52,kinda a shitty representation when you want to debug
 561010139142815745,programming,102,especially if your code is running a spark streaming job so you have to use Splunk to access your logs
+561010950384123924,programming,61,There is a feature of 2.13 which allows you to write a helper
