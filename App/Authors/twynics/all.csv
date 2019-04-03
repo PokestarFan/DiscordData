@@ -1,4 +1,0 @@
-ID,Server,Channel,Content Length,Content
-559002237859397634,MINECRAFT,technical-java,204,Hey_ does anybody know how I could modify the packets I send so that the second and third hit I land on someone is delayed? So for example: Hit 1: Not delayed Hit 2: Delayed by 30ms Hit 3: Delayed by 70ms
-559002304871661584,MINECRAFT,technical-java,90,This would allow for some interesting combos. I'd like to leaern if there's a way to do it
-559034899491848202,MINECRAFT,technical-java,40,To delay the 2nd and 3rd hit on a player

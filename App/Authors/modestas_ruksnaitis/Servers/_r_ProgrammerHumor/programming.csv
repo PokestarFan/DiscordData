@@ -1,6 +1,0 @@
-ID,Content Length,Content
-560998508774162511,282,Not a big deal_ IMHO. In my experience_ if I need to be stringifying a class I'd have worked with it enough to know what the fields are and just need to quickly see the values. Have any situations cropped up for you where it's important to learn the fields from the stringification?
-561009509582110723,135,Is it like for case classes with more fields than short term memory can hold so one needs to have a constant reference for their names?
-561010394500431872,47,Maybe one could write a macro to sort this out.
-561010598662373426,81,I'm kinda curious now though what kind of models have so many optional strings. 😛
-561011945314975754,121,Heh_ I had a coworker who got pretty good at them because of how convenient they were for shortening certain boilerplate.

@@ -1,2 +1,0 @@
-ID,Content Length,Content
-560627958860218388,88,The way I (badly) did it was a Token struct with an enum for type and a string for value

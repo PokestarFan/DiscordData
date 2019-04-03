@@ -1,5 +1,0 @@
-ID,Content Length,Content
-558431378488819742,80,It’s writable_book and what do you mean by “custom book” and “clickable links” ?
-558433444896702484,438,Well I have a question (unrelatedly to books n server issues): I’m making a shop and I know how to make a shop where the first command block is /clear @p item/block 0 1 and the second would be  /give @p block/item. But even when I do that_ if the player still does not have the item from the first command block_ the second command block still gives the player an item?? So I need a new shop idea that works or revise the one I mentioned.
-558433939711328256,35,Replacing the first command block ?
-558434505157771264,11,Ok_ thanks!
