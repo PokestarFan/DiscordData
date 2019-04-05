@@ -1,14 +1,18 @@
 import logging  # the logging commands
 import logging.handlers  # used for logging
 import os
+from datetime import datetime
 
+import aiofiles
+import aiohttp
 import discord
+import halo
 from colorlog import ColoredFormatter  # used for logging
 
 from login import email, password
 
 
-def _setup(name='PokestarBot', dir=None):
+def _setup(name='PokestarBot', dir=None, append=True, _stream=True):
     if dir is not None:
         os.chdir(dir)
     log_format = "[%(log_color)s%(asctime)s%(reset)s] {%(log_color)s%(pathname)s:%(lineno)d%(reset)s} | " \
@@ -22,9 +26,15 @@ def _setup(name='PokestarBot', dir=None):
     log = logging.getLogger(name)
 
     log.setLevel(logging.DEBUG)
-    log.addHandler(stream)
+    if _stream:
+        log.addHandler(stream)
 
-    fh = logging.FileHandler(r'%s_app.log' % name)
+    fn = r'%s_app.log' % name
+    if not append:
+        if os.path.isfile(fn):
+            while os.path.isfile(fn):
+                fn = '_' + fn
+    fh = logging.FileHandler(fn, encoding='utf-8')
     fh.setLevel(logging.DEBUG)
     fh.setFormatter(logging.Formatter(fmt=file_format))
     log.addHandler(fh)
@@ -33,10 +43,11 @@ def _setup(name='PokestarBot', dir=None):
         os.chdir("..")
     return log
 
-
 if __name__ == '__main__':
     logger = _setup()
     os.chdir("App")
+    cs = aiohttp.ClientSession()
+    
 
 
 def multmkdir(dir, logger):
@@ -61,8 +72,9 @@ def chmkdir(name, lgr=None):
 
 
 if __name__ == '__main__':
-    chmkdir("Servers")
-    chmkdir("Authors")
+    # chmkdir("Servers")
+    # chmkdir("Authors")
+    chmkdir("Attachments")
 
 
 def check_if_exists(filename, heading, text):
@@ -76,7 +88,7 @@ def check_if_exists(filename, heading, text):
     finally:
         with open(filename, 'a', encoding='utf-8') as file:
             file.write(text)
-            # logger.info("%s had %s written to it",filename,text)
+            #logger.info("%s had %s written to it",filename,text)
 
 
 client = discord.Client()
@@ -91,13 +103,15 @@ def return_csv_form(*args):
     return s
 
 
-def format_msg(m):
-    id = m.id
-    server = m.server.name
+async def format_msg(m):
+    _id = m.id
+    s = m.server
+    server = s.name if s is not None else 'DM'
     channel = m.channel.name
     author = m.author.name
     content = m.content
     content_length = len(content)
+    """
     server_dir = "Servers\\%s" % server
     server_dir = server_dir.replace("/", "_").replace(",", "_").replace(":", "_")
     server_all = server_dir + '\\all.csv'
@@ -108,20 +122,32 @@ def format_msg(m):
     author_server_dir = author_dir + '\\' + server_dir
     author_server_all = author_server_dir + '\\all.csv'
     author_server_channel = author_dir + '\\' + channel_dir
+    """
     with open("all_all.csv", "a", encoding='utf-8') as a:
-        a.write(return_csv_form(id, author, server, channel, content_length, content))
+        a.write(return_csv_form(_id, author, server, channel, content_length, content))
+    # """
+    attachments = 'Attachments\\' + server
+    attachments = attachments.replace("/", "_").replace(",", "_").replace(":", "_")
+    chmkdir(attachments)
+    for a, i in enumerate(m.attachments):
+        async with cs.get(i['url']) as f:
+            file = await aiofiles.open(attachments + '\\' + str(_id) + '_' + str(a) + '.png', mode='wb')
+            await file.write(await f.read())
+    # """
+    """
     chmkdir(server_dir)
     check_if_exists(server_all, "ID,Author,Channel,Content Length,Content",
-                    return_csv_form(id, author, channel, content_length, content))
+                    return_csv_form(_id, author, channel, content_length, content))
     check_if_exists(channel_dir, "ID,Author,Content Length,Content",
-                    return_csv_form(id, author, content_length, content))
+                    return_csv_form(_id, author, content_length, content))
     chmkdir(author_dir)
     check_if_exists(author_all, "ID,Server,Channel,Content Length,Content",
-                    return_csv_form(id, server, channel, content_length, content))
+                    return_csv_form(_id, server, channel, content_length, content))
     chmkdir(author_server_dir)
     check_if_exists(author_server_all, "ID,Channel,Content Length,Content",
-                    return_csv_form(id, channel, content_length, content))
-    check_if_exists(author_server_channel, "ID,Content Length,Content", return_csv_form(id, content_length, content))
+                    return_csv_form(_id, channel, content_length, content))
+    check_if_exists(author_server_channel, "ID,Content Length,Content", return_csv_form(_id, content_length, content))
+    """
 
 
 @client.event
@@ -129,13 +155,23 @@ async def on_ready():
     print("Ready!")
 
 
+# noinspection PyGlobalUndefined,PyBroadException
 @client.event
 async def on_message(message):
-    try:
-        format_msg(message)
-    except Exception:
-        logger.exception("Message with id %s could not formatted", message.id)
+    if (datetime.now() - now).seconds < 600:
+        try:
+            await format_msg(message)
+            # logger.info(count)
+            # count += 1
+        except Exception:
+            logger.exception("Message with id %s could not formatted", message.id)
+    else:
+        logger.warning("10 minutes have passed, exiting")
+        os._exit(0)
 
 
 if __name__ == '__main__':
+    now = datetime.now()
+    h = halo.Halo()
+    h.start()
     client.run(email, password)

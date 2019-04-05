@@ -21,7 +21,7 @@ if __name__ == '__main__':
                             jj = j
                             try:
                                 j = j[:-1]
-                                if j[0] in '0123456789I':
+                                if j[0] in '0123456789I' and ',' in j:
                                     g.append(j)
                             except Exception:
                                 # noinspection PyUnboundLocalVariable
