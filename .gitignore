@@ -114,3 +114,5 @@ login.py
 Backup/*
 App/Authors/con/*
 App/Attachments/*
+_App/*
+Reports/*
